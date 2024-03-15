@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>The Verge -  Sciences</title>
+  <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
+  <updated>2024-03-14T17:43:31-04:00</updated>
+  <id>https://www.theverge.com/rss/science/index.xml</id>
+  <link type="text/html" href="https://www.theverge.com/science" rel="alternate"/>
+  <entry>
+    <published>2024-03-14T17:43:31-04:00</published>
+    <updated>2024-03-14T17:43:31-04:00</updated>
+    <title>SpaceX successfully launched its Starship, but the vehicle was ‘lost’ after reentry</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="The SpaceX Starship rocket taking off from the Starbase launch facility in Boca Chica, Texas, at 9:25AM ET on March 14th, 2023." src="https://cdn.vox-cdn.com/thumbor/P8ZWs6kLBroVFVsUPVZKeyNGJhk=/93x0:2384x1527/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73206486/Screenshot_2024_03_14_132749.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;The third Starship test flight has fared far better than SpaceX’s previous two attempts.&lt;/em&gt; | Image: SpaceX&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="5MveEN"&gt;SpaceX’s massive Starship took off from the company’s Starbase launch facility in Boca Chica, Texas, at 9:25AM ET on Thursday morning. &lt;/p&gt;
+&lt;p id="wnW4YJ"&gt;This test flight was far more successful than its two predecessors, as the vehicle &lt;a href="https://www.spacex.com/launches/mission/?missionId=starship-flight-3"&gt;became&lt;/a&gt; “the first Starship to complete its full-duration ascent burn” after the six Raptor engines powered it to its expected orbit. It completed the hot-staging separation from its Super Heavy booster and opened a payload door to demonstrate how it could be used for missions like delivering Starlink satellites into orbit. &lt;/p&gt;
+&lt;p id="zFVH8e"&gt;The vehicle remained in one piece until contact with the Starship spacecraft was lost shortly before its anticipated splashdown in the Indian Ocean. According to SpaceX, “The flight test’s conclusion came during entry, with the last telemetry signals received via Starlink from Starship at approximately 49 minutes into the mission.”&lt;/p&gt;
+&lt;div id="Z8KDJW"&gt;&lt;div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"&gt;&lt;iframe src="https://www.youtube.com/embed/G2LM6zt9Mmw?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen="" scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p id="QkrPdu"&gt;SpaceX’s broadcast of the flight test ended about an hour after takeoff, with the last feeds from &lt;a href="https://www.theverge.com/2024/3/14/24100705/watch-starships-reentry"&gt;Starship showing what the external cameras experienced during reentry&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="KdCN6z"&gt;Before the broadcast ended, commentators said, “We may have lost Starship,” after losing communication with the spacecraft. “We haven’t heard from the ship up until this point, so the team has made the call that the ship has been lost. So, no splashdown today,” said SpaceX spokesperson Dan Huot.&lt;/p&gt;
+&lt;p id="sERief"&gt;“Starship and Super Heavy vehicles are preparing for upcoming flights as we seek to increase our launch cadence throughout the year,” writes SpaceX.&lt;/p&gt;
+&lt;p id="EdvIhI"&gt;In a &lt;a href="https://www.spacex.com/launches/mission/?missionId=starship-flight-3"&gt;recap of the mission&lt;/a&gt;, SpaceX confirmed the fate of the Super Heavy booster rocket after completing a flip maneuver and boostback burn toward its splashdown location in the Gulf of Mexico:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p id="9McuTx"&gt;Super Heavy successfully lit several engines for its first ever landing burn before the vehicle experienced a RUD (that’s SpaceX-speak for “rapid unscheduled disassembly”). The booster’s flight concluded at approximately 462 meters in altitude and just under seven minutes into the mission.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p id="ujgaKe"&gt;And gave a reason for not attempting the on-orbit engine relight as planned:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p id="VREkmb"&gt;Starship did not attempt its planned on-orbit relight of a single Raptor engine due to vehicle roll rates during coast.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;div id="sJ5LpC"&gt;
+&lt;blockquote class="twitter-tweet"&gt;
+&lt;p lang="en" dir="ltr"&gt;Happy birthday to &lt;a href="https://twitter.com/SpaceX?ref_src=twsrc%5Etfw"&gt;@SpaceX&lt;/a&gt;! What a day!&lt;br&gt; &lt;br&gt;HUGE congratulations to the entire team for this incredible day: clean count (glad the shrimpers could get out in the nick of time!), liftoff, hot staging, Super Heavy boost back and coast (and likely a couple engines making mainstage… &lt;a href="https://t.co/D3YUPIgKNH"&gt;pic.twitter.com/D3YUPIgKNH&lt;/a&gt;&lt;/p&gt;— Gwynne Shotwell (@Gwynne_Shotwell) &lt;a href="https://twitter.com/Gwynne_Shotwell/status/1768291595160605109?ref_src=twsrc%5Etfw"&gt;March 14, 2024&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;/div&gt;
+&lt;p id="BQKJUB"&gt;This was SpaceX’s third attempt to test the Starship rocket, with &lt;a href="https://www.theverge.com/2023/4/20/23686229/spacex-successful-sub-orbital-launch-starship-super-heavy-boca-chica"&gt;the first on April 20th&lt;/a&gt; of last year bursting into flames around four minutes after launch. Its second attempt on November 18th fared better — while the Super Heavy booster &lt;a href="https://www.theverge.com/2023/11/18/23965728/spacex-starship-flight-test-explosion-super-heavy-booster"&gt;also exploded after separation&lt;/a&gt;, the Starship spacecraft continued its journey into orbit, where &lt;a href="https://spaceref.com/newspace-and-tech/starship-completes-historic-second-launch-loses-contact/#:~:text=But%20about%2010%20minutes%20into,a%20safety%20mechanism%2C%20had%20engaged."&gt;SpaceX believes it self-destructed&lt;/a&gt; after contact with the vehicle was lost.&lt;/p&gt;
+&lt;p id="ZLiKrL"&gt;Today’s Starship test was given the green light by the US Federal Aviation Administration (FAA) &lt;a href="https://www.theverge.com/2024/3/13/24100031/spacex-starship-flight-test-license-launch-window"&gt;on Wednesday&lt;/a&gt;, less than 24 hours before its scheduled launch time, having determined that SpaceX had “met all safety, environmental, policy and financial responsibility requirements.” &lt;a href="https://www.space.com/faa-closes-investigation-second-spacex-starship-flight"&gt;According to Space.com&lt;/a&gt;, the FAA had required SpaceX to complete 17 corrective actions concerning things like vehicle hardware redesigns, flammability analysis updates, and the installation of additional fire protection following an investigation into the second failed Starship test — far fewer than the 63 corrective actions identified &lt;a href="https://www.theverge.com/2023/4/26/23699365/spacex-starship-damage-launch-pad-debris"&gt;during the first test&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="T6d4Hb"&gt;
+&lt;blockquote class="twitter-tweet"&gt;
+&lt;p lang="en" dir="ltr"&gt;Watch Starship’s third flight test → &lt;a href="https://t.co/bJFjLCiTbK"&gt;https://t.co/bJFjLCiTbK&lt;/a&gt;  &lt;a href="https://t.co/1u46r769Vp"&gt;https://t.co/1u46r769Vp&lt;/a&gt;&lt;/p&gt;— SpaceX (@SpaceX) &lt;a href="https://twitter.com/SpaceX/status/1768258691319689232?ref_src=twsrc%5Etfw"&gt;March 14, 2024&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;/div&gt;
+&lt;p id="kApGWE"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/14/24100501/spacex-starship-launch-third-flight-test-success"/>
+    <id>https://www.theverge.com/2024/3/14/24100501/spacex-starship-launch-third-flight-test-success</id>
+    <author>
+      <name>Jess Weatherbed</name>
+      <name>Richard Lawler</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-14T16:41:30-04:00</published>
+    <updated>2024-03-14T16:41:30-04:00</updated>
+    <title>The FTC and DOJ think McDonald’s ice cream machines should be legal to fix</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="An image showing McDonald’s ice cream machine" src="https://cdn.vox-cdn.com/thumbor/qlscuD0iKERzgvXg9dW-SeYIRDM=/232x0:2506x1516/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73207778/ifixit_mcdonalds_ice_cream_machine.0.png" /&gt;
+        &lt;figcaption&gt;Image: iFixit &lt;a class="ql-link" href="https://www.youtube.com/watch?v=2uCpY3tFTIA" target="_blank"&gt;via YouTube&lt;/a&gt;&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="IhAPE3"&gt;The Federal Trade Commission and the Department of Justice’s antitrust division filed a comment with the US Copyright Office asking for an expanded exemption to copyright law for the right to repair certain devices. The &lt;a href="https://www.ftc.gov/system/files/ftc_gov/pdf/ATR-FTC-JointComment.pdf"&gt;comment&lt;/a&gt; was submitted on Thursday, amid the Copyright Office’s deliberations over whether to issue new exemptions to Section 1201 of the Digital Millennium Copyright Act (DMCA), a law that prohibits breaking software copy protection. Under Section 1201, repairing your own devices can often become a copyright violation.&lt;/p&gt;
+&lt;p id="jwTTdG"&gt;Exemptions to DMCA Section 1201 are issued every three years, as per the Register of Copyrights’ recommendation. Prior &lt;a href="https://www.theverge.com/2021/10/27/22747310/us-copyright-office-dmca-section-1201-exemption-rulemaking-report"&gt;exemptions&lt;/a&gt; have been issued for jailbreaking cellphones and repairing certain parts of video game consoles. The FTC and DOJ are asking the Copyright Office to go a step further, extending the right to repair to “commercial and industrial equipment.” The comment singles out four distinct categories that would benefit from DMCA exemptions: commercial soft serve machines; proprietary diagnostic kits; programmable logic controllers; and enterprise IT.&lt;/p&gt;
+&lt;p id="E8TNhk"&gt;“In the Agencies’ view, renewing and expanding repair-related exemptions would promote competition in markets for replacement parts, repair, and maintenance services, as well as facilitate competition in markets for repairable products,” the comment reads. &lt;/p&gt;
+&lt;p id="pWxGKT"&gt;The inability to do third-party repairs on these products not only limits competition, the agencies say, but also makes repairs more costly and&lt;strong&gt; &lt;/strong&gt;can lead to hundreds or thousands of dollars in lost sales. Certain logic controllers have to be discarded and replaced if they break or if the passwords for them get lost. The average estimated cost of “unplanned manufacturing downtime” was $260,000 per hour, the comment notes, citing research from Public Knowledge and iFixit. As for soft serve machines, breakdowns can lead to $625 in lost sales each day. Business owners can’t legally fix them on their own or hire an independent technician to do so, meaning they have to wait around for an authorized technician — which, the comment says, usually takes around 90 days.&lt;/p&gt;
+&lt;p id="RQ9NGe"&gt;Last August, iFixit performed a teardown on the &lt;a href="https://www.theverge.com/2023/8/29/23850595/mcdonalds-broken-ice-cream-machines-ifixit"&gt;exact ice cream machine model McDonald’s uses&lt;/a&gt;. The machine let out multiple “nonsensical, counterintuitive, and seemingly random” error codes, but there was nothing to be done — not because it was unfixable but because the law prohibits anyone but Taylor, the manufacturer, from fixing the machines. After a third-party company, Kytch, built a product that can read the error codes, McDonald’s told its franchise owners not to use it.&lt;/p&gt;
+&lt;p id="tmS4M8"&gt;If the Copyright Office decides to listen to the FTC and DOJ, that could all change. For now, though, the odds the ice cream machine at your local McDonald’s is broken are still pretty high.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/14/24101023/ftc-doj-comment-dmca-ifixit-ice-cream-machines"/>
+    <id>https://www.theverge.com/2024/3/14/24101023/ftc-doj-comment-dmca-ifixit-ice-cream-machines</id>
+    <author>
+      <name>Gaby Del Valle</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-14T10:24:31-04:00</published>
+    <updated>2024-03-14T10:24:31-04:00</updated>
+    <title>SpaceX Starship launch: third time’s the charm?</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Starship test vehicle on the launchpad with a SpaceX sign in the foreground" src="https://cdn.vox-cdn.com/thumbor/_y36KoFKhJKlou5234DAYHsImE8=/338x0:3502x2109/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73206353/GIfp_2Ya0AAHUJF.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: &lt;a class="ql-link" href="https://twitter.com/SpaceX/status/1767638654334468523" target="_blank"&gt;SpaceX&lt;/a&gt;&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p&gt;The first two Starship flight tests ended in an explosive fashion. On its third attempt, the spacecraft lasted much longer.&lt;/p&gt; &lt;p id="lRGo7D"&gt;After a few delays, SpaceX’s &lt;a href="https://www.theverge.com/2024/3/14/24100501/spacex-starship-launch-third-flight-test-success"&gt;Starship launched at 9:25AM ET&lt;/a&gt; for its third flight test. This time, it completed a hot-stage separation with the booster rocket and successfully reached orbital velocity, &lt;a href="https://twitter.com/elonmusk/status/1768271078999167379"&gt;according to Elon Musk&lt;/a&gt;. This Starship prototype skipped a planned attempt to relight its Raptor engines in space and was scheduled to splash down in the Indian Ocean about an hour after takeoff. &lt;/p&gt;
+&lt;p id="chcL9t"&gt;However, SpaceX commentators confirmed the vehicle was “lost” after reentry and that there would be no splashdown today.&lt;/p&gt;
+&lt;p id="d9FU9W"&gt;This latest Starship test follows two failed attempts last year, with the rocket spinning out of control before exploding around &lt;a href="https://www.theverge.com/2023/4/20/23686229/spacex-successful-sub-orbital-launch-starship-super-heavy-boca-chica"&gt;four minutes after launch in April&lt;/a&gt;, followed by a second attempt in November that &lt;a href="https://www.theverge.com/2023/11/18/23965728/spacex-starship-flight-test-explosion-super-heavy-booster"&gt;similarly ended in flames&lt;/a&gt;. &lt;/p&gt;
+&lt;p id="Nef5Zj"&gt;SpaceX has ended its live broadcast, but we’ll continue to add any updates about the mission as they come in.&lt;/p&gt;
+&lt;h3 id="ek79qk"&gt;Read on for all of the latest news about SpaceX’s third Starship test flight.&lt;/h3&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/24100089/spacex-starship-launch-date-time-flight-test-three"/>
+    <id>https://www.theverge.com/24100089/spacex-starship-launch-date-time-flight-test-three</id>
+    <author>
+      <name>Richard Lawler</name>
+      <name>Jess Weatherbed</name>
+      <name>Amrita Khalid</name>
+      <name>Georgina Torbet</name>
+      <name>Wes Davis</name>
+      <name>Emma Roth</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-14T08:36:57-04:00</published>
+    <updated>2024-03-14T08:36:57-04:00</updated>
+    <title>SpaceX’s third Starship flight test is now scheduled for 9:25AM ET</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Image of the Starship prototype in position for a launch attempt against a background of a cloudy blue sky." src="https://cdn.vox-cdn.com/thumbor/aflWEeUSlJPQ8bbWr0zo9roEqPo=/470x0:3371x1934/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73205287/GIfp_2ubwAAitzD.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;SpaceX Starship on a Super Heavy rocket booster&lt;/em&gt; | Image: &lt;a class="ql-link" href="https://twitter.com/SpaceX/status/1767638654334468523" target="_blank"&gt;SpaceX&lt;/a&gt;&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="AxPxNY"&gt;Now that the Federal Aviation Administration has &lt;a href="https://www.faa.gov/media/69476"&gt;granted SpaceX a license&lt;/a&gt; (pdf), the third test flight of its Starship Super Heavy vehicle could take place &lt;a href="https://www.theverge.com/24100089/spacex-starship-launch-date-time-flight-test-three"&gt;as soon as Thursday morning&lt;/a&gt;. SpaceX’s 110-minute launch window opened at 7AM CT / 8AM ET / 5AM PT on March 14th. &lt;/p&gt;
+&lt;p id="hWQjdM"&gt;The launch attempt took place after it was &lt;a href="https://www.theverge.com/e/23864590"&gt;rescheduled&lt;/a&gt; for 9:25AM ET, and the &lt;a href="https://www.theverge.com/2024/3/14/24100501/spacex-starship-launch-third-flight-test-success"&gt;Starship successfully reached orbit velocity&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="PvrRX5"&gt;
+&lt;blockquote class="twitter-tweet"&gt;
+&lt;p lang="en" dir="ltr"&gt;The Starship team is go for prop load but keeping an eye on winds, now targeting 8:25 a.m. CT for liftoff → &lt;a href="https://t.co/G1H8uoTxWD"&gt;https://t.co/G1H8uoTxWD&lt;/a&gt;&lt;/p&gt;— SpaceX (@SpaceX) &lt;a href="https://twitter.com/SpaceX/status/1768251797846847981?ref_src=twsrc%5Etfw"&gt;March 14, 2024&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;/div&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="RIxS0H"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"SpaceX allegedly fostered serial sexual abuse, according to this lawsuit","url":"https://www.theverge.com/2024/3/6/24092721/spacex-lawsuit-sexual-bias-harassment-pay-inequity"},{"title":"SpaceX’s Starship blew up after launch — it also caused ‘catastrophic’ damage on the ground","url":"https://www.theverge.com/2023/4/26/23699365/spacex-starship-damage-launch-pad-debris"},{"title":"SpaceX Starship launch: third time’s the charm?","url":"https://www.theverge.com/24100089/spacex-starship-launch-date-time-flight-test-three"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="QQKNhm"&gt;In a &lt;a href="https://twitter.com/FAANews/status/1768019995240415544"&gt;post on X&lt;/a&gt; (which, like SpaceX, is owned by Elon Musk), the FAA said it has “determined SpaceX met all safety, environmental, policy and financial responsibility requirements.” While both of the first two Starship launches took off and achieved some mission goals, both also ended explosively. &lt;/p&gt;
+&lt;p id="663hZ9"&gt;The first one &lt;a href="https://www.theverge.com/2023/4/26/23699365/spacex-starship-damage-launch-pad-debris"&gt;caused significant damage&lt;/a&gt; not only to the launchpad but &lt;a href="https://www.theverge.com/2023/9/8/23864393/spacex-starship-orbital-flight-test-faa-hold#:~:text=left%20a%20385%2Dacre%20debris%20field%20that%20flung%20concrete%20chunks%20as%20far%20as%202%2C680%20feet%20from%20the%20launchpad%20and%20sparked%20a%203.5%2Dacre%20fire"&gt;also&lt;/a&gt; “left a 385-acre debris field that flung concrete chunks as far as 2,680 feet from the launchpad and sparked a 3.5-acre fire.” The FAA provided &lt;a href="https://www.theverge.com/2023/9/8/23864393/spacex-starship-orbital-flight-test-faa-hold"&gt;a list of 63 corrective actions&lt;/a&gt; for SpaceX to take to address issues such as leaking propellant before the second attempt last spring.&lt;/p&gt;
+&lt;div id="hJ93iz"&gt;&lt;div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"&gt;&lt;iframe src="https://www.youtube.com/embed/97GOcZ08tc4?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen="" scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p id="TzO19Y"&gt;For this third launch, &lt;a href="https://www.spacex.com/launches/mission/?missionId=starship-flight-3"&gt;SpaceX says&lt;/a&gt; it’s targeting a splashdown in the Indian Ocean instead of aiming for a spot closer to Hawaii as it did with the previous attempts, to try things like in-space engine burns “while maximizing public safety.”&lt;/p&gt;
+&lt;p id="s2LYej"&gt;&lt;strong&gt;SpaceX: &lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p id="M2bAKF"&gt;The third flight test aims to build on what we’ve learned from previous flights while attempting a number of ambitious objectives, including the successful ascent burn of both stages, opening and closing Starship’s payload door, a propellant transfer demonstration during the upper stage’s coast phase, the first ever re-light of a Raptor engine while in space, and a controlled reentry of Starship. It will also fly a new trajectory, with Starship targeted to splashdown in the Indian Ocean. This new flight path enables us to attempt new techniques like in-space engine burns while maximizing public safety.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p id="JwLlvh"&gt;&lt;em&gt;&lt;strong&gt;Update March 14th, 8:32AM ET&lt;/strong&gt;&lt;/em&gt;&lt;em&gt;: Updated launch timing &lt;/em&gt;&lt;a href="https://twitter.com/SpaceX/status/1768251797846847981"&gt;&lt;em&gt;from SpaceX&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p id="BJaqxp"&gt;&lt;em&gt;&lt;strong&gt;Update March 14th, 10:05AM ET&lt;/strong&gt;&lt;/em&gt;&lt;em&gt;: Noted succesful launch.&lt;/em&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/13/24100031/spacex-starship-flight-test-license-launch-window"/>
+    <id>https://www.theverge.com/2024/3/13/24100031/spacex-starship-flight-test-license-launch-window</id>
+    <author>
+      <name>Richard Lawler</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-07T12:11:58-05:00</published>
+    <updated>2024-03-07T12:11:58-05:00</updated>
+    <title>The SEC’s new climate disclosure rule already faces legal challenges </title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Gary Gensler with a slight frown." src="https://cdn.vox-cdn.com/thumbor/xNPonngXYHxIwJubYoEZw67jOGU=/0x0:8025x5350/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73189331/1848359560.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;SEC Chair Gary Gensler attends a meeting of the Financial Stability Oversight Council at the U.S. Department of Treasury on December 14, 2023 in Washington, DC.&lt;/em&gt; | Photo by Drew Angerer/Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="lWkWJZ"&gt;A landmark climate disclosure &lt;a href="https://www.sec.gov/rules/2022/03/enhancement-and-standardization-climate-related-disclosures-investors#33-11275"&gt;rule&lt;/a&gt; adopted by the US Securities and Exchange Commission (SEC) yesterday is already facing mounting legal and legislative challenges. Ten states filed suit yesterday shortly after the rule was finalized. Environmental advocates also say they’re considering challenging the rule.&lt;/p&gt;
+&lt;p id="F7tFYa"&gt;If implemented, the SEC’s new rule would force large, public companies to disclose risks they face due to climate change and share partial information about their greenhouse gas emissions. It would lead to dramatically more transparency than there’s been in the past, but would still paint an incomplete picture of a company’s environmental footprint since companies would only be mandated to divulge a portion of their emissions. &lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="CTuZSJ"&gt;&lt;q&gt;Instead of placating everyone with a weaker rule, the SEC seems to have picked a fight with both Republicans and climate activists&lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="94p0XY"&gt;The final rule is a &lt;a href="https://www.theverge.com/2024/3/6/24092159/sec-climate-change-disclosure-rule-scope-3-emissions"&gt;watered-down version&lt;/a&gt; of a proposal the SEC put forth in 2022 that sparked a flood of opposition from industry groups and anti-ESG Republicans. But instead of placating everyone with a weaker rule, the SEC seems to have picked a fight with both Republicans and climate activists.&lt;/p&gt;
+&lt;p id="9iHE8Y"&gt;The coalition of ten states suing the SEC &lt;a href="https://ago.wv.gov/Documents/SEC%20Climate%20Disclosure%20Petition%20for%20Review.pdf"&gt;allege&lt;/a&gt; that “the final rule exceeds the agency’s statutory authority and otherwise is arbitrary, capricious, an abuse of discretion, and not in accordance with law.” It includes West Virginia, Virginia, Georgia, Alabama, Alaska, Indiana, New Hampshire, Oklahoma, South Carolina, and Wyoming.&lt;/p&gt;
+&lt;p id="X9YFqc"&gt;Congressional Republicans are also working to overturn the SEC’s new rule, &lt;a href="https://news.bloomberglaw.com/esg/congressional-republicans-maneuver-to-stifle-secs-climate-rule"&gt;&lt;em&gt;Bloomberg Law&lt;/em&gt;&lt;/a&gt; reports. Representative Bill Huizenga (R-MI) and Senator Tim Scott (R-SC) aim to use a Congressional Review Act, an oversight tool that allows Congress to overrule federal agency actions. &lt;/p&gt;
+&lt;p id="Ncs0Rq"&gt;“Investors should realize this overreach by the SEC will significantly hurt our economy while serving as boon for special interests and far-left activists,” &lt;a href="https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=402802"&gt;Huizenga&lt;/a&gt; said in a statement yesterday. &lt;/p&gt;
+&lt;p id="C5VfeM"&gt;Many environmental activists, however, are also unhappy with the rule, saying it doesn’t go far enough to address climate-related risks. The most contentious piece is whether companies should have to divulge how much pollution they cause through their supply chains and the end-use of their products. While these are considered indirect emissions, they also typically represent the largest chunk of a company’s carbon footprint. Trade groups, particularly in banking and agriculture, fiercely opposed that provision in the SEC’s initial proposal. The SEC ultimately dropped it, upsetting environmental groups. &lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="2q9ezA"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"SEC says companies must disclose their greenhouse gas&amp;amp;nbsp;emissions&amp;amp;nbsp;— but not all of them ","url":"https://www.theverge.com/2024/3/6/24092159/sec-climate-change-disclosure-rule-scope-3-emissions"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="KGg459"&gt;The Sierra Club said it is also disappointed that the SEC’s final rule “eliminates key requirements for companies to quantify climate-related impacts to their assets and expenditures in financial statements.” The group, represented by nonprofit environmental law organization Earthjustice, said in a &lt;a href="https://www.sierraclub.org/press-releases/2024/03/sec-climate-disclosure-rule-represents-important-progress-falls-short-key"&gt;statement&lt;/a&gt; yesterday that it’s “considering challenging the SEC’s arbitrary removal of key provisions from the final rule, while also taking action to defend the SEC’s authority to implement such a rule.”&lt;/p&gt;
+&lt;p id="xDRm9a"&gt;“As an investor, we expect full transparency about a company’s fundamentals, especially climate-related risks that pose serious negative financial consequences. Without higher accountability standards, companies can withhold critical information that prevents us from making informed investment decisions rooted in full due diligence,” Dan Chu, Sierra Club Foundation executive director, said in a &lt;a href="https://www.sierraclub.org/press-releases/2024/03/sec-climate-disclosure-rule-represents-important-progress-falls-short-key"&gt;statement&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="JHpE8W"&gt;SEC Chair Gary Gensler stands by the compromises made in the new rule. “I think today’s action is an important step for our U.S. capital markets,” he said in a &lt;a href="https://www.sec.gov/news/statement/gensler-statement-mandatory-climate-risk-disclosures-030624"&gt;statement&lt;/a&gt; yesterday. “These rules will enhance the disclosures that investors have been relying on to make their investment decisions.”&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/7/24093354/sec-climate-disclosure-rule-legal-challenges"/>
+    <id>https://www.theverge.com/2024/3/7/24093354/sec-climate-disclosure-rule-legal-challenges</id>
+    <author>
+      <name>Justine Calma</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-07T10:38:30-05:00</published>
+    <updated>2024-03-07T10:38:30-05:00</updated>
+    <title>Texas electric utility says its equipment was ‘involved’ in starting massive Smokehouse Creek Fire </title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="A helicopter hovers above a burning, smoky landscape." src="https://cdn.vox-cdn.com/thumbor/nA1O2rDf20AWiBXVjLHcRal0rIM=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73188999/2057159471.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;Firefighters battle flames from the Smokehouse Creek fire on March 03, 2024 near Sanford, Texas.&amp;nbsp;&lt;/em&gt; | Photo by Scott Olson/Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="BFPSBx"&gt;Electric utility Xcel Energy admits that its equipment likely helped ignite the devastating Smokehouse Creek Fire that’s blazed across Texas since last week.&lt;/p&gt;
+&lt;p id="s1vidu"&gt;“Xcel Energy has been cooperating with the investigations into the wildfires and has been conducting its own review. Based on currently available information, Xcel Energy acknowledges that its facilities appear to have been involved in an ignition of the Smokehouse Creek fire,” the company said in a &lt;a href="https://tx.my.xcelenergy.com/s/about/newsroom/press-release/statement-from-xcel-energy-regarding-wildfires-in-the-texas-panhandle-MCTRIWLNFFOFBHZNTXB4D25BKCKU"&gt;statement&lt;/a&gt; today. &lt;/p&gt;
+&lt;p id="9oxQFw"&gt;The blaze has grown into the largest in state history, consuming more than a million acres, killing at least two people, and destroying hundreds of structures. It was still &lt;a href="https://inciweb.nwcg.gov/incident-publication/txtxs-smokehouse-creek-fire/smokehouse-creek-fire-update-03-02-2024"&gt;only 44 percent&lt;/a&gt; contained as of Thursday morning. &lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="itYMyU"&gt;&lt;q&gt;“Xcel Energy acknowledges that its facilities appear to have been involved in an ignition of the Smokehouse Creek fire.” &lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="Fs58GK"&gt;Excel already faces lawsuits from people affected by the massive fire, including one &lt;a href="https://www.reuters.com/world/us/xcel-energy-utility-equipment-started-texas-wildfire-homeowner-says-lawsuit-2024-03-02/"&gt;resident&lt;/a&gt; who lost her home and &lt;a href="https://www.texastribune.org/2024/03/01/texas-panhandle-wildfire-investigation/"&gt;one millionaire rancher&lt;/a&gt;. &lt;/p&gt;
+&lt;p id="SJDDBT"&gt;The plaintiffs claim that a power line pole owned by Xcel subsidiary Southwestern Public Service Company fell and started a fire. Xcel doesn’t specifically mention the pole in its statement today.&lt;/p&gt;
+&lt;p id="Fqeq6u"&gt;“Xcel Energy disputes claims that it acted negligently in maintaining and operating its infrastructure; however, we encourage people who had property destroyed by or livestock lost in the Smokehouse Creek Fire to submit a claim to Xcel Energy through our claims process,” the statement says.&lt;/p&gt;
+&lt;p id="1eLrvU"&gt;If Xcel is ultimately found responsible for the Smokehouse Creek Fire, it wouldn’t be the first utility to be held accountable for sparking an inferno after an equipment failure. Maui County &lt;a href="https://www.theverge.com/2023/8/25/23845581/maui-county-hawaiian-electric-utility-lawsuit-fire"&gt;sued Hawaiian Electric&lt;/a&gt;, saying its downed power lines caused the catastrophic fire that killed more than 100 people and destroyed much of Lahaina last year. &lt;/p&gt;
+&lt;p id="nq8W1F"&gt;California utility company PG&amp;amp;E was found responsible for sparking the &lt;a href="https://www.theverge.com/2019/5/15/18626819/cal-fire-pacific-gas-and-electric-camp-fire-power-lines-cause"&gt;2018 Camp Fire&lt;/a&gt; and &lt;a href="https://www.theverge.com/2022/1/5/22868298/pge-utility-power-line-responsible-dixie-fire"&gt;2021 Dixie Fire&lt;/a&gt;, two of the largest blazes in the state’s history. In Colorado, Xcel also faces &lt;a href="https://www.denverpost.com/2024/01/12/marshall-fire-lawsuits-xcel-energy/"&gt;hundreds of lawsuits&lt;/a&gt; blaming its equipment for the 2021 Marshall Fire that destroyed more than 1,000 homes.&lt;/p&gt;
+&lt;p id="tB5avn"&gt;&lt;/p&gt;
+&lt;p id="xNphUT"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/7/24093264/texas-utility-xcel-energy-smokehouse-creek-fire"/>
+    <id>https://www.theverge.com/2024/3/7/24093264/texas-utility-xcel-energy-smokehouse-creek-fire</id>
+    <author>
+      <name>Justine Calma</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-06T21:02:17-05:00</published>
+    <updated>2024-03-06T21:02:17-05:00</updated>
+    <title>SpaceX allegedly fostered serial sexual abuse, according to this lawsuit</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="A picture of SpaceX headquarters." src="https://cdn.vox-cdn.com/thumbor/C8-IRVhr3vOmdcvWyflmPTM9pDc=/0x0:5072x3381/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73187926/1230845044.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;SpaceX headquarters in Hawthorne, California, in 2021.&lt;/em&gt; | Photo by Patrick T. Fallon / AFP via Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="zLts4C"&gt;A SpaceX employee says that she spent seven years working at the company’s headquarters in Hawthorne, California enduring sexual abuse, unequal pay, discrimination, sexual harassment, and retaliation, in a new lawsuit against the company. But her story paints a much graver picture than those individual words can convey, describing widespread harassment and coordinated action to not only enable but also later give cover for sexual coercion, by a man she says was her direct supervisor. &lt;/p&gt;
+&lt;p id="lkJzpA"&gt;The employee, Michelle Dopak, also claims that SpaceX’s president and vice president of the company ignored her pleas for action. The details of her complaint are especially grim; while they echo the 2021 stories of &lt;a href="https://www.theverge.com/22831380/spacex-employees-harassment-workplace-misconduct-elon-musk"&gt;five former SpaceX employees&lt;/a&gt; and &lt;a href="https://arc.net/l/quote/qwmenmwv"&gt;eight women who sued Tesla&lt;/a&gt;, another Elon Musk-owned company, the tale seems darker.&lt;/p&gt;
+&lt;p id="UaU6Bw"&gt;Here’s the entire complaint, should you want to read it, but know that it’s a deeply disturbing read. &lt;/p&gt;
+&lt;p id="yPVyP4"&gt;&lt;em&gt;&lt;strong&gt;Content warning&lt;/strong&gt;&lt;/em&gt;&lt;em&gt;: This document contains descriptions of sexual abuse.&lt;/em&gt;&lt;/p&gt;
+&lt;div id="LxzIyi"&gt;&lt;div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 129.2857%; padding-top: 80px;"&gt;&lt;iframe src="https://embed.documentcloud.org/documents/24461406-michelle-dopak-vs-spacex/?embed=1" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="0jpnTQ"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"SpaceX accused of illegally firing employees who criticized Elon Musk","url":"https://www.theverge.com/2024/1/3/24024253/spacex-elon-musk-nlrb-complaint-unfair-labor-practices-workers-fired"},{"title":"SpaceX is suing to bust up federal union protections","url":"https://www.theverge.com/2024/1/4/24025712/spacex-nlrb-lawsuit-constitutional-violations-elon-musk"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="t9703Z"&gt;Dopak remains employed at SpaceX, where she claims managers are trying to make her quit by forcing her to work 12 hours a day, six days a week, violating her medical accommodation needs.&lt;/p&gt;
+&lt;p id="3cyZN3"&gt;The lawsuit also claims that SpaceX tried to “coerce and force” her into arbitration, even though &lt;a href="https://www.americanbar.org/groups/labor_law/publications/labor_employment_law_news/fall-2022/new-law-limits-mandatory-arbitration-in-cases-involving-sexual-assault-or-harassment/#:~:text=In%20March%202022%2C%20Congress%20enacted,)%2C%20went%20into%20effect%20immediately."&gt;federal law has prohibited&lt;/a&gt; employers from forcing sexual harassment claims into arbitration since 2022. Tesla was &lt;a href="https://www.theverge.com/2022/5/24/23140051/judge-rules-tesla-hide-behind-arbitration-sexual-harassment-case-elon-musk"&gt;blocked from doing the same thing&lt;/a&gt; in 2022. &lt;/p&gt;
+&lt;p id="oJAlXg"&gt;SpaceX didn’t immediately respond to requests for comment.&lt;/p&gt;
+&lt;p id="GnaYJG"&gt;At the moment, SpaceX is the subject of a &lt;a href="https://www.bloomberg.com/news/articles/2023-10-05/spacex-sued-by-female-engineer-over-gender-minority-pay-gap"&gt;proposed class action lawsuit&lt;/a&gt; over alleged pay and promotion inequity against women and minors, and in January the company was &lt;a href="https://www.theverge.com/2024/1/3/24024253/spacex-elon-musk-nlrb-complaint-unfair-labor-practices-workers-fired"&gt;sued by the National Labor Relations Board&lt;/a&gt; (NLRB) for firing employees shortly after they wrote an open letter that criticized CEO Elon Musk. SpaceX then &lt;a href="https://www.theverge.com/2024/1/4/24025712/spacex-nlrb-lawsuit-constitutional-violations-elon-musk"&gt;sued the NLRB right back&lt;/a&gt;, claiming that its lawsuit is unconstitutional. Seven of the ex-employees &lt;a href="https://www.bloomberg.com/news/articles/2024-02-06/spacex-accused-of-sexual-harassment-as-fight-with-ex-employees-intensifies"&gt;filed civil rights complaints&lt;/a&gt; against SpaceX in February alleging discrimination and sexual harassment.&lt;/p&gt;
+&lt;p id="m26E4A"&gt;&lt;/p&gt;
+&lt;p id="c1AO9k"&gt;&lt;/p&gt;
+&lt;p id="wyeub8"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/6/24092721/spacex-lawsuit-sexual-bias-harassment-pay-inequity"/>
+    <id>https://www.theverge.com/2024/3/6/24092721/spacex-lawsuit-sexual-bias-harassment-pay-inequity</id>
+    <author>
+      <name>Wes Davis</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-06T12:02:39-05:00</published>
+    <updated>2024-03-06T12:02:39-05:00</updated>
+    <title>SEC says companies must disclose their greenhouse gas emissions — but not all of them </title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Gary Gensler speaks into a microphone." src="https://cdn.vox-cdn.com/thumbor/g6OYPjjLH-Q_2sQkm41TI8xuSRM=/0x91:3267x2269/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73186517/1576902338.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;SEC Chairman Gary Gensler participates in a meeting of the Financial Stability Oversight Council at the U.S. Treasury on July 28, 2023 in Washington, DC.&amp;nbsp;&lt;/em&gt; | Photo by Kevin Dietsch/Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="Bt4h5N"&gt;The US Securities and Exchange Commission (SEC) adopted new &lt;a href="https://www.sec.gov/securities-topics/climate-esg"&gt;rules&lt;/a&gt; that compel large companies to disclose their greenhouse gas emissions and tell investors how their business is affected by climate change.&lt;/p&gt;
+&lt;p id="zHfkF8"&gt;The new rules are weaker than what the SEC initially &lt;a href="https://www.sec.gov/news/press-release/2022-46"&gt;proposed&lt;/a&gt; &lt;a href="https://www.theverge.com/2022/3/21/22988921/sec-companies-greenhouse-gas-pollution-climate-change-risks-divulge"&gt;in March 2022&lt;/a&gt;, which would have included a fuller picture of a company’s carbon footprint. Initially, it wanted each company to share pollution stemming from its operations, as well as emissions from its supply chain and the use of its products. Under the rules finalized today, companies won’t have to measure and disclose pollution from their supply chain and products — even though those emissions are often the biggest chunk of a company’s carbon footprint. &lt;/p&gt;
+&lt;p id="OhLGkL"&gt;As a result, environmental advocates &lt;em&gt;and&lt;/em&gt; trade groups that pushed back against the SECs initial proposal are all notching a partial victory. The new rules create a lot more transparency than there’s ever been on a company’s environmental impact. Climate advocates, meanwhile, say the rule can still be strengthened. &lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="dRWcjR"&gt;&lt;q&gt;“You can’t manage the problem if you first can’t measure the problem.”&lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="hUbuIv"&gt;“From the SEC’s perspective, [the rule] will ensure more consistent information for investors, and that is good for the capital markets ... investors have been asking for it because they understand that climate risk is financial risk, and you can’t manage the problem if you first can’t measure the problem,” says Steven Rothstein, managing director of the Ceres Accelerator for Sustainable Capital Markets. &lt;/p&gt;
+&lt;p id="N2zB3R"&gt;The rule also mandates that large companies registered with the SEC share impacts and risks they face from climate change. But the biggest tussles over this rule have been over how transparent companies need to be about their greenhouse gas pollution. &lt;/p&gt;
+&lt;p id="brg9xm"&gt;A company’s carbon footprint — how much planet-heating pollution it produces — is measured in three ‘scopes.’ The scope that includes indirect supply chain and consumer emissions — &lt;a href="https://www.epa.gov/climateleadership/scope-3-inventory-guidance"&gt;Scope 3&lt;/a&gt; — has been hotly contested since the SEC first proposed a climate disclosure rule in 2022. &lt;/p&gt;
+&lt;p id="FAgLtg"&gt;“We do not believe the purpose of Scope 3 disclosure requirements should be to push publicly traded companies into the role of enforcing emission reduction targets outside of their control,” BlackRock said in a June 2022 &lt;a href="https://www.blackrock.com/corporate/literature/whitepaper/spotlight-blk-supports-consistent-climate-related-disclosures-urges-global-coordination-june-2022.pdf"&gt;statement&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="tWUfQo"&gt;“This tracking [of Scope 3 emissions] will be extremely expensive, invasive, and burdensome for farmers and ranchers,” agricultural groups including soybean, corn, beef, and pork producers wrote in their &lt;a href="https://www.sec.gov/comments/s7-10-22/s71022-20164335-334160.pdf"&gt;comments to the SEC&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="6LlAgL"&gt;After facing swift backlash from industry groups, particularly in agriculture and banking, and garnering some 24,000 comments from the public, the SEC blew past its initial 2023 deadline to finalize the rule and eventually watered it down. “While many, many investors commented on this, and many investors today are using Scope 3 information in their investment decision making, based upon the public feedback, we’re not requiring scope three emissions disclosures at this time,” SEC Chair Gary Gensler said in an &lt;a href="https://www.sec.gov/news/upcoming-events/open-meeting-030624"&gt;open meeting&lt;/a&gt; today.&lt;/p&gt;
+&lt;p id="E5fa0R"&gt;More broadly, Republicans have &lt;a href="https://www.bloomberg.com/news/articles/2023-05-19/esg-investing-goes-quiet-after-republican-attacks"&gt;led a charge&lt;/a&gt; against ESG investing, or investing that takes environmental, social, and governance factors into account. And the US faces the potential return of former president Donald Trump, who rolled back more than &lt;a href="https://leading.business.columbia.edu/main-pillar-climate-change-sustainability/climate-sustainability/trump-climate"&gt;125 environmental regulations&lt;/a&gt; during his first term — so the fate of rules on the book now could all depend on the outcome of elections this year.&lt;/p&gt;
+&lt;p id="EMWZul"&gt;Under the rules put in place today, large public companies will still have to report direct emissions from their operations and energy use that are “material” or essential for investors’ understanding of a company’s financial situation. Those disclosures would begin for fiscal year 2026. “If the SEC does not include scope three, then [the rule] will be incomplete. But we still think it’ll be a step forward,” Rothstein said in an interview with &lt;em&gt;The Verge&lt;/em&gt; before the rules were finalized.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="LgNEAJ"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"California passed a first-of-its-kind bill mandating&amp;amp;nbsp;pollution&amp;amp;nbsp;disclosures, including supply chain&amp;amp;nbsp;emissions ","url":"https://www.theverge.com/2023/9/12/23869723/california-climate-pollution-disclosures-bill-big-businesses"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="dBtQvL"&gt;Companies doing businesses in California might still wind up having to share their Scope 3 emissions after the &lt;a href="https://www.theverge.com/2023/9/12/23869723/california-climate-pollution-disclosures-bill-big-businesses"&gt;state passed&lt;/a&gt; a more wide-sweeping &lt;a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB253"&gt;bill&lt;/a&gt; last year. Companies with annual revenues over $1 billion would have to publicly report greenhouse gas emissions that come from their operations and electricity use by 2026 and disclose Scope 3 emissions by the following year. The California Chamber of Commerce, American Farm Bureau Federation, and other business groups have already &lt;a href="https://www.wsj.com/finance/regulation/business-groups-sue-california-to-block-climate-disclosures-ed1400c5?mod=pls_whats_news_us_business_f"&gt;sued&lt;/a&gt; to stop its implementation. And similar legal challenges are expected with the SEC’s new rule. &lt;/p&gt;
+&lt;p id="2F8Jss"&gt;Other companies, however, have been more supportive of disclosures. “While these emissions can be challenging to measure, they are essential to understanding the full range of a company’s climate impacts,” Apple director for state and local government affairs Michael Foulkes wrote in a &lt;a href="https://twitter.com/Scott_Wiener/status/1699891993105833985?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1699891993105833985%7Ctwgr%5Eb283cb9a9334a0ad91374b3d5cbcd3451fdd9571%7Ctwcon%5Es1_&amp;amp;ref_url=https%3A%2F%2Fwww.theverge.com%2F2023%2F9%2F8%2F23864726%2Fapple-endorsed-a-california-bill-that-would-force-companies-to-disclose-their-carbon-footprint"&gt;letter&lt;/a&gt; before California passed its climate disclosure rule. Already, &lt;a href="https://www.ga-institute.com/fileadmin/ga_institute/images/FlashReports/2023/G_A-IN-FOCUS-Report-2023-Final.pdf?vgo_ee=elqc7hKEk2dfRa7o%2BDRh6etI0I8vS2Vz%2B2c30DIY%2BGsP2sVS%3AChJB2n9JRVj9tQEDQjvVCtgix7Wsdabz"&gt;more than 80 percent&lt;/a&gt; of the 1,000 largest listed companies in the US share climate-related information in their ESG reports. &lt;/p&gt;
+&lt;p id="w3tV1A"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/6/24092159/sec-climate-change-disclosure-rule-scope-3-emissions"/>
+    <id>https://www.theverge.com/2024/3/6/24092159/sec-climate-change-disclosure-rule-scope-3-emissions</id>
+    <author>
+      <name>Justine Calma</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-06T11:00:00-05:00</published>
+    <updated>2024-03-06T11:00:00-05:00</updated>
+    <title>Cities are sinking, and it’s making them more vulnerable to climate change</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="A boat moves through the marshland and water." src="https://cdn.vox-cdn.com/thumbor/Ojf0Mww_KuLR_1yEj7KEJUmgEVA=/0x0:4897x3265/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73186338/1163411888.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;Lake Borgne on August 23, 2019 in New Orleans, Louisiana. According to the National Oceanic and Atmospheric Administration (NOAA), Louisiana’s combination of rising waters and sinking land give it one of the highest rates of relative sea level rise on the planet.&lt;/em&gt; | Photo by Drew Angerer/Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="z2uFTD"&gt;America’s coastal cities are sinking, putting more people at risk for flooding than urban planners might have expected with sea level rise alone.&lt;/p&gt;
+&lt;p id="dM1lLk"&gt;The gradual sinking of land, also known as land subsidence, could cause flooding to reach far more communities than previously anticipated, according to new &lt;a href="https://www.nature.com/articles/s41586-024-07038-3"&gt;research&lt;/a&gt; published today in the journal &lt;em&gt;Nature&lt;/em&gt;. The study looked at 32 major cities along the US shoreline, and forecasted future flooding with climate change. In a worst-case scenario without adequate flood defenses, up to one in 50 people and one in 35 properties in those cities could face flooding during high tide by 2050. &lt;/p&gt;
+&lt;p id="RpYBc4"&gt;Cities need to prepare for the double whammy, the researchers contend. The problem is twofold — sinking cities and rising seas — so solutions have to be twofold, as well. &lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="UkfCwl"&gt;&lt;q&gt;“It’s something that is not so far off.”&lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="wczX99"&gt;“It’s something that is not so far off. And the hazards that we present are very, very realistic,” says Leonard Ohenhen, lead author of the study and a PhD candidate at Virginia Tech. “We really hope that citizens and policymakers alike, every stakeholder in the community discussion, can start thinking about how we respond to these future changes.” &lt;/p&gt;
+&lt;p id="Xw9wmA"&gt;Ohenhen and his co-authors used radar satellite readings to map land subsidence along US coasts. That allowed them to see how land changes over time, and then predict how much further cities can expect to sink in the coming decades. From there, they were able to model the likely extent of future flooding with more accuracy than forecasts that don’t take land subsidence into consideration. &lt;/p&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt=" " data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/BnTpbxvSTRQDPjUmTvoEAiCpvl8=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25320134/Screenshot_2024_03_05_at_2.03.37_PM.png"&gt;
+      &lt;cite&gt;Image: Disappearing cities on US coasts, &lt;em&gt;Nature&lt;/em&gt;&lt;/cite&gt;
+  &lt;/figure&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt=" " data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/z_pJoEkd0w8sa2w-s1MPhw9eXGk=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25320139/Screenshot_2024_03_05_at_2.03.49_PM.png"&gt;
+      &lt;cite&gt;Image: Disappearing cities on US coasts, &lt;em&gt;Nature&lt;/em&gt;&lt;/cite&gt;
+  &lt;/figure&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Maps of cities along the US coastline are colored in blue to show areas exposed to flooding today. Red depicts an increase of areas exposed to flooding in 2050. Bar graphs show the growth of populations exposed in each city." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/GflUiZkwsY56V8yJAEVQKdlaOEo=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25320140/Screenshot_2024_03_05_at_2.03.57_PM.png"&gt;
+      &lt;cite&gt;Image: Disappearing cities on US coasts, &lt;em&gt;Nature&lt;/em&gt;&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;Inundation maps for cities on the US coast. Areas exposed to current (2020) high tide and further exposed areas by 2050 considering land subsidence and sea level rise under a middle of the road climate scenario.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="AM9xzn"&gt;“This represents a large new dataset that will hopefully be useful to these communities for planning their responses to this incoming sea level rise,” says Eric Lindsey, an assistant professor at the University of New Mexico who has &lt;a href="https://www.nature.com/articles/s41893-022-00947-z"&gt;studied&lt;/a&gt; land subsidence and sea level rise and was not involved in this new paper. &lt;/p&gt;
+&lt;p id="0kLIpS"&gt;The study’s flood forecast is likely conservative. It accounts for high tides but doesn’t take into consideration flooding from groundwater as sinking land gets closer to the water table. “It’s like sinking in the bottom of a bowl and suddenly you start to get water coming up around your ankles,” says Kristina Hill, program director of the Institute of Urban and Regional Development at the University of California, Berkeley who was not involved in the study.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="qvVmuN"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"New York City’s skyscrapers are sinking the city — and climate change can make things worse ","url":"https://www.theverge.com/2023/5/19/23730478/nyc-skyscrapers-climate-change-sinking-manhattan"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="wCo9sf"&gt;Some causes of land subsidence are natural, but others are human-made — which means steps can be taken to stop the problem from getting worse. Pumping water, oil, and gas out of the ground, for example, causes land to sink. Quit drilling and pumping, and the sinking slows. &lt;/p&gt;
+&lt;p id="rLx1y2"&gt;You can even reverse some of the damage by replenishing aquifers. “The solutions to that problem of land subsidence are available in our toolbox and very effective in a short time frame,” says Manoochehr Shirzaei, another author of the study and director of Virginia Tech’s Earth Observation and Innovation Lab. &lt;/p&gt;
+&lt;p id="JfNNvm"&gt;Since greenhouse gas emissions from fossil fuels are causing climate change, leaving fossil fuels in the ground is also a solution to sea level rise. Sea walls and levees &lt;a href="https://www.theverge.com/2022/2/28/22953552/sea-walls-coastal-cities-climate-change-adaptation-united-nations-report"&gt;won’t be enough&lt;/a&gt;. Even with current defenses in place, an additional 1,389 square kilometers of land along US coasts could be threatened by sea level rise by 2050. &lt;/p&gt;
+&lt;p id="23CSSw"&gt;&lt;/p&gt;
+&lt;p id="VLDLzd"&gt;&lt;/p&gt;
+&lt;p id="XnM9ZR"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/6/24091541/sinking-cities-coast-sea-level-rise-nature-research"/>
+    <id>https://www.theverge.com/2024/3/6/24091541/sinking-cities-coast-sea-level-rise-nature-research</id>
+    <author>
+      <name>Justine Calma</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-06T10:11:49-05:00</published>
+    <updated>2024-03-06T10:11:49-05:00</updated>
+    <title>The German Tesla plant fire is claimed by far-left ‘Volcano Group’</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="A stop sign stands near the Tesla logo at the Tesla factory on July 17th, 2023, near Gruenheide, Germany." src="https://cdn.vox-cdn.com/thumbor/tM1neSHEIwuPSAOF-lAevTkxdmA=/0x2:8192x5463/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73186235/1550685452.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;Tesla’s Gigafactory has been targeted by environmental activists who oppose plans to expand the facility.&lt;/em&gt; | Photo by Sean Gallup / Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="g5W3pM"&gt;A group of left-wing extremists has claimed responsibility for the suspected arson attack that shut down the Tesla Gigafactory outside of Berlin on Tuesday. &lt;/p&gt;
+&lt;p id="Frv5oq"&gt;The group, which calls itself “Vulkangruppe Tesla Abschalten” (also known as “Vulcan Group” or “Volcano Group”), said in &lt;a href="https://kontrapolis.info/12465/"&gt;a statement posted to Kontrapolis.info&lt;/a&gt; that it aimed to cause “the largest possible blackout of the Gigafactory,” citing environmental and labor concerns as motivations behind the attack. (Google Translate was used to translate the letter from German to English. All quotes in this article are from that translation.)&lt;/p&gt;
+&lt;p id="MkzSd3"&gt;Production was &lt;a href="https://www.theverge.com/2024/3/5/24091035/teslas-berlin-factory-shutdown-after-possible-arson"&gt;halted at the factory&lt;/a&gt; after the attack on a nearby electricity pylon cut power to the facility. &lt;a href="https://www.reuters.com/business/autos-transportation/tesla-plant-germany-without-power-after-suspected-arson-attack-bz-2024-03-05/"&gt;&lt;em&gt;Reuters&lt;/em&gt; reports&lt;/a&gt; that production isn’t expected to resume until “at least early next week,” with the outage reportedly costing Tesla estimated losses in the “high hundred of millions of euros.” &lt;a href="https://twitter.com/elonmusk/status/1764998660406845620"&gt;On X, Tesla CEO Elon Musk&lt;/a&gt; condemned the attack, referring to Volcano Group as “the dumbest eco-terrorists on Earth.”&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="oTbmDg"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"Tesla forced to pause Berlin Gigafactory after environmental challenge ","url":"https://www.theverge.com/2020/2/17/21140666/tesla-gigafactory-4-berlin-gruenheide-environmental-protest-pause"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="Xz9BlC"&gt;“We sabotaged Tesla today,” the group said, claiming the factory “eats up earth, resources, people, labor and spits out 6,000 SUVs, killing machines and monster trucks per week.” The 2,500-word letter goes on to accuse the Gigafactory of contaminating groundwater and requiring large quantities of drinking water to produce electric vehicles, &lt;a href="https://finance.yahoo.com/news/musk-accused-polluting-german-rivers-132031339.html"&gt;echoing similar concerns&lt;/a&gt; raised by officials from the local water authority near the facility in February.&lt;/p&gt;
+&lt;p id="fEbsjF"&gt;Plans to extend the German Tesla factory, which was opened in Grünheide in 2022, have faced major hurdles after locals voted against the expansion in a &lt;a href="https://www.dw.com/en/tesla-in-germany-locals-vote-against-factory-expansion-plan/a-68313010"&gt;nonbinding survey in February this year&lt;/a&gt;. Opponents argued the expansion project could impact water protection zones in the area. The Brandenburg region, where Grünheide is located, has been impacted by &lt;a href="http://europeanwater.org/news/press-releases/1029-tesla-s-gigafactory-endangers-our-water-and-ecological-resources"&gt;drought conditions for several years&lt;/a&gt;. Climate activists have also &lt;a href="https://twitter.com/teslastoppen/status/1764071757298733389"&gt;occupied the forest around the Gigafactory&lt;/a&gt; to protest its impact on the local water supply.&lt;/p&gt;
+&lt;p id="8ybF7l"&gt;&lt;a href="https://www.reuters.com/world/europe/german-police-authenticate-letter-group-claiming-responsibility-tesla-arson-2024-03-06/"&gt;According to &lt;em&gt;Reuters&lt;/em&gt;&lt;/a&gt;, German police believe the Volcano Group letter, which was signed “Agua De Pau,” the name of a volcanic mountain in the Azores, is authentic. &lt;a href="https://www.berlin.de/sen/inneres/verfassungsschutz/publikationen/verfassungsschutzberichte/verfassungsschutzbericht-2019.pdf"&gt;A 2019 report (pdf)&lt;/a&gt; published by German authorities says that various crimes have been committed under the Vulkangruppe moniker following a surge in &lt;a href="https://www.reuters.com/article/germany-cars-arson/berlin-loses-sleep-over-car-arson-attacks-at-night-idUSL5E7JI2P820110818/"&gt;arson attacks on cars in 2011&lt;/a&gt;, with perpetrators often using the names of Icelandic volcanoes as an alias. The group has also previously claimed responsibility for &lt;a href="https://www.theguardian.com/technology/2021/may/26/far-left-activists-claim-responsibility-tesla-factory-fire-germany"&gt;another arson attack&lt;/a&gt; in Grünheide in 2021 during the construction of the Tesla Gigafactory.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/6/24092178/german-tesla-gigafactory-fire-arson-far-left-volcano-vulkan-group"/>
+    <id>https://www.theverge.com/2024/3/6/24092178/german-tesla-gigafactory-fire-arson-far-left-volcano-vulkan-group</id>
+    <author>
+      <name>Jess Weatherbed</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>The Verge -  Speaker Reviews</title>
+  <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
+  <updated>2024-02-08T10:45:00-05:00</updated>
+  <id>https://www.theverge.com/rss/speaker-review/index.xml</id>
+  <link type="text/html" href="https://www.theverge.com/speaker-review" rel="alternate"/>
+  <entry>
+    <published>2024-02-08T10:45:00-05:00</published>
+    <updated>2024-02-08T10:45:00-05:00</updated>
+    <title>JBL Authentics 300 smart speaker review: two assistants at once</title>
+    <content type="html">
+  &lt;p&gt;JBL is the first to make Amazon Alexa and Google Assistant coexist on the same speaker, and it works quite well. But the price you pay for that convenience feels a little uneven.&lt;/p&gt; &lt;p class="p--has-dropcap p-large-text" id="91qm6B"&gt;JBL’s Authentics line of smart speakers is the first to support Google Assistant and Amazon Alexa working simultaneously on the same audio device. Yes, it somehow took until just recently for that to happen. But if you’ve got a split smart home — or prefer using Assistant for general questions and Alexa for controlling gadgets — these speakers can do that. It’s a unique selling point that no other company can (yet) match, though it’s also fairly niche.&lt;/p&gt;
+&lt;p id="nhVDhn"&gt;I’ve been testing the middle-tier Authentics 300 for a few weeks now, and thankfully, the dual assistant trick isn’t the only thing going for it. It offers plenty of connectivity options, dials for EQ adjustments on the speaker itself, and a ’70s-style vibe. Plus, this is the only Authentics speaker with a built-in battery, so you can take it on the move. But there are clear drawbacks as well, led by the unit’s $449.99 MSRP, inconsistent sound tuning, and its lack of protection against the elements. &lt;/p&gt;
+&lt;div&gt;&lt;div id="v4uUGd"&gt;&lt;div data-anthem-component="scorecard:12246893"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p id="Tnt1uX"&gt;I’m a fan of retro-style speakers, and JBL mostly hits the mark with the Authentics 300. The black faux leather design has gold accents, which I find to be a tasteful combo that doesn’t go overboard or veer into gaudy territory. And the patterned acoustic fabric on the front gives the speaker a classic appearance head-on that looks right at home on any shelf. Also, considering the giant-size logo that JBL often stamps onto its Bluetooth speakers, I appreciate the restraint shown here with a small emblem in the lower left of the 300’s face.&lt;/p&gt;
+&lt;p id="HzO7ir"&gt;Weighing nearly 11 pounds, the Authentics 300 is a hefty sucker. It’s far from small at 13.5 inches wide. This thing is a far cry from JBL’s mainstream Bluetooth speakers. But there’s at least a built-in carrying handle that makes the 300 easier to move around the house. Inside the housing are a pair of 25-millimeter tweeters and a single 5.25-inch woofer. If you glance at the speaker’s underside, you can’t miss the downward-firing passive radiator that’s intended to maximize the speaker’s bass response. There’s no Dolby Atmos or spatial audio support to be found here; you’ve got to shell out for the flagship Authentics 500 if you want that.&lt;/p&gt;
+&lt;div class="c-wide-block"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="A photo of JBL’s Authentics 300 smart speaker." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/Vwk5PiZvaVlTTTLt-vndwO_E4A4=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25274117/DSCF4201.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;This is not a small speaker. Pictured with a Pixel 8 Pro for scale.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p id="VAHOrm"&gt;Up top are the controls: power; a Bluetooth button for pairing; and a heart button that you can assign to trigger a particular playlist from any music service that’s integrated with JBL’s mobile app. Unfortunately, Apple Music and Spotify aren’t among those, but you can still stream those services to the 300 directly over AirPlay or by casting on Android. I recommend doing this whenever possible because, over Bluetooth, the Authentics 300 is limited to the base SBC codec, a disappointment at this price tier.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="l77Gqc"&gt;&lt;q&gt;A stylish, feature-packed speaker that’s priced too high&lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="U2liEy"&gt;The volume knob on the left doubles as a multifunction button when pressed — once to play / pause, twice to skip tracks, and three times to go back — and there are treble and bass dials to the right. Each of these dials is surrounded by an LED that makes for an easy visual representation of what level you’re currently at. Around back, there’s a 3.5mm aux input (we love to see it), ethernet, a USB-C input that supports MP3 and WAV files from attached hard drives, and a figure-8 power connector. Last but not least, for the privacy-minded out there, you’ll notice a physical switch for disabling the speaker’s built-in microphones.&lt;/p&gt;
+&lt;div class="c-wide-block"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="A photo of JBL’s Authentics 300 smart speaker." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/S-KvUAmQyn7lCjvQZi-y4U8--zI=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25274163/DSCF4174_Enhanced_NR.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;There’s an LED ring around each dial that shows what level you’re at as you turn it.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p id="NUhO9n"&gt;So that’s the hardware layout, but obviously, a huge component of the Authentics 300 is JBL’s software. I’m pleased to report that the companion mobile app is generally easy to use. The three-band EQ leaves some room for improvement, however — I’d have preferred more granular control over the sound for such a premium unit. I experienced no issues with setting up both Alexa and Google Assistant on the device, and once I did, voice commands worked relatively seamlessly. It’s possible to trip the 300 up a bit — like if you play a song with one voice helper and then ask the other for details on the current track — but you’re only likely to encounter those edge cases if you go looking for them. In everyday use, the pair worked refreshingly well, with the speaker quickly responding to the activation phrase for either one. I never ran into any noticeable bugs or freezes, so the framework of whatever JBL is doing here seems to be strong. Hopefully, we’ll see other speaker makers follow the company’s lead before long.&lt;/p&gt;
+&lt;div class="c-wide-block"&gt;&lt;div class="c-image-grid"&gt;
+&lt;div class="c-image-grid__item"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="A photo of JBL’s Authentics 300 smart speaker." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/3yESr-EpQUCfCHmTLc-qCfxpaw4=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25274114/DSCF4178.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;The bottom-facing passive radiator helps give the bass some extra oomph.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;div class="c-image-grid__item"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="A photo of JBL’s Authentics 300 smart speaker." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/_uGBuxpD8tnYKs5qF3cwG99JMjI=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25274116/DSCF4188.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;Bluetooth and Wi-Fi aren’t the only ways to play tunes on the Authentics 300.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;p id="S4F64L"&gt;You’d expect very impressive audio quality for the Authentics 300’s asking price, and I’d say about 75 percent of the time, that’s what you’ll get. In my testing so far, this speaker has excelled at acoustic-driven music, jazz, and classical playback. There’s a nice, perceptible warmth to it that matches the vintage styling, and the detail and clarity are top-notch. The 300 has a lot of &lt;em&gt;presence&lt;/em&gt; that’s enough to envelope any reasonably sized room. You’ve got a 100-watt amp to work with, so this thing can also go impressively loud without distortion or audible strain. At those upper-tier volume levels, it outpaces other speakers I’ve recently reviewed like the &lt;a href="https://www.theverge.com/23877274/sonos-move-2-review"&gt;Sonos Move 2&lt;/a&gt; and &lt;a href="https://www.theverge.com/23941028/ultimate-ears-epicboom-bluetooth-speaker-review"&gt;UE Epicboom&lt;/a&gt;, but it’s not quite on par with the Sonos Five across the frequency range.&lt;/p&gt;
+&lt;div class="c-wide-block"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="A photo of JBL’s Authentics 300 smart speaker." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/os37BrDO4UNjqZhjaFtGlCKCsxY=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25274112/DSCF4175.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;If JBL can make its tuning more consistent, future Authentics speakers could be really special.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p id="NUVdeJ"&gt;It felt like, occasionally in any playlist, I’d land on a track that wasn’t the right match for JBL’s tuning. I’ve rarely complained about vocals being &lt;em&gt;too&lt;/em&gt; pronounced on a speaker, but something about the 300’s tuning can make them cut through the mix more than I’d prefer, especially on rock tracks. I generally left the 300’s EQ alone, but the dials make it convenient to experiment with different amounts of high-end sparkle and bass from song to song. They’re not enough to solve for those random songs where the Authentics 300 isn’t at its best, though. Overall, this unit is a big cut above JBL’s portable speakers. You can technically use this portably as well; I found JBL’s eight-hour battery estimate to be right on the money. Just remember that the Authentics 300 lacks any kind of dust or water resistance rating, so you’ll only want to bring it outside during nice weather. &lt;/p&gt;
+&lt;p class="c-end-para" id="SBC2al"&gt;This speaker, and the others in JBL’s Authentics line, mark a big moment for voice assistant harmony. But for as long as it took to get here, it seems unlikely that JBL will be able to claim this two-asisstants-at-once feature as an exclusive perk for very long. When you rate the Authentics 300 in other ways, it’s a very capable speaker with a great look that gives you plenty of functionality and several methods of playing music, be it over Bluetooth, Wi-Fi, or plugged in via the aux jack or USB-C. The price is tough to swallow on this one, however. At publish time, the Authentics 300 is on sale for $350. That strikes me as more appropriate for what you’re getting in return — especially if you’ve found yourself caught in a split, chaotic smart home life.&lt;/p&gt;
+&lt;p id="tIYioN"&gt;&lt;em&gt;Photography by Chris Welch / The Verge&lt;/em&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/24065942/jbl-authentics-300-speaker-review-alexa-google-assistant"/>
+    <id>https://www.theverge.com/24065942/jbl-authentics-300-speaker-review-alexa-google-assistant</id>
+    <author>
+      <name>Chris Welch</name>
+    </author>
+  </entry>
+</feed>

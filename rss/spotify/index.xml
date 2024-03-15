@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>The Verge -  Spotifies</title>
+  <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
+  <updated>2024-03-14T16:00:00-04:00</updated>
+  <id>https://www.theverge.com/rss/spotify/index.xml</id>
+  <link type="text/html" href="https://www.theverge.com/spotify" rel="alternate"/>
+  <entry>
+    <published>2024-03-14T16:00:00-04:00</published>
+    <updated>2024-03-14T16:00:00-04:00</updated>
+    <title>Spotify says its iPhone app updates in the EU are getting held up by Apple</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="An illustration of Spotify’s logo." src="https://cdn.vox-cdn.com/thumbor/7kLZIck-Zl86M-MPHm-Pkhb8JxU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73207641/STK088_VRG_Illo_N_Barclay_5_spotify.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: Nick Barclay / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="an6zpV"&gt;Even after Apple was &lt;a href="https://www.theverge.com/2024/3/4/24005938/european-commission-antitrust-apple-investigation-anti-steering-rules-app-developers"&gt;hit with a $2 billion fine&lt;/a&gt; in the European Union over years-old complaints from Spotify about its App Store rules, Spotify says Apple is stonewalling updates issued in compliance with that very ruling. In an email to the European Commission obtained by &lt;em&gt;The Verge&lt;/em&gt;, Spotify writes that Apple has “neither acknowledged nor responded to Spotify’s submission” to bring subscription pricing information into the app, preventing it from updating the app at all for its users, even to put out fixes for bugs or add other features.&lt;/p&gt;
+&lt;p id="nnqpm9"&gt;On March 5th, &lt;a href="https://www.theverge.com/2024/3/5/24091430/spotify-links-pricing-information-iphone-eu-app"&gt;Spotify submitted an update&lt;/a&gt; to Apple that puts links to Spotify’s website, along with pricing information for different subscription options, directly in the EU version of its app, without using Apple’s payment system. Spotify made the change in response to a ruling issued the day before &lt;a href="https://www.theverge.com/2024/3/4/24005938/european-commission-antitrust-apple-investigation-anti-steering-rules-app-developers"&gt;by the European Commission&lt;/a&gt;, which said Apple’s anti-steering rules are “illegal” and ordered Apple to start allowing developers to include information about “alternative and cheaper music subscription services.” &lt;/p&gt;
+&lt;p id="3y1hBP"&gt;Apple &lt;a href="https://www.apple.com/newsroom/2024/03/the-app-store-spotify-and-europes-thriving-digital-music-market/"&gt;responded to the decision on March 4th&lt;/a&gt; by saying it would appeal and pointing out a list of “ways Apple creates value for Spotify, at no cost to their company,” which happened to include this bullet point:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p id="3pn1gv"&gt;Our App Review team has reviewed and approved 421 versions of the Spotify app — usually with same-day turnaround — and frequently expedites reviews at Spotify’s request.&lt;/p&gt;&lt;/blockquote&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt=" " data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/PMaxOBwwuXdPYaT2YS_MvBleYhk=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25336218/DMA_Media_Stills_2__1_.png"&gt;
+      &lt;cite&gt;Image: Spotify&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;Spotify’s update includes pricing information and links to subscriptions.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="ueCClH"&gt;In the email, Spotify says it hasn’t heard back from Apple since submitting the update.&lt;/p&gt;
+&lt;p id="MWfdMD"&gt;The company writes that this is “yet another example of how Apple if unchecked, will seek to circumvent and/or not comply with the Commission’s decision.” It also urges the European Commission to contact Apple and requires that it approve Spotify’s changes. “Given Apple’s track record, Spotify is concerned that Apple’s delay is intentional and is aimed at delaying or avoiding compliance altogether,” the email reads.&lt;/p&gt;
+&lt;p id="dTlXmI"&gt;“It’s been nine days now and we’re still waiting to hear from Apple about our app submission to show EU consumers pricing and a link to our website, which we are now authorized to do by the European Commission’s decision on the music streaming case,” Spotify spokesperson Jeanne Moran says in an emailed statement to &lt;em&gt;The Verge&lt;/em&gt;. “Apple’s delay directly conflicts with its claim that they turn around reviews on app submissions within 24 hours, and it also flies in the face of the timeline for adoption the Commission laid out.” &lt;/p&gt;
+&lt;p id="Q1fHHM"&gt;Apple didn’t provide a comment in response to a request from &lt;em&gt;The Verge&lt;/em&gt;.&lt;/p&gt;
+&lt;p id="Yzf5jU"&gt;This ruling is separate from the &lt;a href="https://www.theverge.com/2024/3/6/24091592/eu-dma-competition-compliance-deadline-big-tech-policy-changes"&gt;EU’s Digital Markets Act&lt;/a&gt; (DMA) regulations for big tech platforms that have only been around for about a week, but the European Commission has already intervened in response to one of Apple’s DMA-related decisions. Earlier this month, &lt;a href="https://www.theverge.com/2024/3/6/24092158/epic-apple-developer-account-terminated-digital-markets-act-alternative-ios-app-store"&gt;Apple revoked Epic Games’ developer license&lt;/a&gt; because of criticism CEO Tim Sweeney made about Apple’s DMA compliance plan. Epic Games &lt;a href="https://www.theverge.com/2024/3/8/24094543/epic-games-ios-developer-license-apple-dma"&gt;got its developer license back days later&lt;/a&gt;, citing “a swift inquiry” from the European Commission.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/14/24100944/spotify-ios-app-update-eu-apple-dma"/>
+    <id>https://www.theverge.com/2024/3/14/24100944/spotify-ios-app-update-eu-apple-dma</id>
+    <author>
+      <name>Emma Roth</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-13T05:48:45-04:00</published>
+    <updated>2024-03-13T05:48:45-04:00</updated>
+    <title>Spotify now has music videos</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Screenshot of Spotify’s Now Playing screen with the switch to video button visible." src="https://cdn.vox-cdn.com/thumbor/QU1DAZ-P-0fcmGn5gJHhT8FHM8M=/0x0:1100x733/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73203182/PR_Header_EN_1_1440x733.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;Videos can be accessed via a “Switch to Video” button on supported tracks.&lt;/em&gt; | Image: Spotify&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="DD4LpD"&gt;Spotify is officially adding support for music videos, &lt;a href="https://newsroom.spotify.com/2024-03-13/music-videos-rolling-out-in-beta-to-premium-spotify-users-across-select-markets/"&gt;the company announced today&lt;/a&gt;. The audio streaming service describes the feature as a “beta” with only a “limited catalog” available as of today in 11 markets. Supported artists include Ed Sheeran, Doja Cat, Ice Spice, Aluna, and Asake, with Spotify’s global head of consumer experience Sten Garmark &lt;a href="https://techcrunch.com/2024/03/13/spotify-adds-music-videos-in-some-countries/"&gt;telling &lt;em&gt;TechCrunch&lt;/em&gt;&lt;/a&gt; that Spotify’s full music video catalog will eventually include “thousands” of songs.&lt;/p&gt;
+&lt;p id="4ZBUqE"&gt;The music video feature is accessible via the Now Playing screen on supported tracks, where a “Switch to Video” icon will appear above the song title. Tapping it will restart the song, and start playing its music video in the center of the display. You can rotate an iOS or Android device to play the music video fullscreen, and tap “Switch to Audio” to return to the more traditional Now Playing interface.&lt;/p&gt;
+&lt;p id="sMMSWD"&gt;The feature is currently available in a limited number of markets; the UK, Germany, Italy, the Netherlands, Poland, Sweden, Brazil, Colombia, Philippines, Indonesia, and Kenya. Garmark says these markets were chosen “based on a number of criteria including market size and the availability of local content support.”&lt;/p&gt;
+&lt;p id="62LbrB"&gt;As well as iOS and Android, Spotify says the music videos feature is also available on desktop and TV devices. You’ll need to have a Premium subscription to watch them.&lt;/p&gt;
+&lt;p id="pDmPaY"&gt;Although primarily an audio streaming service, Spotify has long supported various forms of video, whether it’s &lt;a href="https://www.theverge.com/2022/4/21/23035242/spotify-video-podcasts-launch-countries"&gt;video podcasts&lt;/a&gt; or &lt;a href="https://artists.spotify.com/en/blog/spotify-clips-get-started-short-form-video-stream-on"&gt;short vertical videos called Clips&lt;/a&gt; that are designed to let artists talk directly with their fans. With its new music video feature, Spotify says it’s aiming to give artists another way to hook in listeners and turn them into fans.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/13/24099337/spotify-music-video-beta-11-markets-supported-artists"/>
+    <id>https://www.theverge.com/2024/3/13/24099337/spotify-music-video-beta-11-markets-supported-artists</id>
+    <author>
+      <name>Jon Porter</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-05T16:00:00-05:00</published>
+    <updated>2024-03-05T16:00:00-05:00</updated>
+    <title>Spotify is about to put Apple’s new App Store policies to the test</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Spotify’s logo" src="https://cdn.vox-cdn.com/thumbor/oOfwztjcR8j5qCvvjgSKXW6_2k4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73184572/STK088_VRG_Illo_N_Barclay_4_spotify.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration by Nick Barclay / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="4iWx6a"&gt;Spotify isn’t going to launch the in-app purchases it previously planned for the European Union, at least right now. Instead, if Apple approves a newly submitted update, it’s going to try to do the next best thing: provide pricing information within the app and link users to its subscription options.&lt;/p&gt;
+&lt;p id="t1QzMs"&gt;Spotify spokesperson Jeanne Moran tells &lt;em&gt;The Verge&lt;/em&gt; that the company is planning to make this change in response to the European Commission’s ruling on Monday, which &lt;a href="https://www.theverge.com/2024/3/4/24005938/european-commission-antitrust-apple-investigation-anti-steering-rules-app-developers"&gt;fined Apple €1.84 billion&lt;/a&gt; (about $2 billion) for “abusing its dominant position” in the music streaming app distribution business. The European Commission found that Apple’s anti-steering rules prevent developers from telling users about “alternative and cheaper music subscription services available outside of the app.”&lt;/p&gt;
+&lt;p id="uYFPWC"&gt;Margrethe Vestager, the European Commission’s competition head, &lt;a href="https://ec.europa.eu/commission/presscorner/detail/en/speech_24_1309"&gt;said during a press conference&lt;/a&gt; that this practice is “illegal” and ordered Apple to remove its anti-steering provisions for music streaming apps. She said that Apple will “have to allow music streaming developers to communicate freely with their own users,” letting them provide pricing information to users in apps. &lt;a href="https://www.apple.com/newsroom/2024/03/the-app-store-spotify-and-europes-thriving-digital-music-market/"&gt;Apple said it would appeal&lt;/a&gt; the decision and accused Spotify of wanting to “rewrite the rules of the App Store.”&lt;/p&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt=" " data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/oRP8BkzTVyW1VnRCZuwVtuB-l10=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25319790/DMA_Media_Stills_1.png"&gt;
+      &lt;cite&gt;Image: Spotify&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;Spotify’s app will include information about what its subscriptions offer and how much they cost.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="U4xQMp"&gt;Spotify is taking full advantage of this ruling. If Apple approves the change, Spotify will be able to provide iOS users in the EU with information about the prices of its Premium subscriptions as well as the different features they offer. It will also include links that point users to its website to buy the subscriptions they want. You can see how this will look in the image included above.&lt;/p&gt;
+&lt;p id="l6qpnZ"&gt;Earlier this year, Spotify announced plans to &lt;a href="https://www.theverge.com/2024/1/24/24048561/spotify-dma-eu-apple-app-store-epic"&gt;start allowing in-app purchases on its iOS app&lt;/a&gt; in the EU, but it decided not to immediately follow through after Apple revealed its plans to comply with the EU’s Digital Markets Act, or DMA. (The DMA’s deadline for compliance hits later this week.) Part of Apple’s plan includes &lt;a href="https://www.theverge.com/24051818/apple-app-store-dma-eu-developer-response"&gt;a new set of business terms&lt;/a&gt; that allow developers to put their apps on alternative app stores and pay a lower commission to Apple — but only if apps &lt;a href="https://www.theverge.com/2024/1/26/24051823/apple-third-party-app-stores-50-cent-fee"&gt;pay 50 euro cents for each annual app&lt;/a&gt; install after 1 million downloads. That fee can add up for larger freemium apps like Spotify.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="jHsnY3"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"Spotify and Epic criticize Apple’s iOS changes as ‘a mockery of the DMA’","url":"https://www.theverge.com/2024/3/1/24087513/spotify-epic-european-commission-letter-apple-dma"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="hmSviT"&gt;&lt;a href="https://www.theverge.com/2022/3/30/23003503/apple-reader-app-developer-external-link-guidelines-announced-entitlements"&gt;Apple started letting reader apps&lt;/a&gt;, including Spotify, Netflix, and Kindle, include links to their websites in apps in 2022. However, Apple still exerts control over the language reader apps can use when pointing users toward their link, preventing them from telling users how much a subscription costs.&lt;/p&gt;
+&lt;p id="0r4YQg"&gt;Spotify has already sent Apple its plans to introduce pricing information within its app. It’s up to Apple to accept or reject the proposal, and this time, the European Commission will be around to scrutinize the decision.&lt;/p&gt;
+&lt;p id="45PN05"&gt;&lt;em&gt;&lt;strong&gt;Update March 6th, 9:16AM ET:&lt;/strong&gt;&lt;/em&gt;&lt;em&gt; Added attribution to a Spotify spokesperson.&lt;/em&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/5/24091430/spotify-links-pricing-information-iphone-eu-app"/>
+    <id>https://www.theverge.com/2024/3/5/24091430/spotify-links-pricing-information-iphone-eu-app</id>
+    <author>
+      <name>Emma Roth</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-01T11:28:44-05:00</published>
+    <updated>2024-03-01T11:28:44-05:00</updated>
+    <title>Spotify’s new audiobook tier will only save you a dollar over Premium</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="An illustration of Spotify’s logo." src="https://cdn.vox-cdn.com/thumbor/CpGQ-AUpxto9-0h26zb4JarZncI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73175865/STK088_VRG_Illo_N_Barclay_5_spotify.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: Nick Barclay / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="P4US3V"&gt;Spotify &lt;a href="https://newsroom.spotify.com/2024-03-01/spotifys-new-audiobooks-access-tier-gives-booklovers-more-listening-options/"&gt;announced&lt;/a&gt; a new subscription tier that “gives booklovers more listening options.” But subscribers would only save $1 a month compared to the classic Premium tier.&lt;/p&gt;
+&lt;p id="1AEumk"&gt;The monthly subscription costs $9.99 and includes 15 free listening hours of audiobooks, the same as the classic Premium plan. But $10.99 Premium subscribers &lt;a href="https://www.theverge.com/2023/11/8/23951938/spotify-audiobook-listening-perk-us-premium-subscribers"&gt;get 15 hours of audiobooks&lt;/a&gt;, plus ad-free music — whereas the audiobook plan still has ads for music services. Essentially, audiobook listeners are paying nearly the same amount while getting half the benefits.&lt;/p&gt;
+&lt;p id="ceDuVb"&gt;The audiobook plan also doesn’t add any additional perks for readers. If I were a big audiobook person, I’d probably want more than 15 hours a month, for example. But Spotify is capping the listening limit for Premium subscribers &lt;em&gt;and&lt;/em&gt; the book lovers option. For $12.99, subscribers can &lt;a href="https://www.theverge.com/2023/11/8/23951938/spotify-audiobook-listening-perk-us-premium-subscribers"&gt;buy 10 extra hours&lt;/a&gt; of books if they run out between billing cycles. The new tier almost feels like it’s simply upselling potential subscribers to the regular Premium option, instead of encouraging people who love audiobooks to subscribe for that service.&lt;/p&gt;
+&lt;p id="Avq9Ki"&gt;One benefit could be Spotify’s library of options. Audible’s basic plan, priced at $7.95 a month, only covers a selection of audiobooks, compared to the 200,000 titles Spotify is opening up. On the other hand, Audible allows for unlimited listening. A higher priced Audible tier at $14.95 includes unlimited listening to the basic plan library, plus one credit a month to purchase any book that you get to keep.&lt;/p&gt;
+&lt;p id="8cYQGE"&gt;For months, anger has been brewing in publishing about Spotify’s treatment of audiobooks, especially around compensation. Some publishers like Macmillan told writers that royalty payments will only apply for each full listen of their book, &lt;a href="https://www.bloomberg.com/news/articles/2023-12-19/spotify-s-audiobooks-plan-is-getting-blasted-by-authors-around-the-world"&gt;according to &lt;em&gt;Bloomberg&lt;/em&gt;&lt;/a&gt; — one person listening to a full 10-hour-long audiobook or two people each listening to five hours, for example. This is different from other models, where authors are paid for purchases of their titles, regardless of how much the listener consumes. &lt;em&gt;Bloomberg &lt;/em&gt;notes that different publishing houses may have different terms with Spotify.&lt;/p&gt;
+&lt;p id="cDRx1R"&gt;&lt;a href="https://www.nytimes.com/2023/12/13/opinion/audiobooks-spotify-streaming-algorithm.html"&gt;Some warn&lt;/a&gt; that the streaming model will result in authors being paid less as readers move from buying books to streaming portions of the work. Spotify has &lt;a href="https://www.theguardian.com/books/2024/feb/01/spotify-claims-to-have-paid-audiobook-publishers-tens-of-millions-in-royalties"&gt;claimed&lt;/a&gt; it’s paid “tens of millions” of dollars to publishers since it &lt;a href="https://www.theverge.com/2023/11/8/23951938/spotify-audiobook-listening-perk-us-premium-subscribers"&gt;first introduced&lt;/a&gt; the 15 hours of free listening for paying subscribers.&lt;/p&gt;
+&lt;p id="w36MRp"&gt;&lt;em&gt;&lt;strong&gt;Correction March 4th, 2024 1:15PM ET: &lt;/strong&gt;&lt;/em&gt;&lt;em&gt;This story previously incorrectly stated that Premium subscribers get ad-free podcasts. We regret the error.&lt;/em&gt;&lt;/p&gt;
+&lt;p id="LwD9ZX"&gt;&lt;/p&gt;
+&lt;p id="c1rrIQ"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/1/24087550/spotify-audiobook-access-tier-price-ads"/>
+    <id>https://www.theverge.com/2024/3/1/24087550/spotify-audiobook-access-tier-price-ads</id>
+    <author>
+      <name>Mia Sato</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-02-28T08:35:11-05:00</published>
+    <updated>2024-02-28T08:35:11-05:00</updated>
+    <title>The best alternatives to Spotify for listening to music</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Red background with a repeating pattern of white headphones." src="https://cdn.vox-cdn.com/thumbor/K3rbKccOG2qqcjOi5fPcQse8ioQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70463228/STK427_Getty_Headphones.11.jpg" /&gt;
+        &lt;figcaption&gt;Image: Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="ywMf7A"&gt;When this article was originally written in February 2022, the big &lt;a href="https://www.theverge.com/2022/2/1/22912275/joe-rogan-spotify-covid-misinformation-moderation-podcast-exclusive"&gt;Spotify controversy&lt;/a&gt; was that artists were abandoning the audio service in protest of the company’s contract with podcaster Joe Rogan, and &lt;a href="https://twitter.com/search?q=%23Spotifydeleted&amp;amp;src=typeahead_click"&gt;some subscribers were deciding to follow&lt;/a&gt; the musicians’ example. More recently, the issue that has users irritated is the &lt;a href="https://www.theverge.com/24080999/spotify-hifi-lossless-high-res-audio-three-years-rip"&gt;continued lack of HiFi&lt;/a&gt; and the &lt;a href="https://www.theverge.com/2024/2/13/24071916/every-noise-at-once-spotify-layoffs-music-discovery-resource"&gt;layoffs that have made music discovery even harder&lt;/a&gt;. &lt;/p&gt;
+&lt;p id="EWCKM1"&gt;Although Spotify is probably the best-known music service, there are quite a few alternatives available for good music listening. If you’re someone who has decided to explore what music services are out there, here’s a quick rundown of some of the possibilities. But in the interest of being complete, we will start with Spotify itself.&lt;/p&gt;
+&lt;h2 id="zbTAPT"&gt;&lt;a href="https://spotify.com/"&gt;Spotify&lt;/a&gt;&lt;/h2&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Spotify website with list of favorites on left, business podcasts with large icons in center." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/JoqHrIgF7CPJlT6aErkz4nMw4uo=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25306225/Screenshot_2024_02_26_at_9.11.02_AM.png"&gt;
+      &lt;cite&gt;Screenshot by Barbara Krasnoff / The Verge&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;Spotify.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="hSmHD6"&gt;Spotify has been undergoing a lot of changes lately, &lt;a href="https://www.theverge.com/2023/12/4/23987335/spotify-layoffs-17-percent-profitability-cost-cutting"&gt;laying off about 1,500 people&lt;/a&gt;, putting its podcasting service front and center, and succeeding (to an extent) in its &lt;a href="https://www.theverge.com/2024/2/21/24079617/spotify-apple-app-store-eu-iheart"&gt;2019 complaint with the European Commission&lt;/a&gt; against Apple’s music app practices. Does this result in a better product? It depends on who you talk to.&lt;/p&gt;
+&lt;p id="Vm7Pih"&gt;Spotify’s free service offers a wide selection of music interrupted fairly frequently with advertisements. While you can specify songs, albums, or podcasts directly using the app, you have less choice as to what you want in your listening queue. (For example, if I request a specific artist using Google Assistant or Alexa, I’ll invariably be led to the artist’s “radio.”)&lt;/p&gt;
+&lt;p id="A2EnkR"&gt;&lt;strong&gt;Spotify Premium&lt;/strong&gt; starts with its Individual ($10.99 / month) account, which offers ad-free listening, the ability to download songs and organize your queue, and up to 15 hours of audiobook listening. You can also get the same features for two people with Premium Duo ($14.99 / month) and up to six people or kids with Premium Family ($16.99 / month), which adds the ability to block explicit music. &lt;/p&gt;
+&lt;p id="X2AX7o"&gt;&lt;strong&gt;Budget plans:&lt;/strong&gt; Premium Student ($5.99 / month), for verified students, adds access to Hulu.&lt;/p&gt;
+&lt;p id="Amh2vT"&gt;&lt;strong&gt;Free trial:&lt;/strong&gt; You get a one-month free trial.&lt;/p&gt;
+&lt;h2 id="7llFij"&gt;&lt;a href="https://www.amazon.com/music/unlimited/"&gt;Amazon Music&lt;/a&gt;&lt;/h2&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Amazon website with My Music on left, photo of musician on right, and icons of other musicians at bottom." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/hm0iH0csZLjG0bhcq7WdPz4ySaU=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25306282/Screenshot_2024_02_26_at_3.08.01_PM.png"&gt;
+      &lt;cite&gt;Screenshot by Barbara Krasnoff / The Verge&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;Amazon Music Free.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="viDS90"&gt;Along with Apple Music and Google’s YouTube Music, Amazon Music is one of the most well-known services outside of Spotify. It offers three different music tiers; as you travel up the ladder, you get access to more songs at higher levels of quality. You can also listen to podcasts.&lt;/p&gt;
+&lt;p id="Wz8OKY"&gt;&lt;strong&gt;Amazon Music Free&lt;/strong&gt; allows you access to the service’s playlists, radio stations, and podcasts, but audio quality is limited to SD, there are ads, and you can’t select specific songs or albums. &lt;/p&gt;
+&lt;p id="wrBNtw"&gt;&lt;strong&gt;Amazon Music Prime&lt;/strong&gt; is free to members of its Prime shopping, video, etc. service (but not to family members — it’s one of the few features that is not shared). It is also SD only, but it is ad-free and lets you select specific songs. &lt;/p&gt;
+&lt;p id="pSeFOY"&gt;&lt;strong&gt;Amazon Music Unlimited&lt;/strong&gt; lets you have ad-free access to songs in SD, HD, Ultra HD, and spatial audio. The Individual Plan ($999 / month) only lets you listen on one device at a time; the Family Plan ($16.99 / month) lets you have up to six accounts used on several devices.&lt;/p&gt;
+&lt;p id="68EnfI"&gt;&lt;strong&gt;Budget plans: &lt;/strong&gt;The Single Device Plan ($5.99 / month) lets you use the service on a specific Echo or Fire device, and the Student Plan ($5.99 / month) gives you HD access and many of Unlimited’s features.&lt;/p&gt;
+&lt;p id="4DFh3d"&gt;&lt;strong&gt;Free trial:&lt;/strong&gt; All plans offer a 30-day free trial.&lt;/p&gt;
+&lt;h2 id="gAVDzN"&gt;&lt;a href="https://www.apple.com/apple-music/"&gt;Apple Music&lt;/a&gt;&lt;/h2&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Apple Music " data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/o8n9Qm522K8EF_rG42l1SaKFid4=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23210826/apple_music.png"&gt;
+      &lt;cite&gt;Screenshot by Barbara Krasnoff / The Verge&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;Apple Music.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="WwqV3L"&gt;Apple Music is a good option, especially for those who already have a buy-in to the Apple ecosystem. It touts its higher-quality audio, including “immersive sound&lt;strong&gt; &lt;/strong&gt;with dynamic head tracking” for those with AirPods. You can also download&lt;strong&gt; &lt;/strong&gt;and stream music to your Apple Watch. Other features include a lyrics view so you can follow along, curated lists, and live radio stations. &lt;/p&gt;
+&lt;p id="I082lC"&gt;There is no free version; you’ll have to go to a separate app for podcasts.&lt;/p&gt;
+&lt;p id="dzIlnN"&gt;&lt;strong&gt;Apple Music Individual&lt;/strong&gt; ($10.99 / month) is the standard plan; besides access to Apple’s music library and playlists, it can be used with a variety of devices and offers high-quality audio, including lossless audio and spatial audio with Dolby Atmos. You can request specific songs or albums by asking Siri; you can also download music and see lyrics. A Family plan ($16.99 / month) provides the Individual features for up to six people.&lt;/p&gt;
+&lt;p id="Le7w3b"&gt;&lt;strong&gt;Budget plans:&lt;/strong&gt; If you’re in college, the Student plan ($5.99 / month) offers the same features as the Individual plan. You can also include Apple Music in the &lt;a href="https://www.apple.com/apple-one/"&gt;Apple One bundle plan&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="170KQV"&gt;&lt;strong&gt;Free trials:&lt;/strong&gt; One-month free trial for all plans.&lt;/p&gt;
+&lt;h2 id="KBPUln"&gt;&lt;a href="https://bandcamp.com/"&gt;Bandcamp&lt;/a&gt;&lt;/h2&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Bandcamp website with lists of genres on top and various artists shown in squares below." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/uytrYHDo7UPTQGCGssoQCivXdis=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25306600/Screenshot_2024_02_26_at_5.20.21_PM.png"&gt;
+      &lt;cite&gt;Screenshot by Barbara Krasnoff / The Verge&lt;/cite&gt;
+      &lt;figcaption&gt;
+&lt;em&gt;Bandcamp&lt;/em&gt;.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="l30xJO"&gt;When we first published this roundup, several people recommended that we also include Bandcamp, and it’s easy to see why. Bandcamp calls itself an “online record store and music community” in which independent musicians and podcasters are paid directly by their fans. &lt;a href="https://bandcamp.com/fair_trade_music_policy"&gt;According to Bandcamp&lt;/a&gt;, the artists collect an average of 80 to 85 percent of each sale (&lt;a href="https://daily.bandcamp.com/features/bandcamp-fridays-update"&gt;except for Bandcamp Fridays&lt;/a&gt;, the first Friday of each month, when the company waives its revenue share, which started in March 2020 to make up for the lack of live performances during the covid pandemic). There is no fee for the service itself; you listen to featured tracks by artists and then purchase the digital or physical albums of your favorites. There are also live “listening party” events.&lt;/p&gt;
+&lt;p id="4anVPx"&gt;As mentioned, Bandcamp itself is &lt;strong&gt;free&lt;/strong&gt;; you purchase the music separately for varying prices set by the artists.&lt;/p&gt;
+&lt;p id="VUoARG"&gt;&lt;strong&gt;Free trials:&lt;/strong&gt; N/A.&lt;/p&gt;
+&lt;h2 id="jGmbkL"&gt;&lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.deezer.com%2Fus%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F22910685%2Fmusic-listening-service-spotify-apple-youtube-amazon" rel="sponsored nofollow noopener" target="_blank"&gt;Deezer&lt;/a&gt;&lt;/h2&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Deezer front page." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/PRJYN74OyPzUrVakIX_JikHgF8Q=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25306628/Screenshot_2024_02_26_at_5.27.35_PM.png"&gt;
+      &lt;cite&gt;Screenshot by Barbara Krasnoff / The Verge&lt;/cite&gt;
+      &lt;figcaption&gt;
+&lt;em&gt;Deezer&lt;/em&gt;.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="e0dtQZ"&gt;Deezer is not as well known in the US as Apple Music or Spotify, but it has similar catalogs and features. It offers an impressive variety of songs, playlists, podcasts, and radio channels. You can use its web version or one of the apps it has for &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.deezer.com%2Fus%2Fdevices&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F22910685%2Fmusic-listening-service-spotify-apple-youtube-amazon" rel="sponsored nofollow noopener" target="_blank"&gt;almost any device out there&lt;/a&gt;, including desktops, phones, and watches. It also offers on-screen lyrics. Like the others, it offers several plans.&lt;/p&gt;
+&lt;p id="jiAWgS"&gt;&lt;strong&gt;Free&lt;/strong&gt; lets you listen to playlists rather than specific songs and inserts ads.&lt;/p&gt;
+&lt;p id="rRfdVs"&gt;&lt;strong&gt;Premium&lt;/strong&gt; ($11.99 / month or $107.99 / year) removes the ads, lets you listen to specific tracks, offers high-fidelity sound, and lets you download your music. You can connect up to three devices to your account. &lt;/p&gt;
+&lt;p id="jM9zAE"&gt;&lt;strong&gt;Duo&lt;/strong&gt; ($15.99 / month or $174.99 / year) has all the features of the Premium plan for two individual accounts; you can connect up to five devices.&lt;/p&gt;
+&lt;p id="1GOqCW"&gt;&lt;strong&gt;Family:&lt;/strong&gt; Family ($19.99 / month or $218.99 / year) offers six individual Premium accounts and the ability to connect up to 13 different devices. Kid profiles let you control what your child is listening to.&lt;/p&gt;
+&lt;p id="vbgz7c"&gt;&lt;strong&gt;Budget plans:&lt;/strong&gt; You can get a student discount on the Premium plan for $5.99 / month. &lt;/p&gt;
+&lt;p id="owl9Kw"&gt;&lt;strong&gt;Free trials:&lt;/strong&gt; One month for all paid plans.&lt;/p&gt;
+&lt;h2 id="Y94WG6"&gt;&lt;a href="https://www.pandora.com/"&gt;Pandora&lt;/a&gt;&lt;/h2&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Pandora front page." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/EAOZES8ASH73hQ033pn22V_T8X8=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25306629/Screenshot_2024_02_26_at_5.29.21_PM.png"&gt;
+      &lt;cite&gt;Screenshot by Barbara Krasnoff / The Verge&lt;/cite&gt;
+      &lt;figcaption&gt;
+&lt;em&gt;Pandora&lt;/em&gt;.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="z56XXM"&gt;Pandora is one of the grandparents of music services and was one of the first to offer &lt;a href="https://www.pandora.com/about/mgp"&gt;playlists developed by a listener’s preferences&lt;/a&gt;. Currently owned by SiriusXM, it was introduced as a consumer music service in 2005 and has gone through a variety of changes since. (For example, users of the free service were originally limited to 40 hours of streaming per month.) These days, it has one free and two paid services; it includes both music and podcasts. &lt;/p&gt;
+&lt;p id="Hyaogd"&gt;Interestingly, Pandora’s &lt;strong&gt;Free&lt;/strong&gt; service does allow you to play specific songs and albums as long as you view an ad first; you can also view an ad for unlimited skips. &lt;/p&gt;
+&lt;p id="a0Pocw"&gt;&lt;strong&gt;Pandora Plus&lt;/strong&gt; ($4.99 / month) removes the ads for unlimited skips and lets you listen offline, but you still have to view an ad to select specific tracks. &lt;/p&gt;
+&lt;p id="PKA3U2"&gt;&lt;strong&gt;Pandora Premium&lt;/strong&gt; ($9.99 / month) gives you all of the Plus features, removes all advertising, and lets you make and share playlists. &lt;/p&gt;
+&lt;p id="KlTOAG"&gt;&lt;strong&gt;Budget plans:&lt;/strong&gt; The Family plan ($14.99 / month) includes six accounts. Both Premium Student ($4.99 / month) and Premium Military ($7.99 / month) give you the same features as the regular Premium account.&lt;/p&gt;
+&lt;p id="xfFKOq"&gt;&lt;strong&gt;Free trial:&lt;/strong&gt; 30 days for Plus and 60 days for Premium.&lt;/p&gt;
+&lt;h2 id="zOt0Ml"&gt;&lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Ftidal.com%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F22910685%2Fmusic-listening-service-spotify-apple-youtube-amazon" rel="sponsored nofollow noopener" target="_blank"&gt;Tidal&lt;/a&gt;&lt;/h2&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Tidal" data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/QGIjxwVLlKwR7Cj3nsGrZrv-0_0=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23212587/Screen_Shot_2022_02_02_at_9.30.27_AM.png"&gt;
+      &lt;cite&gt;Screenshot by Barbara Krasnoff / The Verge&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;Tidal.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="ghvWRP"&gt;Tidal presents itself as the music service for true music fans, with an emphasis on innovation and high-quality audio. It offers a library of over 100 million tracks, over 650 thousand videos, interviews with and documentaries about its artists, and &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Ftidal.com%2Fsound-quality&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F22910685%2Fmusic-listening-service-spotify-apple-youtube-amazon" rel="sponsored nofollow noopener" target="_blank"&gt;three levels of audio quality&lt;/a&gt;: Max (up to 24-bit, 192kHz), High (up to 16-bit, 44.1kHz), and Low (up to 320kbps), depending on your plan and your device; it specifically supports &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Ftidal.com%2Fsupported-devices&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F22910685%2Fmusic-listening-service-spotify-apple-youtube-amazon" rel="sponsored nofollow noopener" target="_blank"&gt;a number of device manufacturers&lt;/a&gt;. It does not offer podcasts or a free plan.&lt;/p&gt;
+&lt;p id="sA7Upf"&gt;&lt;strong&gt;HiFi&lt;/strong&gt; ($10.99 / month) provides HiFi audio quality, no ads, and offline listening.&lt;/p&gt;
+&lt;p id="BLq3Uu"&gt;&lt;strong&gt;HiFi Plus&lt;/strong&gt; ($19.99 / month) adds hi-res FLAC along with Dolby Atmos and Sony 360 Reality Audio. &lt;/p&gt;
+&lt;p id="RmWGXz"&gt;&lt;strong&gt;Budget plans:&lt;/strong&gt; Both the HiFi and HiFi Plus offer discounted plans. They include a Family plan for up to six users ($16.99 for HiFi / $29.99 for HiFi Plus); a Student plan ($4.99 for HiFi / $9.99 for HiFi Plus); a First Responder plan ($5.99 for HiFi / $11.99 for HiFi Plus), and a Military plan ($5.99 for HiFi / $11.99 for HiFi Plus).&lt;/p&gt;
+&lt;p id="FzLffi"&gt;&lt;strong&gt;Free trial: &lt;/strong&gt;A 30-day free trial. &lt;/p&gt;
+&lt;h2 id="RldUgy"&gt;&lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.qobuz.com%2Fus-en%2Fdiscover&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F22910685%2Fmusic-listening-service-spotify-apple-youtube-amazon" rel="sponsored nofollow noopener" target="_blank"&gt;Qobuz&lt;/a&gt;&lt;/h2&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Qobuz" data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/TwSf4M81XHVqbdtNOBiR6ZBu-BE=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23213053/QBZ_screen_shot.jpeg"&gt;
+      &lt;cite&gt;Image: Qobux&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;Qobuz.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="Fkfig7"&gt;Like Apple Music and Tidal, Qubuz does not have a free service. Like Tidal, the emphasis here is on quality music, with hi-res audio; it has partnered with a &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.qobuz.com%2Fus-en%2Fdiscover%2Fapps-partners%23app-hifi&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F22910685%2Fmusic-listening-service-spotify-apple-youtube-amazon" rel="sponsored nofollow noopener" target="_blank"&gt;variety of equipment manufacturers&lt;/a&gt; such as Bang &amp;amp; Olufsen, Sonos, and Thiel. Besides music, it offers album reviews and artist bios. Qobuz offers two plans; each of these comes in Solo (one account), Duo (two accounts living at the same address), and Family (six accounts per household) versions.&lt;/p&gt;
+&lt;p id="ZMjXLp"&gt;&lt;strong&gt;Studio &lt;/strong&gt;provides downloadable music and original editorial content, such as playlists and articles. Solo costs $10.83 / month; Duo costs $14.99 / month; Family costs $17.99 / month.&lt;/p&gt;
+&lt;p id="qc5jOy"&gt;&lt;strong&gt;Sublime &lt;/strong&gt;lets you specify albums and offers a 60 percent discount on purchases. Solo costs $14.99 / month; Duo is $17.99 / month or $179.88 / year; Family is also $17.99 / month.&lt;/p&gt;
+&lt;p id="cnhtoF"&gt;&lt;strong&gt;Free trial:&lt;/strong&gt; One month. &lt;/p&gt;
+&lt;h2 id="GOnV0c"&gt;&lt;a href="https://music.youtube.com/"&gt;YouTube Music&lt;/a&gt;&lt;/h2&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="YouTube Music screen, including “welcome Barbara” on top and selection of various songs" data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/dcUZK2u5XwVkqMIS7f4lohCZXBU=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25306496/Screenshot_2024_02_26_at_4.27.20_PM.png"&gt;
+      &lt;cite&gt;Screenshot by Barbara Krasnoff / The Verge&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;YouTube Music.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="TzAdi5"&gt;Google chose a few years ago to subsume its independent Google Play Music service into its YouTube video service, coming up with YouTube Music. As of April 2nd, it’s also getting rid of its Google Podcasts app and &lt;a href="https://www.theverge.com/23891397/google-podcasts-youtube-spotify-alternatives-pocket-casts"&gt;folding it into YouTube Music&lt;/a&gt;. &lt;/p&gt;
+&lt;p id="uzYGIg"&gt;The &lt;strong&gt;Free&lt;/strong&gt; service includes choice of individual songs and albums along with ads. If you’re listening on a phone, the music will stop if your screen goes dark or you switch apps.&lt;/p&gt;
+&lt;p id="ZKU057"&gt;&lt;strong&gt;Music Premium&lt;/strong&gt; ($10.99 / month) gets rid of the ads and the pauses and lets you download your music. There is also a $109.99 annual plan. If you subscribe to &lt;a href="https://www.youtube.com/premium"&gt;YouTube Premium&lt;/a&gt; ($13.99 / month), YouTube Music is included.&lt;/p&gt;
+&lt;p id="U1dQ8K"&gt;&lt;strong&gt;Budget plans:&lt;/strong&gt; The Family plan ($16.99 / month) lets you add up to five other household family members aged 13 and up. The Student plan ($5.49 / month) gives you Premium service with verification of eligibility. &lt;/p&gt;
+&lt;p id="NGZesp"&gt;&lt;strong&gt;Free trial:&lt;/strong&gt; One month for the Student plan.&lt;/p&gt;
+&lt;h2 id="ZRrDUf"&gt;&lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fsoundcloud.com%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F22910685%2Fmusic-listening-service-spotify-apple-youtube-amazon" rel="sponsored nofollow noopener" target="_blank"&gt;SoundCloud&lt;/a&gt;&lt;/h2&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="SoundCloud page features Coffee Jazz." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/H5-TGQ0WLRLKRgxwRtMwAn9Q1Xs=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25308552/Screenshot_2024_02_27_at_5.31.43_PM.png"&gt;
+      &lt;figcaption&gt;&lt;em&gt;SoundCloud.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="V8wcrT"&gt;SoundCloud has been around since 2007 and encourages its members to upload tracks, create playlists, and actively comment — which they enthusiastically do. Currently, &lt;a href="https://www.billboard.com/business/streaming/soundcloud-preparing-to-sell-1235578246/"&gt;the service seems to be up for sale&lt;/a&gt;. (It won’t be the first time; both &lt;a href="https://www.theverge.com/2016/9/28/13098754/spotify-soundcloud-acquisition-report"&gt;Spotify&lt;/a&gt; and &lt;a href="https://www.theverge.com/2014/5/19/5731642/twitter-reportedly-considering-purchase-of-soundcloud"&gt;Twitter&lt;/a&gt; were once said to be interested, but both deals fell through.) How that will affect SoundCloud’s loyal user base is yet to be seen.&lt;/p&gt;
+&lt;p id="h3Drb8"&gt;The &lt;strong&gt;Free&lt;/strong&gt; service allows access to a variety of tracks and playlists, with ads.&lt;/p&gt;
+&lt;p id="JFvEN5"&gt;&lt;strong&gt;SoundCloud Go&lt;/strong&gt; ($4.99 / month) eliminates the ads and allows offline listening. &lt;/p&gt;
+&lt;p id="xmCxW5"&gt;&lt;strong&gt;SoundCloud Go Plus&lt;/strong&gt; ($9.99 / month) adds access to the service’s full catalog and higher quality audio.&lt;/p&gt;
+&lt;p id="cFWXLJ"&gt;&lt;strong&gt;Budget plans:&lt;/strong&gt; SoundCloud Go Plus for students costs $4.99 / month after a 30-day trial. &lt;/p&gt;
+&lt;p id="2DvYPg"&gt;&lt;strong&gt;Free trial:&lt;/strong&gt; Seven days for SoundCloud Go, 30 days for SoundCloud Go Plus. &lt;/p&gt;
+&lt;p id="QNVrmP"&gt;&lt;em&gt;&lt;strong&gt;Update February 28th, 2024, 8:34AM:&lt;/strong&gt;&lt;/em&gt;&lt;em&gt; This was originally written on February 1st, 2022. All entries have been updated, and entries for Spotify and SoundCloud have been added.&lt;/em&gt;&lt;/p&gt;
+&lt;p id="rqQdI2"&gt;&lt;/p&gt;
+&lt;p id="WDuLm1"&gt;&lt;/p&gt;
+&lt;p id="0zkExF"&gt;&lt;/p&gt;
+&lt;p id="zBie4A"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/22910685/music-listening-service-spotify-apple-youtube-amazon"/>
+    <id>https://www.theverge.com/22910685/music-listening-service-spotify-apple-youtube-amazon</id>
+    <author>
+      <name>Barbara Krasnoff</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-02-27T14:00:00-05:00</published>
+    <updated>2024-02-27T14:00:00-05:00</updated>
+    <title>Podcasting’s data rules get a refresh</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Podcast player" src="https://cdn.vox-cdn.com/thumbor/ZAEVdkjgyrgqNCCb08ObXWyilj8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73168405/STK427_Audio_Bar_01.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="hUDBQF"&gt;&lt;em&gt;This is &lt;/em&gt;Hot Pod&lt;em&gt;, &lt;/em&gt;The Verge’&lt;em&gt;s newsletter about podcasting and the audio industry. Sign up &lt;/em&gt;&lt;a href="https://www.theverge.com/pages/hot-pod-podcast-audio-newsletter"&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for more.&lt;/em&gt;&lt;/p&gt;
+&lt;hr class="p-entry-hr" id="lBqZy7"&gt;
+&lt;p id="W5CoXe"&gt;Hello! I am very excited to see so many of you at &lt;a href="https://www.onairfest.com/brooklyn-2024-sessions/hot-pod-summit"&gt;Hot Pod Summit&lt;/a&gt; and &lt;a href="https://www.onairfest.com/"&gt;On Air Fest&lt;/a&gt; this week. I’ll be back on Tuesday with a recap of the events. But first, I’ve got a look at the layoffs at WAMU, the IAB’s new podcast guidelines, and the ticking clock on union contract negotiations at Spotify.&lt;/p&gt;
+&lt;h2 id="CdgNho"&gt;
+&lt;strong&gt;WAMU shuts down &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;DCist&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; and lays off 15 staffers&lt;/strong&gt;
+&lt;/h2&gt;
+&lt;p id="UVsU0I"&gt;Another NPR member station has conducted layoffs, this time at WAMU in Washington, DC. While some public radio organizations have addressed budget shortfalls by cutting podcasts (NPR, WNYC), WAMU is leaving its audio operation intact as &lt;a href="https://www.axios.com/2024/02/23/wamu-dcist-layoffs-npr-washington"&gt;it lays off 15 staffers and shuts down &lt;em&gt;DCist&lt;/em&gt;&lt;/a&gt;, the local news website it bought five years ago.&lt;/p&gt;
+&lt;p id="u96VTE"&gt;“With the renewed focus on delivering audio-first storytelling, WAMU made the decision to sunset the site and social channels. An archive of the website is being made available to staff to support their professional pursuits,” reads a statement from the organization.&lt;/p&gt;
+&lt;p id="mnfiyp"&gt;Although the decision is being framed as part of &lt;a href="https://wamu.org/around-wamu/wamu-leans-into-audio-experiences-to-deepen-engagement-with-washington/"&gt;a new strategy&lt;/a&gt; that doubles down on live events and audio, it is unclear whether any new audio roles are being added. Currently, the only WAMU job available is for a director of development. &lt;/p&gt;
+&lt;p id="3JSHVu"&gt;As is happening across the digital media industry, &lt;em&gt;DCist&lt;/em&gt; is no longer available to the public. When you go to the website, a pop-up appears that automatically directs you to WAMU, and DC residents are understandably unhappy that the archive has been removed from the public record. A spokesperson from WAMU did not respond to &lt;em&gt;Hot Pod&lt;/em&gt;’s request for comment.&lt;/p&gt;
+&lt;h2 id="bsAtqB"&gt;&lt;strong&gt;The IAB issues new podcast measurement guidelines&lt;/strong&gt;&lt;/h2&gt;
+&lt;p id="UVlksW"&gt;The organization that sets podcast measurement standards has issued new guidelines, which address some of the data issues that have cropped up in the past few years. The new rules, which are not final yet, would require certified companies to be more transparent about their measurement methodologies than in the past.&lt;/p&gt;
+&lt;p id="3gOylp"&gt;Ad companies, which have shied away from podcasting in the past year, “want transparency in how these calculations are done,” Shailley Singh, EVP of product and COO of the IAB Tech Lab, told &lt;em&gt;Hot Pod&lt;/em&gt;. “So we try to achieve that by giving more and more detailed guidance.”&lt;/p&gt;
+&lt;p id="vmN5ci"&gt;Podcast companies certified by the IAB, which include NPR, Acast, and Megaphone, among two dozen others, will be expected to take steps such as filtering out duplicate podcast downloads from Apple Watches, specifying whether they measure on a fixed or rolling 24-hour period, and having practices in place to account for large technological shifts. That last guideline has particular relevance given the &lt;a href="https://www.theverge.com/2024/1/5/24027214/podcast-apple-ios-17-downloads-iheart-gimlet"&gt;massive decrease in downloads&lt;/a&gt; across the industry resulting from a change in the way Apple iOS 17 handles automatic downloads. &lt;/p&gt;
+&lt;p id="vlm8d4"&gt;The IAB Tech Lab is accepting public comment on the new guidelines until March 23rd. You can &lt;a href="https://iabtechlab.com/standards/podcast-measurement-guidelines/"&gt;view the document here&lt;/a&gt;. &lt;/p&gt;
+&lt;h2 id="ylJIKd"&gt;&lt;strong&gt;Gimlet and The Ringer’s union contracts expire on Thursday&lt;/strong&gt;&lt;/h2&gt;
+&lt;p id="28coKK"&gt;Two of Spotify’s three podcasting unions are running up against contract deadlines this week. Gimlet and The Ringer, which are both unionized with the Writers Guild of America, East (which also represents Vox Media’s union, of which I am a part), are butting heads with Spotify management over contract details such as pay and severance. The negotiations come at a time following widespread layoffs in Spotify’s podcast business and when the company is being much more conservative about spending.&lt;/p&gt;
+&lt;p id="61s5kQ"&gt;Members of the union for Gimlet, which has been hollowed out through staff cuts, &lt;a href="https://twitter.com/GimletUnion/status/1760744634727419924"&gt;have pledged to strike&lt;/a&gt; if they cannot come to an agreement with Spotify management. In a statement, the union demanded “compensation that keeps pace with inflation, and in light of multiple layoffs at Spotify Studios, a more transparent and dignified approach to staff reductions.” Yesterday, Gimlet’s union posted on X that they have not seen movement on either issue. &lt;/p&gt;
+&lt;p id="PvrzhP"&gt;The much larger Ringer Union has not yet issued a strike pledge, but the group is also struggling to get Spotify to agree to its requests on AI use, layoff notices, and pay increases. The union &lt;a href="https://twitter.com/GimletUnion/status/1761151354725138509"&gt;posted on X&lt;/a&gt; yesterday that Spotify management offered a 2.7 percent increase for the first year of the contract, followed by 2 percent annual raises for the following years. “We won’t accept below inflation pay rises from a company that’s worth as much as @Spotify,” the union said.&lt;/p&gt;
+&lt;p id="amQbdK"&gt;Neither Spotify nor the WGAE responded to request for comment.&lt;/p&gt;
+&lt;aside id="Kc7MAQ"&gt;&lt;div data-anthem-component="newsletter" data-anthem-component-data='{"slug":"podcasts"}'&gt;&lt;/div&gt;&lt;/aside&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/2/27/24084807/podcast-data-iab-spotify-gimlet-ringer-wamu-dcist"/>
+    <id>https://www.theverge.com/2024/2/27/24084807/podcast-data-iab-spotify-gimlet-ringer-wamu-dcist</id>
+    <author>
+      <name>Ariel Shapiro</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-02-23T12:21:18-05:00</published>
+    <updated>2024-02-23T12:21:18-05:00</updated>
+    <title>Spotify HiFi is still MIA after three years, and now so is my subscription</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="An illustration of the Spotify logo surrounded by noise lines in white, purple, and green." src="https://cdn.vox-cdn.com/thumbor/fs4nD73Fn2nxxnYgU13ilvotK1s=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73159624/STK088_VRG_Illo_N_Barclay_6_spotify.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration by Nick Barclay / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="3CnT6v"&gt;I was really hoping I wouldn’t have to &lt;a href="https://www.theverge.com/2023/2/22/23608937/spotify-hifi-lossless-audio-two-years-later"&gt;do this again&lt;/a&gt;. Last year, it seemed like there was no reason to believe Spotify would ever roll out its long-delayed HiFi lossless streaming feature, which was announced in 2021 and then never mentioned again. But then, one of the company’s co-presidents &lt;a href="https://www.theverge.com/2023/3/14/23639674/spotify-hifi-co-president-still-coming"&gt;kept hope alive&lt;/a&gt;, telling my colleague Alex Heath “we are going to do it.” &lt;/p&gt;
+&lt;p id="9nUAkp"&gt;That was in March 2023. And now here we find ourselves, three years and one day after Spotify HiFi’s &lt;a href="https://www.theverge.com/2021/2/22/22295273/spotify-hifi-announced-lossless-streaming-hd-quality"&gt;buzzy original announcement&lt;/a&gt;, and still nothing. Like always, there are signs that the company is continuing to work on HiFi — although it’s unlikely to be called that anymore. And unlike rival services, you’re likely going to have to pay a lot more for it, whenever it actually arrives.&lt;/p&gt;
+&lt;p id="IqMwv7"&gt;The current presumption is that high-resolution and lossless streaming will be packaged into an upcoming, more expensive “Supremium” tier that will include a slew of other exclusive perks; we’ve even seen &lt;a href="https://www.theverge.com/2023/10/5/23905328/spotifys-supremium-plan-and-lossless-audio-are-inching-closer-to-release"&gt;Spotify’s branding for the plan&lt;/a&gt;. Many people constantly hammer on the point that it’s hard for the average listener to tell any difference between lossless audio and the compressed music that Spotify is already providing. So the company clearly understands that it needs to piece together a much more compelling bundle for a higher-priced subscription to have any shot at success.&lt;/p&gt;
+&lt;div class="c-wide-block"&gt;&lt;div id="FzJQaV"&gt;&lt;div data-anthem-component="aside:12260582"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p id="WDYJ2w"&gt;None of that really answers the overarching question, though: &lt;em&gt;what the hell’s taking so long&lt;/em&gt;? It’s believed that Spotify was caught totally flat-footed when Apple and Amazon both started giving customers higher-fidelity audio at no extra cost, and that its own deals with labels didn’t make it financially viable for the leading streaming music service to do the same. Unlike its competitors, Spotify doesn’t have other divisions to help recoup the cost of an aggressive play like that, which I completely understand. But I’ve got to believe that lossless audio has been factored into any deals that the company has agreed upon more recently.&lt;/p&gt;
+&lt;p id="rbeO6S"&gt;It’s obvious that the Spotify team loves music. The service’s recommendation algorithms are always on point and have come to nail down my taste through years of listening data. My &lt;a href="https://www.theverge.com/2024/2/13/24071648/spotifys-daylist-is-like-im-feeling-lucky-for-music"&gt;daylists&lt;/a&gt; are consistently good, and I’ve even been pleasantly surprised with what the app’s &lt;a href="https://www.theverge.com/2023/2/23/23610362/spotify-ai-dj-beta-announcement-custom-playlist-feature-personalized"&gt;AI DJ&lt;/a&gt; serves up when I’m feeling lazy.&lt;/p&gt;
+&lt;p id="QDC5Jn"&gt;But I’m also an audio nerd who owns a handful of very nice headphones and earbuds. And sometimes I just want to plug in my USB-C dongle, lay on the couch, and truly sink into a new album. And it’s those moments where I’m inevitably disappointed with Spotify, because I &lt;em&gt;know&lt;/em&gt; what I’m hearing isn’t the best it can be. I’m paying for an objectively inferior listening experience. Well, I &lt;em&gt;was&lt;/em&gt;. A couple months ago, I got tired of waiting, so I let my longtime Spotify subscription lapse and purchased a year’s worth of Apple Music. &lt;/p&gt;
+&lt;p id="Q7hU9p"&gt;Knowing my luck, Spotify could announce its Supremium plan mere weeks from now at its Stream On event — if it holds one this year — right after I bailed on my account. And if it does, depending on what else is thrown in, there’s a very good chance I’ll resubscribe. That’s doubly true if the more expensive plan means even slightly better payouts for artists. Apple Music feels a lot cleaner and more focused than the hybrid music / podcasts destination that Spotify has become. But it doesn’t &lt;em&gt;get&lt;/em&gt; me quite as well. Maybe that’ll change over the course of this yearlong plan. Judging by history, I’ll have some time to give it a chance.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/24080999/spotify-hifi-lossless-high-res-audio-three-years-rip"/>
+    <id>https://www.theverge.com/24080999/spotify-hifi-lossless-high-res-audio-three-years-rip</id>
+    <author>
+      <name>Chris Welch</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-02-21T18:30:00-05:00</published>
+    <updated>2024-02-21T18:30:00-05:00</updated>
+    <title>Spotify needs every win against Apple it can get</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="A pattern of play and pause buttons" src="https://cdn.vox-cdn.com/thumbor/v4KlncMOazrLJ2IELN3Wkx5_uVE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73155521/VRG_Illo_STK427_Podcasting_buttons.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration by Kristen Radtke / The Verge; Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="hUDBQF"&gt;&lt;em&gt;This is &lt;/em&gt;Hot Pod&lt;em&gt;, &lt;/em&gt;The Verge’&lt;em&gt;s newsletter about podcasting and the audio industry. Sign up &lt;/em&gt;&lt;a href="https://www.theverge.com/pages/hot-pod-podcast-audio-newsletter"&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for more.&lt;/em&gt;&lt;/p&gt;
+&lt;hr class="p-entry-hr" id="lBqZy7"&gt;
+&lt;p id="xuWKy1"&gt;Hello! Today, I have a look at what Europe’s regulatory moves against Apple mean for Spotify, and podcasting more broadly. Plus, a lightning round featuring all kinds of audio stories from the purely business (a cash influx at iHeart) to the delightfully criminal (a missing radio tower). &lt;/p&gt;
+&lt;p id="OGhogE"&gt;As a heads-up, I will not be publishing &lt;em&gt;Hot Pod&lt;/em&gt; next week due to Hot Pod Summit and On Air Fest. Insiders, I’ll be back on Friday. As for the rest of you, I’ll see you in March.&lt;/p&gt;
+&lt;h2 id="79WqkP"&gt;&lt;strong&gt;EU expected to slap Apple with $540 million fine &lt;/strong&gt;&lt;/h2&gt;
+&lt;p id="gOeM1k"&gt;If this turns out to be true, it would be a big win for Spotify in its perpetual battle with Apple. In 2019, Spotify filed a complaint against Apple with the European Commission, the EU body that deals with antitrust issues, claiming that it was clamping down on rival music services with its App Store fees. The &lt;a href="https://www.ft.com/content/1e677a7e-9494-4f5b-a724-9e58ef26b34f"&gt;&lt;em&gt;Financial Times&lt;/em&gt;&lt;/a&gt; and &lt;a href="https://www.bloomberg.com/news/articles/2024-02-18/apple-set-to-face-near-500-million-eu-fine-in-spotify-row"&gt;&lt;em&gt;Bloomberg&lt;/em&gt;&lt;/a&gt; both reported that &lt;a href="https://www.theverge.com/2024/2/18/24076526/apple-music-antitrust-fine-brussels-eu-spotify"&gt;the EU plans to fine Apple €500 million&lt;/a&gt; — not so much as to hurt the $2.8 trillion company in a material way, but enough to signify that the Commission is no longer tolerating its business practices.&lt;/p&gt;
+&lt;p id="WeIFhg"&gt;The&lt;em&gt; Financial Times&lt;/em&gt; also says Apple could be banned from putting restrictions on music services that would stop it from letting users switch to cheaper payment options. The details are vague for now, but such a ruling could potentially carve out more space for Spotify to operate on iOS within the European Union — even as the EU’s new legal regime starts to open things up in other respects.&lt;/p&gt;
+&lt;p id="q0hjMS"&gt;These reports come at a key time. Apple is being regulated as one of six “gatekeeper” tech companies that will have to comply with the EU’s Digital Markets Act. Under the DMA, Apple will be required to open up its tightly controlled app ecosystem in order to foster competition from smaller developers. Spotify, in particular, is planning for a future in which Apple cannot slap a 30 percent fee on all digital transactions, which could have a &lt;a href="https://www.theverge.com/2024/1/24/24048561/spotify-dma-eu-apple-app-store-epic"&gt;huge upside&lt;/a&gt; for Spotify’s subscription and audiobook businesses. &lt;/p&gt;
+&lt;p id="DFU8h6"&gt;Apple &lt;a href="https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/"&gt;introduced changes&lt;/a&gt; last month in order to be compliant with the DMA, including support for alternative browser engines and app stores, as well as an alternative regime that includes reduced App Store fees and more flexibility for developers. But &lt;a href="https://www.pymnts.com/news/regulation/2024/competitors-say-apples-plans-dont-comply-with-digital-markets-act/"&gt;Apple has been accused&lt;/a&gt; by developers and fellow gatekeepers of making it onerous for third parties to use those new features (particularly thanks to a new €0.50 fee per app install after the millionth install). Companies still have to pay Apple — potentially quite a bit — to skirt that 30 percent tariff and use their own payments systems. Apple even &lt;a href="https://www.theverge.com/2024/2/15/24074182/apple-drops-support-iphone-web-apps-eu-dma"&gt;ended support for progressive web apps&lt;/a&gt; on iPhones, in what is being viewed as a bad faith move. &lt;/p&gt;
+&lt;p id="j0asyg"&gt;If Apple’s changes are ruled to not be enough, the EU can fine the company up to 10 percent of its annual turnover. Considering it made $383 billion last year, a fine like that would make $540 million look like a slap on the wrist.&lt;/p&gt;
+&lt;p id="9FIrmt"&gt;The outcome of this regulatory battle could have a big impact on the podcast space. If smaller audio companies’ apps are better able to attract iPhone users, we could see real innovation in the space. Plus, without the App Store tax, podcasters and podcast platforms could have more ways to make money beyond ads (which, as we have seen, are not enough to support the ambitions of the industry). Apple is certainly not moving toward that future quietly, but the EU’s decision to fine them at least shows that regulators there are serious about holding the company accountable.&lt;/p&gt;
+&lt;h2 id="BgouuY"&gt;&lt;strong&gt;Lightning Round&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li id="G30leI"&gt;The Podcast Academy has &lt;a href="https://www.ambies.com/2024-nominees"&gt;revealed the nominees&lt;/a&gt; for this year’s&lt;strong&gt; &lt;/strong&gt;Ambies. Ten shows have been nominated for Podcast of the Year, including &lt;em&gt;Embedded&lt;/em&gt; from NPR, &lt;em&gt;Ghost Story&lt;/em&gt; from Wondery and Pineapple Street Studios, and &lt;em&gt;50 Years of Hip-Hop&lt;/em&gt; from KEXP. The awards ceremony will be held on March 26th in LA.&lt;/li&gt;
+&lt;li id="1uVVIC"&gt;iHeartMedia sold its stake in performance rights organization BMI &lt;a href="https://www.radioworld.com/news-and-business/business-and-law/iheartmedia-gets-101-4-million-from-sale-of-bmi"&gt;for $101.4 million&lt;/a&gt;. Some of that money may go toward paying down company debt, which is an issue for &lt;a href="https://www.theverge.com/2024/1/11/24035008/audacy-bankruptcy-iheart-cumulus-radio-podcast"&gt;all of the radio giants&lt;/a&gt;.&lt;/li&gt;
+&lt;li id="8N84Y3"&gt;Sports podcast company Blue Wire has &lt;a href="https://www.axios.com/2024/02/20/blue-wire-podcast-raises?utm_source=podnews.net&amp;amp;utm_medium=email&amp;amp;utm_campaign=podnews.net:2024-02-21"&gt;raised a new round of funding&lt;/a&gt; led by Decathlon Capital, according to &lt;em&gt;Axios&lt;/em&gt;. The funding is mainly for the development of proprietary tech for podcasters. &lt;/li&gt;
+&lt;li id="IOzM5z"&gt;Acast reported &lt;a href="https://investors.acast.com/press-releases/q4-positive-adjusted-ebitda-for-the-first-time"&gt;its first profitable quarter&lt;/a&gt;. The company reported a slight year-over-year decline in listens (5 billion in 2023 vs. 5.1 billion in 2022), but the average revenue per listen increased.&lt;/li&gt;
+&lt;li id="B1sUl0"&gt;In case you are still wondering what that iOS 17 automatic downloads change is and why it matters, &lt;em&gt;Podnews&lt;/em&gt; has &lt;a href="https://podnews.net/article/ios-17-apple-podcasts-timeline?utm_source=podnews.net&amp;amp;utm_medium=email&amp;amp;utm_campaign=podnews.net:2024-02-16"&gt;a comprehensive breakdown&lt;/a&gt;. &lt;/li&gt;
+&lt;li id="oALdzS"&gt;The upside to the iOS 17 change is that the more accurate metrics are improving &lt;a href="https://www.podcastnewsdaily.com/news/the-upside-to-fewer-downloads-in-ios-17-ads-performance-metrics-are-improving/article_6cc1af7e-ccf5-11ee-8f73-0f362ec1063a.html"&gt;ads-based performance&lt;/a&gt;. &lt;/li&gt;
+&lt;li id="9TiBI7"&gt;PodcastOne has cut &lt;a href="https://finance.yahoo.com/news/podcastone-nasdaq-podc-acquires-exclusive-134500332.html"&gt;an exclusive ad sales and distribution deal&lt;/a&gt; with &lt;em&gt;Camp Counselors with Zachariah Porter and Jonathan Carson&lt;/em&gt;.&lt;/li&gt;
+&lt;li id="VxMmxG"&gt;Bandits &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Fnation%2F2024%2F02%2F19%2Falabama-radio-tower-stolen-station%2F72633875007%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F2%2F21%2F24079617%2Fspotify-apple-app-store-eu-iheart" rel="sponsored nofollow noopener" target="_blank"&gt;stole a 200-foot radio tower&lt;/a&gt; from WJLX in Alabama. Jake is currently pitching the story as a limited true crime series.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p id="K8LMtR"&gt;That’s all for now!&lt;/p&gt;
+&lt;aside id="vp6q9a"&gt;&lt;div data-anthem-component="newsletter" data-anthem-component-data='{"slug":"podcasts"}'&gt;&lt;/div&gt;&lt;/aside&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/2/21/24079617/spotify-apple-app-store-eu-iheart"/>
+    <id>https://www.theverge.com/2024/2/21/24079617/spotify-apple-app-store-eu-iheart</id>
+    <author>
+      <name>Ariel Shapiro</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-02-18T11:13:10-05:00</published>
+    <updated>2024-02-18T11:13:10-05:00</updated>
+    <title>Apple will reportedly face a $539 million fine over Spotify’s antitrust complaint</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Pink Apple logos" src="https://cdn.vox-cdn.com/thumbor/bZMt37SCtgp_mP_m-1gNfrEhhWM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73148271/STK071_apple_K_Radtke_01.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="XwfRsI"&gt;A Sunday morning report from the &lt;a href="https://www.ft.com/content/1e677a7e-9494-4f5b-a724-9e58ef26b34f"&gt;&lt;em&gt;Financial Times&lt;/em&gt;&lt;/a&gt;&lt;em&gt; &lt;/em&gt;says&lt;em&gt; &lt;/em&gt;the  €500 million (about $539 million USD)  fine comes after regulators investigated a Spotify complaint that Apple policies prevent iPhone apps from telling users about cheaper alternatives to Apple’s music service. &lt;/p&gt;
+&lt;p id="O9MFYj"&gt;The issue comes down to Apple’s efforts to keep apps and users corraled inside its App Store payments system. &lt;a href="https://www.theverge.com/2019/3/13/18263453/spotify-apple-app-store-antitrust-complaint-ec-30-percent-cut-unfair"&gt;Spotify complained in 2019&lt;/a&gt; that Apple’s policies muted competition against Apple Music, kicking off an EU investigation &lt;a href="https://www.theverge.com/2020/6/16/21292651/apple-eu-antitrust-investigation-app-store-apple-pay"&gt;the next year&lt;/a&gt;. The EU &lt;a href="https://www.theverge.com/2023/2/28/23618264/eu-antitrust-case-apple-music-streaming-spotify-updated-statement-objections"&gt;whittled its objections down&lt;/a&gt; to oppose Apple’s refusal to let developers even link out to their own subscription sign-ups within their apps — a policy that Apple &lt;a href="https://www.theverge.com/2022/3/30/23003503/apple-reader-app-developer-external-link-guidelines-announced-entitlements"&gt;changed in 2022&lt;/a&gt; following regulatory pressure in Japan. &lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="nN3Dgh"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"Spotify plans to launch in-app purchases, if Apple gets out of the way","url":"https://www.theverge.com/2024/1/24/24048561/spotify-dma-eu-apple-app-store-epic"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="2VmevQ"&gt;$539 million may sound like a lot, but a much bigger fine of close to $40 billion (or 10 percent of Apple’s annual global turnover) was on the table when the EU &lt;a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_23_1217"&gt;updated its objections&lt;/a&gt; last year. Apple was charged &lt;a href="https://www.theverge.com/2020/3/16/21181341/apple-french-antitrust-fine-reseller-market-wholesaler-competition-authority"&gt;over a billion dollars&lt;/a&gt; in 2020, but French authorities dropped that to &lt;a href="https://www.theverge.com/2022/10/7/23391893/apple-billion-dollar-fine-france-reduced-antitrust-competition"&gt;about $366 million&lt;/a&gt; after the company appealed. &lt;/p&gt;
+&lt;p id="FqsmuJ"&gt;Apple representative Emma Wilson told &lt;em&gt;The Verge&lt;/em&gt; via email that the company is “not commenting on speculation” and referred us to previous statements made by another Apple spokesperson, Hannah Smith, who &lt;a href="https://arc.net/l/quote/isocryjn"&gt;said in February last year&lt;/a&gt; that the company hoped the Commission would stop pursuing the case, which Smith said, “has no merit.” European Commission spokesperson Lea Zuber declined to comment. &lt;/p&gt;
+&lt;p id="k6yii7"&gt;Spotify did not respond by press time. &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/2/18/24076526/apple-music-antitrust-fine-brussels-eu-spotify"/>
+    <id>https://www.theverge.com/2024/2/18/24076526/apple-music-antitrust-fine-brussels-eu-spotify</id>
+    <author>
+      <name>Wes Davis</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-02-13T17:30:00-05:00</published>
+    <updated>2024-02-13T17:30:00-05:00</updated>
+    <title>Taylor Swift is now a podcasting influencer</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="AFC Championship - Kansas City Chiefs v Baltimore Ravens" src="https://cdn.vox-cdn.com/thumbor/aSG6tfKBu04Pq_D8KNli6vA7aCQ=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73137225/1970250110.0.jpg" /&gt;
+        &lt;figcaption&gt;Photo by Patrick Smith / Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="hUDBQF"&gt;&lt;em&gt;This is &lt;/em&gt;Hot Pod&lt;em&gt;, &lt;/em&gt;The Verge’&lt;em&gt;s newsletter about podcasting and the audio industry. Sign up &lt;/em&gt;&lt;a href="https://www.theverge.com/pages/hot-pod-podcast-audio-newsletter"&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for more.&lt;/em&gt;&lt;/p&gt;
+&lt;hr class="p-entry-hr" id="lBqZy7"&gt;
+&lt;p id="wYqBGE"&gt;I hope all you East Coasters had a cozy nor’easter. By the time the snow stopped this morning and I tried to take my baby outside for some winter frolicking, it had already turned to slush. He doesn’t know the difference, but I am bummed!&lt;/p&gt;
+&lt;p id="3KbJRJ"&gt;Today, we’re looking at layoffs at SiriusXM, a new podcast deal for Meghan Markle, and how the “Swift Effect” made Travis Kelce’s podcast a top 10 hit. But first, one more programming announcement for Hot Pod Summit!&lt;/p&gt;
+&lt;h2 id="b8pj1a"&gt;&lt;strong&gt;SiriusXM and The Trade Desk are coming to Hot Pod Summit&lt;/strong&gt;&lt;/h2&gt;
+&lt;p id="uRlLVI"&gt;One thing we keep hearing from readers and Hot Pod Summit attendees is a desire to understand what on earth is going on with podcast advertising. Between falling CPMs, challenges with metrics, and YouTube’s increasing dominance in the space, there is a lot to unpack. I am excited to announce that &lt;strong&gt;Kelli Hurley&lt;/strong&gt;, global head of revenue partnerships at SiriusXM, and &lt;strong&gt;Tomas Rodriguez&lt;/strong&gt;, senior director of audio partnerships at The Trade Desk, will be joining me onstage to discuss the state of the ad market. I know I have a lot of questions, and I am sure you do as well. &lt;/p&gt;
+&lt;p id="jF5K7p"&gt;Hot Pod Summit, our invite-only event for leaders in the podcast industry, is happening on Wednesday, February 28th. The summit will kick off On Air Fest Brooklyn 2024 and is hosted in conjunction with our friends at &lt;a href="http://workxwork.com/"&gt;work x work&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="5qLzYP"&gt;On Air Fest will be taking place February 29th to March 1st. You can see &lt;a href="https://www.onairfest.com/events/brooklyn-2024/lineup"&gt;the lineup for On Air Fest here&lt;/a&gt;, including Malcolm Gladwell, Stephen Dubner, Norah Jones, Laurie Anderson, Seth Meyers, Nick Quah, Avery Trufelman, and talent from Audible, Netflix, iHeart, WBUR, Vox Media Podcast Network, and more. &lt;a href="https://tickets.onairfest.com/onairfest2024/"&gt;Click here to buy tickets to On Air Fest&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="MWcOMZ"&gt;Thank you to our official lead sponsors for Hot Pod Summit 2024: &lt;a href="https://www.adswizz.com/"&gt;AdsWizz&lt;/a&gt; and &lt;a href="https://www.simplecast.com/"&gt;Simplecast&lt;/a&gt;. AdsWizz runs a self-serve advertising platform for creating and running audio ads. Simplecast offers podcast hosting, distribution, and analytics.&lt;/p&gt;
+&lt;h2 id="fpcJEL"&gt;
+&lt;strong&gt;Travis Kelce’s podcast is more popular than &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;This American Life&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; and &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;SmartLess&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;, according to new ranking&lt;/strong&gt;
+&lt;/h2&gt;
+&lt;p id="FhilEZ"&gt;This is surely as great a victory as winning the Super Bowl. Edison Research released its list of top podcasts during the fourth quarter and found that the “Taylor Swift Effect” on &lt;em&gt;New Heights with Jason and Travis Kelce &lt;/em&gt;is very real.&lt;/p&gt;
+&lt;p id="oSVs4T"&gt;Between October and December, &lt;em&gt;New Heights&lt;/em&gt; was the sixth most popular podcast, up from number 67 the prior quarter. It is worth keeping in mind that Swift and Travis Kelce went public with their relationship &lt;a href="https://people.com/taylor-swift-and-travis-kelce-relationship-timeline-7974203"&gt;in October&lt;/a&gt;. &lt;/p&gt;
+&lt;p id="r0ul0d"&gt;Edison’s ranking is based on survey responses rather than raw listening data, but it is considered to be extremely reliable. At number six,&lt;em&gt; New Heights&lt;/em&gt; is more popular than blockbuster shows like &lt;em&gt;This American Life&lt;/em&gt;, &lt;em&gt;SmartLess&lt;/em&gt;, and &lt;em&gt;The Ben Shapiro Show&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id="1nwBNn"&gt;&lt;strong&gt;More layoffs at SiriusXM&lt;/strong&gt;&lt;/h2&gt;
+&lt;p id="bENU1F"&gt;Yesterday, SiriusXM CEO Jennifer Witz announced another round of layoffs in a memo to staff. She said that about 3 percent of staff, or about 160 people, would be impacted by the cuts. &lt;/p&gt;
+&lt;p id="J9tHzi"&gt;“To continue on our path to future subscriber growth and sustain our Company’s success as the competitive landscape evolves, it’s imperative that we become even more efficient, agile, and flexible,” Witz wrote. “From uniting teams and better aligning initiatives, to investing in new technologies that will power our transformation, we are focused on increasing efficiencies and redeploying resources to support the strategic priorities of our business.”&lt;/p&gt;
+&lt;p id="Cjn0aI"&gt;I find the language here interesting. It reminds me of the announcement last week from Warner Music Group CEO Robert Kyncl in which he justified layoffs by saying the company would have greater capacity to focus on the core music business. Or the announcement from Spotify last week, announcing it was sunsetting some of its own podcast creation tools in favor of Riverside so resources could be allocated elsewhere. (There were no layoffs associated with the change.) &lt;/p&gt;
+&lt;p id="5c14iZ"&gt;Last year, CEOs justified layoffs by citing macroeconomic factors and shakiness in the advertising industry. But the predicted recession never came to pass, and now when cuts are made, it is not out of financial distress but to serve long-term strategy. It’s a refrain I imagine we will hear more of in the coming months and one that will likely be cold comfort to the workers left adrift.&lt;/p&gt;
+&lt;h2 id="TUU6dA"&gt;&lt;strong&gt;Meghan Markle has a new podcast deal&lt;/strong&gt;&lt;/h2&gt;
+&lt;p id="ykVjRl"&gt;It was not entirely clear what the future had in store for Archewell’s podcast arm after a very public and nasty breakup with Spotify, but eight months later, Prince Harry and Meghan Markle’s production company &lt;a href="https://deadline.com/2024/02/meghan-the-duchess-of-sussex-strikes-podcast-deal-lemonada-media-archetypes-1235823528/"&gt;has landed a new deal&lt;/a&gt;. Markle will host a new show for Lemonada, which has partnered with other famous women including Julia Louis-Dreyfus, Samantha Bee, and Sarah Silverman.&lt;/p&gt;
+&lt;p id="LjuDFE"&gt;Markle’s prior show, &lt;em&gt;Archetypes&lt;/em&gt;, was a hit for Spotify and racked up about a million downloads per episode. But Archewell and Spotify struggled to develop additional series, with Harry reportedly pitching show ideas &lt;a href="https://www.bloomberg.com/news/newsletters/2023-06-22/prince-harry-s-podcast-pitch-to-spotify-talk-to-putin-trump-about-childhoods?embedded-checkout=true"&gt;like interviewing Vladimir Putin&lt;/a&gt; about his childhood. Their deal, cut during Spotify’s spend-happy days of 2020, reportedly cost $20 million.&lt;/p&gt;
+&lt;p id="5Xw5PU"&gt;Financials were not disclosed for Markle’s new deal with Lemonada. In the new arrangement, Lemonada will also handle the distribution of &lt;em&gt;Archetypes&lt;/em&gt; across platforms. &lt;/p&gt;
+&lt;p id="DYjOsQ"&gt;“We are beyond honored that Meghan has trusted us to help democratize access to Archetypes, and that so many more people around the world will have access to the series soon. Meghan’s talent as host, creator and conversationalist is unparalleled and we are thrilled to co-create a new series with her that fosters her approach to creating art that matters,” Lemonada CEO Jessica Cordova Kramer told &lt;em&gt;Deadline&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id="AHy6k3"&gt;&lt;strong&gt;Report: Trevor Noah chafes under Spotify deal&lt;/strong&gt;&lt;/h2&gt;
+&lt;p id="BG4Edm"&gt;He would not be the first. According to &lt;a href="https://www.semafor.com/article/02/11/2024/how-spotifys-big-trevor-noah-deal-soured"&gt;a report from &lt;em&gt;Semafor&lt;/em&gt;&lt;/a&gt;, there is some tension between Trevor Noah and Spotify executives over the direction of his show. Noah’s team has reportedly discussed renegotiating his deal with the streamer. &lt;/p&gt;
+&lt;p id="MsJLEl"&gt;Since it debuted in November, Noah has had a mix of business leaders and celebrity guests. But &lt;em&gt;Semafor&lt;/em&gt; reports that higher-ups are pushing for splashy celebrity interviews, something Noah has been &lt;a href="https://www.hollywoodreporter.com/tv/tv-features/trevor-noah-new-podcast-misses-the-daily-show-interview-1235641726/"&gt;adamantly against&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="NgFaAW"&gt;Spotify declined to comment on the report but did tell &lt;em&gt;Semafor&lt;/em&gt; that “we are happy with the show and we have no news on any changes to share.”&lt;/p&gt;
+&lt;p id="qNqO4q"&gt;That’s all for today! I’ll be back on Thursday for Insiders. As for the rest of you, see you next week!&lt;/p&gt;
+&lt;aside id="AQ4K4m"&gt;&lt;div data-anthem-component="newsletter" data-anthem-component-data='{"slug":"podcasts"}'&gt;&lt;/div&gt;&lt;/aside&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/2/13/24072282/taylor-swift-travis-kelce-podcast-new-heights-meghan-markle-spotify-trevor-noah"/>
+    <id>https://www.theverge.com/2024/2/13/24072282/taylor-swift-travis-kelce-podcast-new-heights-meghan-markle-spotify-trevor-noah</id>
+    <author>
+      <name>Ariel Shapiro</name>
+    </author>
+  </entry>
+</feed>

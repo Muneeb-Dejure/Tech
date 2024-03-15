@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>The Verge -  Googles</title>
+  <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
+  <updated>2024-03-14T16:48:43-04:00</updated>
+  <id>https://www.theverge.com/rss/google/index.xml</id>
+  <link type="text/html" href="https://www.theverge.com/google" rel="alternate"/>
+  <entry>
+    <published>2024-03-14T16:48:43-04:00</published>
+    <updated>2024-03-14T16:48:43-04:00</updated>
+    <title>Google I/O 2024 is happening on May 14th</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Google’s I/O logo on wireframes" src="https://cdn.vox-cdn.com/thumbor/AacppwfyjfNZ4GaN4ZvU5RWN-W4=/148x0:1702x1036/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73207794/Screenshot_2024_03_14_at_4.16.44_PM.0.png" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;Google I/O 2024 will be on May 14th. &lt;/em&gt;&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="ACSNzL"&gt;Google’s next I/O developer conference will kick off exactly two months from now on May 14th. Just like last year, the I/O 2024 keynote will be “broadcast in front of a limited live audience” and available for anyone to watch virtually. &lt;/p&gt;
+&lt;p id="s8Ygnu"&gt;This year’s I/O will likely focus on AI, especially now that Google released its new &lt;a href="https://www.theverge.com/2023/12/6/23990466/google-gemini-llm-ai-model"&gt;flagship AI model, Gemini&lt;/a&gt;, and its smaller &lt;a href="https://www.theverge.com/2024/2/21/24078610/google-gemma-gemini-small-ai-model-open-source"&gt;version, Gemma&lt;/a&gt;. &lt;/p&gt;
+&lt;p id="GDr46j"&gt;The Gemini bot’s image generator caused a controversy that Google CEO &lt;a href="https://www.theverge.com/2024/2/28/24085445/google-ceo-gemini-ai-diversity-scandal-employee-memo"&gt;Sundar Pichai called “completely unacceptable”&lt;/a&gt; after its attempt at creating pictures showing diversity had some unintended consequences. Throw in the flubbed facts from Google’s &lt;a href="https://www.theverge.com/2023/2/8/23590864/google-ai-chatbot-bard-mistake-error-exoplanet-demo"&gt;Bard launch last year&lt;/a&gt;, and while the company has a lot of AI advances to celebrate, it will also have to explain why its technology will win against competition from Microsoft, OpenAI, Anthropic, and others.&lt;/p&gt;
+&lt;p id="cqyoGX"&gt;You can also expect to hear about the new features set to arrive in Android 15 and updates to Google’s other services like Gmail, Google Photos, and more. A new &lt;a href="https://www.theverge.com/2023/10/9/23910301/google-pixel-8a-leak-unofficial-renders-photo"&gt;Pixel 8A smartphone&lt;/a&gt; could also be in the cards at I/O; Google introduced the midrange 7A during last year’s event, so its successor is likely right around the corner and could see some of the Pixel 8’s AI capabilities trickle down to a lower price point.&lt;/p&gt;
+&lt;div id="7zwWfW"&gt;
+&lt;blockquote class="twitter-tweet"&gt;
+&lt;p lang="en" dir="ltr"&gt;The countdown to &lt;a href="https://twitter.com/hashtag/GoogleIO?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#GoogleIO&lt;/a&gt; is here! ⏳ &lt;br&gt;&lt;br&gt;Tune in May 14 for our latest updates and demos → &lt;a href="https://t.co/dkRkJ7ldvi"&gt;https://t.co/dkRkJ7ldvi&lt;/a&gt; &lt;a href="https://t.co/NH2sq4diqu"&gt;pic.twitter.com/NH2sq4diqu&lt;/a&gt;&lt;/p&gt;— Google (@Google) &lt;a href="https://twitter.com/Google/status/1768366870426521896?ref_src=twsrc%5Etfw"&gt;March 14, 2024&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;/div&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/14/24101171/google-io-2024-announced-may-14-android-ai-gemini"/>
+    <id>https://www.theverge.com/2024/3/14/24101171/google-io-2024-announced-may-14-android-ai-gemini</id>
+    <author>
+      <name>Emilia David</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-14T12:00:00-04:00</published>
+    <updated>2024-03-14T12:00:00-04:00</updated>
+    <title>Google says Chrome can now protect you better while preserving your privacy</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="The Google Chrome logo surrounded by blue rings" src="https://cdn.vox-cdn.com/thumbor/-bUyRNzUuNQG80KIejBhkPIbkas=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73206887/STK114_Google_Chrome_02.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration: The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="ahHZWN"&gt;Google &lt;a href="https://security.googleblog.com/2024/03/blog-post.html"&gt;has added&lt;/a&gt; real-time browsing protection to Chrome that it claims should protect your privacy. The feature, which Google says hides your visited URLs, is now available on the default Standard mode of Safe Browsing on Chrome.&lt;/p&gt;
+&lt;p id="WAuNrK"&gt;For years, Chrome’s Safe Browsing feature has automatically added potentially unsafe URLs to a list Google stores on your device. Every time a user visits a site, Google checks the URL against that list and issues a warning. The problem is that Google only updates this locally stored database every 30 to 60 minutes. Given most dangerous sites exist for less than 10 minutes nowadays, a lot of unsafe sites slip through the cracks.&lt;/p&gt;
+&lt;p id="ELBGyV"&gt;Safe Browsing’s opt-in &lt;a href="https://security.googleblog.com/2020/05/enhanced-safe-browsing-protection-now.html"&gt;Enhanced protection&lt;/a&gt; mode deals with this by using Google’s Safe Browsing server-side database, which catches unsafe URLs much faster in real time. Yet users must provide Google with more security-related data for full protection, which is why it’s an opt-in mode.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="QsNAZz"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"Google is starting to squash more spam and AI in search results","url":"https://www.theverge.com/2024/3/5/24091099/google-search-high-quality-results-spam-ai-content"},{"title":"Microsoft’s AI Copilot for Security launches next month with pay-as-you-go pricing","url":"https://www.theverge.com/2024/3/13/24099670/microsoft-copilot-for-security-pricing-launch-date-features"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="DXsHIw"&gt;Google claims the new version of Safe Browsing solves this problem with an API that hides the URLs of visited sites from Google. Now, Google says it will do a real-time check for sites that it couldn’t find in its database and will then send an encrypted version of the URLs to Fastly’s independently operated privacy server.&lt;/p&gt;
+&lt;p id="EqJKJ9"&gt;Google says the privacy server will then strip the URL of any potential user identifiers like IP addresses and will not be able to decrypt the URL. Afterward, it’ll send it to Safe Browsing’s server-side database via a TLS connection that mixes your request with those sent by other Chrome users. &lt;/p&gt;
+&lt;p id="CAZjph"&gt;Safe Browsing should then be able to decrypt the URL to its full hash form — which still hides the URL — and check it against its list. If Safe Browsing finds a match, Google says it’ll only send the encrypted hash form over to Google, and Google will then warn the user. &lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="ZAFAYR"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The Verge is not interested in interviewing you about crypto — but scammers are","url":"https://www.theverge.com/2024/1/19/24043482/the-verge-crypto-calendly-scam-phishing"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="lUpySY"&gt;As a result, throughout the process, Google claims your browsing activity remains private; no single party will be able to see both your IP address and the URL’s hash prefixes. At the same time, Google says it should be able to block 25 percent more phishing attempts. &lt;/p&gt;
+&lt;p id="DifP13"&gt;Yet while the Standard and Enhanced modes can now both do real-time checking, Google claims the Enhanced version continues to offer greater protection. That’s because it comes with extra features, like AI to block attacks, deep file scans, and extra protection from dangerous Chrome extensions.&lt;/p&gt;
+&lt;p id="PTdCtt"&gt;The new real-time checking feature for Standard mode is currently available on Chrome for desktop and iOS and will roll out to Android later this month.&lt;/p&gt;
+&lt;p id="TsACgB"&gt;&lt;/p&gt;
+&lt;p id="C04PJHEGR9D-1710356742.874309-thread-list-Thread_1710357397.302889"&gt;&lt;/p&gt;
+&lt;p id="zfxurW"&gt;&lt;/p&gt;
+&lt;p id="7gtsUN"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/14/24099937/google-chrome-safe-browsing-cybersecurity"/>
+    <id>https://www.theverge.com/2024/3/14/24099937/google-chrome-safe-browsing-cybersecurity</id>
+    <author>
+      <name>Sheena Vasani</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-14T08:30:00-04:00</published>
+    <updated>2024-03-14T08:30:00-04:00</updated>
+    <title>Asus Zenfone 11 Ultra review: just another big phone</title>
+    <content type="html">
+  &lt;p&gt;It’s bigger for sure, but is that really better?&lt;/p&gt; &lt;p id="50SrvP"&gt;The Zenfone is &lt;a href="https://www.theverge.com/23777412/asus-zenfone-10-specs-screen-size-battery-camera"&gt;everyone’s favorite small-ish Android phone&lt;/a&gt;, except this year, it’s not: the Zenfone has gone Ultra. &lt;/p&gt;
+&lt;p id="HLiweD"&gt;Asus has adapted its gaming phone, &lt;a href="https://www.theverge.com/2024/1/8/24023549/asus-rog-phone-8-pro-ai-price-release-date-specs-features-gaming-smartphone"&gt;the ROG Phone 8&lt;/a&gt;, into a normie phone. It’s big, heavy, and it costs $899. It’s entirely inoffensive if big phones are your thing (&lt;a href="https://www.theverge.com/2023/5/20/23730130/apple-iphone-13-mini-apple-phones"&gt;they aren’t mine, personally&lt;/a&gt;), but after a week of testing, I’m not seeing any compelling reason to pick it over any of the other big, heavy phones already on the table.&lt;/p&gt;
+&lt;p id="Iy6HF5"&gt;It’s possible that Asus will release a smaller Zenfone 11 later this year, but the company won’t say one way or the other whether it plans to do that. The last great small-ish Android phone &lt;a href="https://www.theverge.com/2024/2/20/24078500/asus-zenfone-11-ultra-small-phone"&gt;might be dead&lt;/a&gt;, or it might not be. In the meantime, another big Android phone just dropped — and it’s a fine device, but I’m not sure we needed it. &lt;/p&gt;
+&lt;div&gt;&lt;div id="RUlcFH"&gt;&lt;div data-anthem-component="scorecard:12278351"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p id="EJA7iO"&gt;Look, I get the appeal of a big phone. You know what a big phone has a lot of? Screen. Screen as far as the eye can see! The Zenfone 11 Ultra — again, like the ROG Phone 8 Pro — offers a 6.78-inch OLED panel. It can go up to 144Hz, but only in gaming mode. The rest of the time, it’ll go up to 120Hz or, since it’s an LTPO display, down as low as 1Hz to save on battery life. It’s only 1080p, though, so it’s not quite as crisp as its competitors with 1440p displays, like the OnePlus 12 and Samsung Galaxy S24 Plus.&lt;/p&gt;
+&lt;p id="hRyXP5"&gt;Big phones also come with big batteries, and I have zero complaints with the Zenfone 11 Ultra’s massive 5,500mAh battery. I easily got through a full day without dropping under 50 percent, and I’d feel reasonably confident stretching this battery to two days. It also supports wireless charging — not Qi2 though, just regular 15W Qi. &lt;/p&gt;
+&lt;div class="c-wide-block"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="Asus Zenfone 11 Ultra on a yellow background showing homescreen." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/FRcLpcB4ntH6u2fudZklZWsk6kc=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25334617/DSC07066.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;More phone, more screen. Those are the rules.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p id="WqyM4T"&gt;The Zenfone 11 Ultra uses a Snapdragon 8 Gen 3 chipset, the top-tier processor of choice for Android phone makers, and the base model comes with a beefy 12GB of memory and 256GB of storage. I doubt I pushed its gaming phone DNA to the limit with my &lt;em&gt;Pocket City 2&lt;/em&gt; sessions — designating commercial zones and adjusting income tax sliders is probably not what the Republic of Gamers had in mind — but the 11 Ultra handled every task I threw at it with ease.&lt;/p&gt;
+&lt;p id="KKDxOF"&gt;Like previous Zenfones, the 11 Ultra will work on AT&amp;amp;T and T-Mobile but not on Verizon. Hypothetically, you &lt;em&gt;could&lt;/em&gt; use it on the Verizon network if you live in an area with good 5G coverage and you have a physical SIM card. Just theoretically speaking. &lt;/p&gt;
+&lt;div class="c-wide-block"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="Asus Zenfone 11 Ultra on a yellow background showing blue back panel at an angle." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/T17eZ3f39IZI2pcRNQ0f02DXqg8=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25334618/DSC07077.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;This design doesn’t do it for me, but you know what does? The Zenfone’s IP68 rating.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p id="dS2X5B"&gt;I definitely wouldn’t recommend it for full-time use, though, because you might see a worrying “No Service” notification pop up at the top of your screen every once in a while, and while texting and data work fine, placing phone calls seems to be a no-go. Sort of a crucial “telephone” feature.&lt;/p&gt;
+&lt;p id="z6Dswn"&gt;In the abstract, I like the Zenfone 11 Ultra’s design. Like, if I saw it in an ad in a design magazine, the cool blue finish and architectural camera bump would look kind of nice, you know? If I’m being honest, though, it’s not my favorite. &lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="Asus Zenfone 11 Ultra on a yellow background showing headphone jack." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/yfcC0MetWZaVk1qc47pxysLZzqM=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25334621/DSC07086.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;Look, a headphone jack! They do exist!&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p id="mGJqnw"&gt;The black edges and camera bump seem out of step with the sleek, slightly matte back panel. But mainly, I’m annoyed at how heavy and &lt;em&gt;dense &lt;/em&gt;it is. More than once, it slid out of my jacket pocket and into the crevice between the driver’s seat and center console with an alarming thud. I did not enjoy this one bit. &lt;/p&gt;
+&lt;p id="XnSbav"&gt;Asus is keeping up with the times and includes a handful of AI features on the 11 Ultra, including a call translation feature that seems to work exactly like Samsung’s version. Nice to have, but the AI noise cancellation for calls is something that seems more broadly useful. It works both ways, cleaning up the audio for the listener and speaker — &lt;a href="https://www.theverge.com/2023/1/13/23552300/google-pixel-7-pro-clear-calling-noise-cancellation"&gt;Google’s version for the Pixel&lt;/a&gt; only cancels out noise on the other end of the call so &lt;em&gt;you’ll&lt;/em&gt; have an easier time hearing if they’re in a noisy environment. I couldn’t test it out because I’m on Verizon. &lt;/p&gt;
+&lt;p id="VEX6jQ"&gt;AI features are great and all, but one thing that’s more important to most people? The camera.&lt;strong&gt; &lt;/strong&gt;The Zenfone’s coolest camera trick remains its gimbal-like stabilization. During video recording, it smooths out bumps and movement incredibly well — and if you need proof that it’s really working, you can take a close look at the main camera lens &lt;a href="https://twitter.com/allisonjo1/status/1552668060351229953?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1552668060351229953%7Ctwgr%5Ee8f3b925925024314d186b82cbf77d14cd42a758%7Ctwcon%5Es1_c10&amp;amp;ref_url=https%3A%2F%2Fwww.theverge.com%2F2022%2F7%2F28%2F23280728%2Fasus-zenfone-9-screen-camera-specs-price-ois-gimbal-stabilization-video"&gt;to see it moving&lt;/a&gt;. &lt;/p&gt;
+&lt;div id="C0HEIg"&gt;&lt;div data-anthem-component="gallery:12278502"&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p id="4E78jh"&gt;There’s even a HyperSteady mode that corrects for bigger movements — violently shaking the camera back and forth just looks like moderate swaying. It crops in a lot, and you need plenty of light to use it, but it’s cool.&lt;/p&gt;
+&lt;p id="6hpJru"&gt;Outside of video mode, the 11 Ultra looks pretty average. Portrait mode cutouts are surprisingly good, and the system chose shutter speeds fast enough to get plenty of sharp photos of my kid playing indoors. But the 11 Ultra’s cameras overall are a little inconsistent — auto white balance jumps around occasionally, and photos sometimes have a too-bright, overexposed look about them. Sometimes they don’t! But that’s the problem: inconsistency.&lt;/p&gt;
+&lt;div class="c-wide-block"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="Asus Zenfone 11 Ultra in hand showing homescreen." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/6eeyEmn4_Pwm58cr-xHhTebJw3U=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25334622/DSC07091.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;It’s hard out there for a big Android phone.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p id="nNzG9h"&gt;It’s Big Android Phone season, because the Zenfone 11 Ultra arrives on the heels of the &lt;a href="https://www.theverge.com/24058916/samsung-galaxy-s24-plus-review-screen-battery-camera"&gt;Samsung Galaxy S24 Plus&lt;/a&gt;, the &lt;a href="https://www.theverge.com/24053907/samsung-galaxy-s24-ultra-review-ai-screen-camera-battery"&gt;S24 Ultra&lt;/a&gt;, and the &lt;a href="https://www.theverge.com/24047368/oneplus-12-review"&gt;OnePlus 12&lt;/a&gt;. They all use the same chipset (well, provided you buy the S24 Plus in the US) and not-a-one of them has a screen smaller than 6.7 inches. I can clearly recommend three out of four of these phones, but the Zenfone, I’m just not sure about.&lt;/p&gt;
+&lt;p id="4E22F8"&gt;The Galaxy S24 Ultra is the obvious pick for someone who wants the absolute most out of their phone. The $799 OnePlus 12 is the right choice if you want a big screen and want to spend a little less. For everyone else, there’s the Galaxy S24 Plus — the crowd-pleaser that’s readily available with trade-in and carrier deals galore. The Zenfone just doesn’t earn a clear space for itself here.&lt;/p&gt;
+&lt;p id="7MQyjM"&gt;Maybe if it had an outstanding camera or it had better network support in the US or, I don’t know, &lt;em&gt;a thoughtful form factor unlike anything else on the market. &lt;/em&gt;The Zenfone 11 Ultra does plenty of things well but isn’t great in any one way. As it stands, it’s just one more big phone.&lt;/p&gt;
+&lt;p id="COd5B8"&gt;&lt;em&gt;Photography by Allison Johnson / The Verge&lt;/em&gt;&lt;/p&gt;
+&lt;div&gt;&lt;div id="4flm3O"&gt;&lt;div data-anthem-component="aside:12278353"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/24099978/asus-zenfone-11-ultra-review-screen-battery-camera"/>
+    <id>https://www.theverge.com/24099978/asus-zenfone-11-ultra-review-screen-battery-camera</id>
+    <author>
+      <name>Allison Johnson</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-14T08:30:00-04:00</published>
+    <updated>2024-03-14T08:30:00-04:00</updated>
+    <title>The Asus Zenfone 11 Ultra is more screen, less zen</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Asus Zenfone 11 Ultra in hand showing homescreen." src="https://cdn.vox-cdn.com/thumbor/7V7T2SLcgxILQO_dQhYim7JX8k4=/0x0:2000x1333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73206311/DSC07091.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;New big Android phone just dropped.&lt;/em&gt;&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="hl7eib"&gt;The &lt;a href="https://www.theverge.com/23777412/asus-zenfone-10-specs-screen-size-battery-camera"&gt;days of the small Zenfone&lt;/a&gt; are over — maybe? Asus has officially unveiled the Zenfone 11 Ultra, and it is anything but the small-ish device that its last few predecessors were. It comes with a 6.78-inch screen, a huge 5,500mAh battery, and a sizable $899 starting price. &lt;/p&gt;
+&lt;p id="BF2T6I"&gt;You don’t have to look too hard to identify that the Zenfone 11 Ultra is basically a rebadged &lt;a href="https://www.theverge.com/2024/1/8/24023549/asus-rog-phone-8-pro-ai-price-release-date-specs-features-gaming-smartphone"&gt;ROG Phone 8&lt;/a&gt;, minus the gamer lights. Like its gaming-focused sibling, the 11 Ultra uses a Snapdragon 8 Gen 3 chipset and comes with 12GB of RAM / 256GB of ROM in its base configuration. A 16GB / 512GB model will be sold outside the US. Like previous Zenfones, the 11 Ultra won’t work on Verizon in the US — only AT&amp;amp;T and T-Mobile.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="DfP5y4"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"Asus Zenfone 11 Ultra review: just another big phone","url":"https://www.theverge.com/e/23864019"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="DMbUGS"&gt;The 11 Ultra uses an LTPO display, so it can ramp the refresh rate all the way down to 1Hz to save on battery life. Refresh rates can also go up to 144Hz, but only while gaming — otherwise, it maxes out at 120Hz. There’s a 50-megapixel main camera with f/1.9 lens, supported by Asus’ impressive six-axis stabilization, a 13-megapixel wide-angle lens, and a stabilized 32-megapixel 3x telephoto. &lt;/p&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Asus Zenfone 11 Ultra on a yellow background showing back panel." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/MdTKxLQSSXc1Ff2GPTUthi_jppw=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25334620/DSC07081.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;Not a gamer light in sight.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="qMoCYZ"&gt;It’s 2024, so there are a few familiar-sounding AI features, including live language translation and two-way noise cancellation for phone calls. AI can summarize voice memo transcriptions, and the search functions for photos and system settings have been enhanced with AI. &lt;/p&gt;
+&lt;p id="BztnXL"&gt;This might be the new shape of the Zenfone, or it might not be — Asus’ global director for smartphones, Chih-Hao Kung, was vague on that point in a recent media briefing. He emphasized that the Zenfone 10 launched in the second half of last year and is still for sale now, but “at this moment, we don’t have any comments on this... This launch only focuses on the large-sized Zenfone 11 Ultra.”&lt;/p&gt;
+&lt;p id="artdeco-gen-42"&gt;I’m holding out hope for a smaller Zenfone 11 later this year. In the meantime, big phone fans can &lt;a href="https://go.skimresources.com?id=1025X1701640&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fshop.asus.com%2Fus%2Fzenfone-11-ultra.html" rel="sponsored nofollow noopener" target="_blank"&gt;preorder the Zenfone 11 Ultra starting today&lt;/a&gt;; it ships in early April.&lt;/p&gt;
+&lt;p id="2LNles"&gt;&lt;em&gt;Photography by Allison Johnson / The Verge&lt;/em&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/14/24099665/asus-zenfone-11-ultra-screen-size-camera-specs-price"/>
+    <id>https://www.theverge.com/2024/3/14/24099665/asus-zenfone-11-ultra-screen-size-camera-specs-price</id>
+    <author>
+      <name>Allison Johnson</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-13T16:32:50-04:00</published>
+    <updated>2024-03-13T16:32:50-04:00</updated>
+    <title>Google finally brings all its Nest Cam features to Google Home for web     </title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/QQ9ZUj1MibN63DA2tLpiG3CMx98=/0x60:2040x1420/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73205119/jtuohy_211012_4809_3.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;With a new update you can now view recorded footage from cameras like the Google Nest Cam (indoor, wired) on Google Home’s web interface.&lt;/em&gt; | Photo by Jennifer Pattison Tuohy / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="hL7vIq"&gt;Google &lt;a href="https://www.googlenestcommunity.com/t5/Blog/Google-Home-Access-camera-history-and-download-clips-from-the-Web-and-more/ba-p/605573"&gt;has announced&lt;/a&gt; that in the next few days, Nest Cam users will finally be able to view and download recorded clips and scroll through their event timeline on its new &lt;a href="http://home.google.com"&gt;home.google.com&lt;/a&gt; web portal. While you’ve been able to view livestreams from here, if you want to see what happened earlier, you need to go to the Google Home app. &lt;/p&gt;
+&lt;p id="DYKYXT"&gt;The company also says it's bringing the ability to create custom clips from recorded footage both on the web and in the app, finally bringing the full functionality of its Nest cameras to its own platform. These features will require a Nest Aware subscription, starting at $8 a month.&lt;/p&gt;
+&lt;div id="SDH5en"&gt;&lt;div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"&gt;&lt;iframe src="https://www.youtube.com/embed/TJkgIqjciTY?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen="" scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p id="X5kuWM"&gt;Google first promised to bring a web view to its cameras in 2021, but it didn’t &lt;a href="https://www.theverge.com/2022/10/25/23423143/google-nest-cameras-web-view-google-home-routines-arrive"&gt;materialize until 2022&lt;/a&gt;. Then, it was limited to live view, was only for newer Google Nest cams, and you had to sign up for Google’s public preview. Now the interface is coming out of public preview and is available to everyone (although the preview will still exist as a way to try out new features such as &lt;a href="https://www.theverge.com/2023/11/29/23981277/google-nest-cam-garage-door-detection-nest-app-google-home"&gt;Garage Door detection&lt;/a&gt; before their full rollout, &lt;a href="https://support.google.com/googlenest/answer/12494697?hl=en#zippy=%2Chow-to-join-public-preview"&gt;you can opt in here&lt;/a&gt;).&lt;/p&gt;
+&lt;p id="hJ6iG3"&gt;Older Nest Cam users (pre-2021) could view live and recorded footage at &lt;a href="http://home.nest.com/"&gt;home.nest.com&lt;/a&gt;, but only see a live view in Google’s interface. In either case, users could still access the Nest app or Google Home app to see clips and download them. &lt;/p&gt;
+&lt;p id="FyoDnT"&gt;If you have both vintages of Nest cams, you are likely still switching between the two apps and two web portals. While you can view livestreams from all cameras in the Google Home app, the recorded footage for older Nest Cams can only be found in the Nest app, and you can’t use the newer ones in the Nest app. This is both confusing and annoying. &lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="Hqzapd"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The new Google Home app is finally here ","url":"https://www.theverge.com/2023/5/10/23717404/google-home-app-release-date-features-matter-io"},{"title":"How to start a smart home using Google Home ","url":"https://www.theverge.com/23744291/google-smart-home-nest-how-to"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="NRVsZj"&gt;Now, Nest Cam users will be able to take advantage of both a larger screen and enhanced clip-making options. It's not clear which older Nest cams will work (we’ve reached out to Google for clarification), but it is likely all the newer Google Nest Cams and the older Nest Cams that have been &lt;a href="https://www.theverge.com/2023/8/24/23845152/google-home-app-support-older-nest-cam-indoor"&gt;transferred to the Google Home app&lt;/a&gt;. Picture-in-picture viewing is also slated for Google Home for web. &lt;/p&gt;
+&lt;p id="Admwh7"&gt;Additionally, the blog post says that the custom clips feature — which lets you pick a start and end time from any recording and turn it into a clip — will roll out in the next few weeks both on the web and in the Google Home app. It will come to Nest Cam (indoor, wired, second gen), Nest Cam (outdoor or indoor, battery), Nest Cam with Floodlight, Nest Doorbell (wired, second gen), Nest Doorbell (battery), and Nest Cam Indoor (first gen) and Nest Cam Outdoor (first gen). &lt;/p&gt;
+&lt;p id="KD8U1T"&gt;With every improvement to the Google Home app, including its web interface, we’re moving closer to the death of the Nest app. Now, arguably, the only thing still keeping the app alive is that it's the only way to set up and control a Google Nest Protect smoke alarm.&lt;/p&gt;
+&lt;p id="zXCaDy"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/13/24099773/google-nest-cams-google-home-web-recorded-video"/>
+    <id>https://www.theverge.com/2024/3/13/24099773/google-nest-cams-google-home-web-recorded-video</id>
+    <author>
+      <name>Jennifer Pattison Tuohy</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-13T10:00:00-04:00</published>
+    <updated>2024-03-13T10:00:00-04:00</updated>
+    <title>Google’s new AI will play video games with you — but not to win</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Google logo with colorful shapes" src="https://cdn.vox-cdn.com/thumbor/5G1dvu_wnApkbelkOAZFBOfFPBk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73203756/STK093_Google_04.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration: The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="MNZs5N"&gt;Google DeepMind unveiled SIMA, an AI agent training to learn gaming skills so it plays more like a human instead of an overpowered AI that does its own thing. SIMA, which stands for Scalable, Instructable, Multiworld Agent, is currently only in research. &lt;/p&gt;
+&lt;p id="Or265I"&gt;SIMA will eventually learn how to play any video game, even games with no linear path to end the game and open-world games. Though it’s not intended to replace existing game AI, think of it more as another player that meshes well with your party. It mixes natural language instruction with understanding 3D worlds and image recognition. &lt;/p&gt;
+&lt;p id="Stfrub"&gt;“SIMA isn’t trained to win a game; it’s trained to run it and do what it’s told,” said Google DeepMind researcher and SIMA co-lead Tim Harley during a briefing with reporters. &lt;/p&gt;
+&lt;p id="HSzzl5"&gt;Google worked with eight game developers, including Hello Games, Embracer, Tuxedo Labs, Coffee Stain, and others, to train and test SIMA. Researchers plugged SIMA into games &lt;a href="https://www.theverge.com/2022/10/3/23380392/no-mans-sky-switch-launch-interview-sean-murray-4-0-update"&gt;like &lt;em&gt;No Man’s Sky&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, Teardown, Valheim, &lt;/em&gt;and &lt;em&gt;Goat Simulator 3&lt;/em&gt; to teach the AI agent the basics of playing the games. In a blog post, Google said that SIMA doesn’t need a custom API to play the games or access source codes. &lt;/p&gt;
+&lt;p id="XwgsLD"&gt;Harley said the team chose games that were more focused on open play than narrative to help SIMA learn general gaming skills. If you’ve played or &lt;a href="https://www.theverge.com/2014/4/1/5569950/goat-simulator-review"&gt;watched a playthrough of &lt;em&gt;Goat Simulator,&lt;/em&gt;&lt;/a&gt; you know that doing random, spontaneous things is the point of the game, and Harley said it was this kind of spontaneity they hoped SIMA would learn. &lt;/p&gt;
+&lt;p id="vwNSQk"&gt;To do this, the team first built a new environment in the Unity engine where the agents needed to create sculptures to test their understanding of object manipulation. Then, Google recorded pairs of human players — one controlling the game and the other giving instructions on what to do next — to capture language instructions. Afterward, players played independently to show what led to their actions in the game. All of this was fed to the SIMA agents to learn to predict what would happen next on the screen. &lt;/p&gt;
+&lt;p id="PX9Iqm"&gt;SIMA currently has about 600 basic skills, such as turning left, climbing a ladder, and opening the menu to use a map. Eventually, Harley said, SIMA could be instructed to do more complex functions within a game. Tasks like “find resources and build a camp” are still difficult because AI agents can’t perform actions for humans. &lt;/p&gt;
+&lt;p id="dqcnx7"&gt;SIMA isn’t meant to be an AI-powered NPC &lt;a href="https://www.theverge.com/24031687/nvidia-ai-npcs-convai-ces-2023"&gt;like the ones from Nvidia and Convai&lt;/a&gt;, but another player in a game that impacts the result. SIMA project co-lead Frederic Besse said it’s too early to tell what kind of uses AI agents like it could bring to gaming outside of the research sphere.&lt;/p&gt;
+&lt;p id="58V7kQ"&gt;Like AI NPCs, however, SIMA may eventually learn to talk, but it’s far from that. SIMA is still learning how to play games and adapt to ones it hasn’t played before. Google said that with more advanced AI models, SIMA may eventually be able to do more complex tasks and be the perfect AI party member to lead you to victory. &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/13/24099024/google-deepmind-ai-agent-sima-video-games"/>
+    <id>https://www.theverge.com/2024/3/13/24099024/google-deepmind-ai-agent-sima-video-games</id>
+    <author>
+      <name>Emilia David</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-12T14:34:26-04:00</published>
+    <updated>2024-03-12T14:34:26-04:00</updated>
+    <title>Grid’s framed, nostalgia-inducing gadgets are up to 40 percent off</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/megjC0_X00lY_3IC9cfGXrB4AHw=/0x0:1080x720/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73201775/Grid_Game_Boy_Color_Press_Image.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;The framed edition of the atomic purple Game Boy Color is nearly $30 off for a limited time.&lt;/em&gt; | Image: Grid&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="slYX1w"&gt;Of all the tech-centric artwork I’ve seen over the years, few pieces have grabbed me as much as Grid Studio’s framed gadgets and gizmos. The company has been slinging the collage-like pieces for several years now, taking oft-forgotten devices once destined for the landfill and putting them on full display in classy shadowbox-style frames with exploded views. And now, thanks to its &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fgridstudio.cc%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F3%2F12%2F24097671%2Fgrid-studio-framed-tech-sony-wh-1000xm5-headphones-oppenheimer-blu-ray-deal-sale" rel="sponsored nofollow noopener" target="_blank"&gt;annual spring sales event&lt;/a&gt;, Grid is offering up to 40 percent off select items through the end of March.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="2hkTTU"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The Frame has become such a hit that Samsung is making a speaker version","url":"https://www.theverge.com/2024/1/7/24029243/samsung-music-frame-speaker-announced-specs-features"},{"title":"How to modernize your retro game collection in a few convoluted steps","url":"https://www.theverge.com/24072166/retro-classic-game-roms-nfc-mister-how-to-modern"},{"title":"It’s clearly time: all the news about the transparent tech renaissance","url":"https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="pwo4hK"&gt;There are plenty of retro and contemporary items to choose from, from controllers to smartphones to gaming consoles that once dominated the handheld market in the US. The &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fgridstudio.cc%2Fproducts%2Fgrid%25C2%25AE4s&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F3%2F12%2F24097671%2Fgrid-studio-framed-tech-sony-wh-1000xm5-headphones-oppenheimer-blu-ray-deal-sale" rel="sponsored nofollow noopener" target="_blank"&gt;&lt;strong&gt;iPhone 4S&lt;/strong&gt;&lt;/a&gt; and &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fgridstudio.cc%2Fproducts%2Fgrid%25C2%25AE-nes-controller&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F3%2F12%2F24097671%2Fgrid-studio-framed-tech-sony-wh-1000xm5-headphones-oppenheimer-blu-ray-deal-sale" rel="sponsored nofollow noopener" target="_blank"&gt;&lt;strong&gt;original NES controller&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; &lt;/strong&gt;— both of which are on sale for $99 ($70 off), matching their all-time low — are the most notable at 40 percent off, though you can also save 15 percent on an assortment of other pieces when you clip the on-page coupon or use promo code &lt;strong&gt;SP15 &lt;/strong&gt;at checkout. Personally, I’m partial to the see-through &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fgridstudio.cc%2Fproducts%2Fgame-boy-color&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F3%2F12%2F24097671%2Fgrid-studio-framed-tech-sony-wh-1000xm5-headphones-oppenheimer-blu-ray-deal-sale" rel="sponsored nofollow noopener" target="_blank"&gt;&lt;strong&gt;Game Boy Color&lt;/strong&gt;&lt;/a&gt; (now $161.15) as well as &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fgridstudio.cc%2Fproducts%2Fgrid%25C2%25AE-motorola-razr-v3&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F3%2F12%2F24097671%2Fgrid-studio-framed-tech-sony-wh-1000xm5-headphones-oppenheimer-blu-ray-deal-sale" rel="sponsored nofollow noopener" target="_blank"&gt;&lt;strong&gt;Motorola’s iconic Razr V3&lt;/strong&gt;&lt;/a&gt; (now $126.65) and the &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fgridstudio.cc%2Fproducts%2Fgrid%25C2%25AE-ipod-photo&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F3%2F12%2F24097671%2Fgrid-studio-framed-tech-sony-wh-1000xm5-headphones-oppenheimer-blu-ray-deal-sale" rel="sponsored nofollow noopener" target="_blank"&gt;&lt;strong&gt;iPod Photo&lt;/strong&gt;&lt;/a&gt; (now $169.15) from ’04. After all, I’m an absolute sucker &lt;a href="https://www.theverge.com/circuitbreaker/2018/11/21/18105423/ipod-click-wheel-button-music-control-hardware-design"&gt;for a good click wheel&lt;/a&gt; and a headphone jack.&lt;/p&gt;
+&lt;div id="ni3Y4J"&gt;&lt;div data-anthem-component="productcard:12043362"&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div id="9kUJK0"&gt;&lt;div data-anthem-component="productcard:12276901"&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p id="L28R31"&gt;Sony has long been a player in the personal audio space, but in the last decade or so, it’s really become known for premium noise-canceling headphones like the &lt;strong&gt;WH-1000XM5&lt;/strong&gt;. Thankfully, if you want to see what all the fuss is about, Amazon is currently &lt;a href="https://www.amazon.com/deal/0bc5d519/"&gt;hosting an expansive sale&lt;/a&gt; on all things Sony, dropping discounts on headphones, gaming headsets, earbuds, and various pieces of home theater equipment. &lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="UX0UyG"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The best noise-canceling headphones to buy right now","url":"https://www.theverge.com/21345733/best-noise-canceling-headphones"},{"title":"Sony’s InZone gaming monitors and headsets are for more than just PS5 gamers","url":"https://www.theverge.com/2022/6/28/23180410/sony-inzone-gaming-monitors-hands-on-specs-price-ps5-pc"},{"title":"You can grab a PS5 with Marvel’s Spider-Man 2 for $399.99 right now","url":"https://www.theverge.com/2024/3/9/24094340/sony-playstation-5-ps5-slim-bundle-spider-man-2-ipad-pro-m1-m2-deal-sale"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="k1i8Nx"&gt;On the headphone front, the XM5 are &lt;a href="https://www.amazon.com/Sony-WH-1000XM5-Headphones-Hands-Free-WH1000XM5/dp/B0BXYCS74H?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;down to $328 ($72 off)&lt;/a&gt;, which matches one of the lowest prices we’ve seen on the over-ears to date. You can also pick up the &lt;a href="https://www.theverge.com/21356313/sony-1000xm4-noise-canceling-headphones-review-price-specs-features"&gt;&lt;strong&gt;last-gen WH-1000XM4&lt;/strong&gt;&lt;/a&gt; — which offer an identical set of features, great sound, and a foldable design — &lt;a href="https://www.amazon.com/Sony-WH-1000XM4-Canceling-Headphones-phone-call/dp/B0863TXGM3/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;for $248 ($100 off)&lt;/a&gt;, along with the step-down &lt;strong&gt;WH-CH720N&lt;/strong&gt; for &lt;a href="https://www.amazon.com/Sony-WH-CH720N-Canceling-Headphones-Microphone/dp/B0BS74M665?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;$128 ($22 off)&lt;/a&gt;. Last but not least are the &lt;strong&gt;LinkBuds S&lt;/strong&gt;, a pair of wireless earbuds that offer supreme comfort, strong voice call performance, and effective ANC &lt;a href="https://www.amazon.com/Sony-LinkBuds-Wireless-Canceling-Headphones/dp/B09YL76VSR/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;for $148 ($52 off)&lt;/a&gt;. You can even snag the purple &lt;a href="https://www.theverge.com/2023/9/26/23889814/sony-olivia-rodrigo-linkbuds-s-announced-guts-sour"&gt;Olivia Rodrigo edition&lt;/a&gt; of the latter &lt;a href="https://www.amazon.com/Sony-LinkBuds-Wireless-Canceling-Headphones/dp/B0CHZ8J9LC/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;for an all-time low of $168&lt;/a&gt; ($32 off), which nets you two custom EQ modes that are optimized for each of Rodrigo’s albums: &lt;em&gt;Sour&lt;/em&gt; and &lt;em&gt;Guts&lt;/em&gt;.&lt;/p&gt;
+&lt;h4 id="wF9eCe"&gt;Read our reviews of the &lt;a href="https://www.theverge.com/23067645/sony-wh-1000xm5-noise-canceling-headphones-review"&gt;Sony XM5&lt;/a&gt; and &lt;a href="https://www.theverge.com/23123317/sony-linkbuds-s-earbuds-headphones-review"&gt;original LinkBuds S&lt;/a&gt;.&lt;/h4&gt;
+&lt;div id="rdVDvs"&gt;&lt;div data-anthem-component="productcard:12170020"&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div id="qjOtsH"&gt;&lt;div data-anthem-component="productcard:12277062"&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;aside id="FCmJSK"&gt;&lt;div data-anthem-component="actionbox" data-anthem-component-data='{"title":"Verge Deals on X","description":"Join more than 50,000 followers and keep up with the best daily tech deals with @vergedeals","label":"Follow us!","url":"http://bit.ly/2JzR5Ud"}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;h2 id="3ySi37"&gt;Other deals and discounts of note&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li id="96hJhc"&gt;One of the coolest things about &lt;a href="https://www.theverge.com/23765921/google-pixel-tablet-review"&gt;Google’s Pixel Tablet&lt;/a&gt; is its color-matched speaker dock, which attaches via magnets and allows you to use your slate as an ad hoc smart display. The tablet comes with one by default; however, if you’d like a second &lt;strong&gt;Charging Speaker Dock&lt;/strong&gt; to place somewhere else in your home, &lt;a href="https://www.amazon.com/dp/B0C289CD17/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; and &lt;a href="https://howl.me/clOqAIewHjA"&gt;Best Buy&lt;/a&gt; are selling the standalone device starting at $77.99 ($51 off).&lt;/li&gt;
+&lt;li id="lpabrg"&gt;
+&lt;strong&gt;Apple’s latest AirPods Pro &lt;/strong&gt;— aka the &lt;a href="https://www.theverge.com/21309820/best-wireless-earbuds"&gt;best pair of earbuds for iPhone owners&lt;/a&gt; or anyone locked into the Apple ecosystem — have returned to their all-time low of around $189 ($60 off) at &lt;a href="https://www.amazon.com/Apple-Generation-Cancelling-Transparency-Personalized/dp/B0CHWRXH8B/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;, &lt;a href="https://goto.walmart.com/c/482924/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FAirPods-Pro-2nd-generation-with-MagSafe-Case-USB-C%2F5020133971%2F&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Walmart&lt;/a&gt;, and &lt;a href="https://howl.me/clOqFPs8sJz"&gt;Best Buy&lt;/a&gt;. The newest model touts the same great sound quality and ANC as the &lt;a href="https://www.theverge.com/23365910/apple-airpods-pro-second-generation-review"&gt;second-gen model&lt;/a&gt; from 2022, except the latest iteration also features dust resistance and ships with a USB-C charging case instead of the Lightning-only model that came with Apple’s previous earbuds. &lt;a href="https://www.theverge.com/23878402/apple-airpods-pro-usb-c-adaptive-audio-conversation-awareness-test-review"&gt;Read our hands-on impressions&lt;/a&gt;.&lt;/li&gt;
+&lt;li id="78y805"&gt;2023 was a colossal year for gaming, with blockbuster titles such as &lt;em&gt;Baldur’s Gate 3, &lt;/em&gt;&lt;a href="https://www.theverge.com/23852390/starfield-review-xbox-pc"&gt;&lt;em&gt;Starfield&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, &lt;/em&gt;and &lt;a href="https://www.theverge.com/23718926/zelda-tears-of-the-kingdom-review-nintendo-switch"&gt;&lt;em&gt;Tears of the Kingdom&lt;/em&gt;&lt;/a&gt; leading the public discourse. If you didn’t have a chance to tackle the excellent &lt;em&gt;&lt;strong&gt;Lies of P&lt;/strong&gt;&lt;/em&gt;, however, the PC version is on sale via &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.humblebundle.com/store/lies-of-p" rel="sponsored nofollow noopener" target="_blank"&gt;Humble&lt;/a&gt; for $44.99 ($15 off). The action RPG is essentially a bloody gothic reimagining of &lt;em&gt;Pinocchio &lt;/em&gt;with a punishing learning curve, the kind best suited for fans of &lt;em&gt;Dark Souls&lt;/em&gt;, &lt;em&gt;Elden Ring&lt;/em&gt;, and other difficult games that leave you more and more deflated with every session (sigh).&lt;/li&gt;
+&lt;li id="AA8Jci"&gt;Just in time for spring, Rad Power Bikes has &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.radpowerbikes.com%2Fcollections%2Fclassic-bikes&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F3%2F12%2F24097671%2Fgrid-studio-framed-tech-sony-wh-1000xm5-headphones-oppenheimer-blu-ray-deal-sale" rel="sponsored nofollow noopener" target="_blank"&gt;launched a new sales event&lt;/a&gt;, which takes $200 off select e-bikes through March 13th. It’s primarily focused on the company’s more classic models, including the &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.radpowerbikes.com%2Fcollections%2Fclassic-bikes%2Fproducts%2Fradrunner-electric-utility-bike%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F3%2F12%2F24097671%2Fgrid-studio-framed-tech-sony-wh-1000xm5-headphones-oppenheimer-blu-ray-deal-sale" rel="sponsored nofollow noopener" target="_blank"&gt;&lt;strong&gt;RadRunner 2&lt;/strong&gt;&lt;/a&gt; ($1,199) and &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.radpowerbikes.com%2Fcollections%2Fclassic-bikes%2Fproducts%2Fradrunner-3-plus-electric-utility-bike%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F3%2F12%2F24097671%2Fgrid-studio-framed-tech-sony-wh-1000xm5-headphones-oppenheimer-blu-ray-deal-sale" rel="sponsored nofollow noopener" target="_blank"&gt;&lt;strong&gt;RadRunner 3 Plus&lt;/strong&gt;&lt;/a&gt; ($1,899), the latter of which is a short-tail cargo bike with an ergonomic design &lt;a href="https://www.theverge.com/2023/3/1/23620081/radrunner-3-plus-rad-power-bikes-ebike-pet-trailer-specs-price"&gt;you can easily kit out&lt;/a&gt; with a rear passenger seat, a hard-shell center console, lockable panniers, and — of course — a &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.radpowerbikes.com%2Fcollections%2Fstorage-transport%2Fproducts%2Frad-trailer%3F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F3%2F12%2F24097671%2Fgrid-studio-framed-tech-sony-wh-1000xm5-headphones-oppenheimer-blu-ray-deal-sale" rel="sponsored nofollow noopener" target="_blank"&gt;trailer for your dog&lt;/a&gt;.&lt;/li&gt;
+&lt;li id="RzCKyR"&gt;We don’t often go out of our way to point out deals on 4K Blu-ray discs, but seeing how we just wrapped a &lt;a href="https://www.theverge.com/entertainment/24054458/physical-media-preservation-discs-cartridges-digital"&gt;special package on physical media&lt;/a&gt; and &lt;em&gt;&lt;strong&gt;Oppenheimer&lt;/strong&gt;&lt;/em&gt;&lt;em&gt; &lt;/em&gt;&lt;a href="https://www.theverge.com/2024/3/10/24094772/oscars-2024-winners-list-oppenheimer-poor-things"&gt;dominated this year’s Academy Awards&lt;/a&gt;, we figured it’s worth pointing out that &lt;a href="https://www.theverge.com/23800129/oppenheimer-movie-review-christopher-nolan"&gt;Christopher Nolan’s award-winning biopic&lt;/a&gt; on the father of the atomic bomb has dropped to an all-time low of $19.99 ($8 off) at &lt;a href="https://www.amazon.com/Oppenheimer-Ultra-Blu-ray-Digital-UHD/dp/B0CL7JD41F?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; and &lt;a href="https://goto.walmart.com/c/482924/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FOppenheimer-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray-Digital-Copy%2F5020183552%2F&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Walmart&lt;/a&gt;. (Shout out to our friends over at &lt;em&gt;Polygon&lt;/em&gt; &lt;a href="https://www.polygon.com/deals/2024/3/11/24097143/oppenheimer-4k-bluray-best-picture-oscars-deal-discount"&gt;for the flag&lt;/a&gt;.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;aside id="HhCtLh"&gt;&lt;div data-anthem-component="newsletter" data-anthem-component-data='{"slug":"deals"}'&gt;&lt;/div&gt;&lt;/aside&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/12/24097671/grid-studio-framed-tech-sony-wh-1000xm5-headphones-oppenheimer-blu-ray-deal-sale"/>
+    <id>https://www.theverge.com/2024/3/12/24097671/grid-studio-framed-tech-sony-wh-1000xm5-headphones-oppenheimer-blu-ray-deal-sale</id>
+    <author>
+      <name>Brandon Widder</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-12T09:00:00-04:00</published>
+    <updated>2024-03-12T09:00:00-04:00</updated>
+    <title>Motorola’s newest budget phones look surprisingly good</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Rendering of Motorola G Power 5G in lilac." src="https://cdn.vox-cdn.com/thumbor/nMwCaHK8_3RKJr56yZrrhl_Du5c=/0x84:2000x1417/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73200596/moto_g_power_5G_2024_PDP.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;Moto G Power: Now with NFC and wireless charging.&lt;/em&gt; | Image: Motorola&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="cYi22H"&gt;Motorola’s recent budget phones have been held back by lackluster designs, pointless extra cameras, and underwhelming feature sets. But there appears to be hope on the horizon: the 2024 Moto G Power 5G and Moto G 5G look pretty good — at least on paper.&lt;/p&gt;
+&lt;p id="ELkK0R"&gt;Both phones finally offer NFC (why that was ever missing in the first place is a mystery), and they come with fetching vegan leather back panels. They even include a microSD card slot and a built-in headphone jack, handy features most phone manufacturers abandoned years ago. The G Power 5G also includes wireless charging for the first time — a rare feature in any budget phone. They’ll start at $199 for the Moto G 5G and $299 for the Moto G Power 5G.&lt;/p&gt;
+&lt;p id="eItErx"&gt;The pricier Moto G Power comes with a 6.7-inch 1080p LCD with a fast 120Hz maximum refresh rate — personally I’d take a contrast-ier OLED panel with a lower refresh rate, but for a $300 phone you take what you can get. It uses a midrange MediaTek Dimensity 7020 chipset with 8GB of RAM, and there are just two rear cameras: a 50-megapixel main with optical stabilization and an 8-megapixel ultrawide with autofocus that doubles as a macro camera. There are no silly, low-res depth sensors or macro cameras here and bless Motorola for that. &lt;/p&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Rendering of Moto G Power showing vegan leather back and flat side." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/_UOWkweLrRcQNYjuAATDjYoFzjc=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25330787/moto_g_power_5G_2024_MB_Backside_Left.jpg"&gt;
+      &lt;cite&gt;Image: Motorola&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;The Moto G Power comes in midnight blue — seen here — and pale lilac.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="eK7J92"&gt;The G Power supports up to 30W wired charging, though you’ll have to buy a charger separately to get those speeds. Wireless charging is supported at up to 15W. There’s a massive 5,000mAh battery on board, though the lower-priced Moto G 5G has one of those, too. Fun fact: the 5G Power’s internal codename appears to be Cancun and the Moto G’s is Fogo, based on the file names of the spec sheets Motorola shared with me. I love some inside baseball.&lt;/p&gt;
+&lt;p id="6w1G8U"&gt;The lower tier Moto G 5G uses a Qualcomm Snapdragon 4 Gen 1 chipset with 4GB of RAM and includes a 6.6-inch 720p LCD, also with a 120Hz refresh rate. There’s a 50-megapixel main camera (and a 2-megapixel macro still hanging around), and wired charging tops out at 18W. Like the G Power, it’s only “water-resistant” and not rated for full dust resistance or water immersion — unfortunate, but normal in the budget class. &lt;/p&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Rendering of Motorola G 5G in sage green showing front and back panels." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/fSO38QsYseECODeIlJwEBXxox6g=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25330793/moto_g_5G_2024_PDP.jpg"&gt;
+      &lt;cite&gt;Image: Motorola&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;The Moto G 5G comes in just one color: sage green.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="jUqS4Y"&gt;There are promising changes afoot here, but as always, a lot depends on the execution. &lt;a href="https://www.theverge.com/23800535/motorola-g-stylus-5g-2023-review-battery-camera-bloatware-swish-apps"&gt;The last midrange Motorola phone I reviewed&lt;/a&gt; was so chock-full of bloatware that I’d hesitate to recommend it to anyone. We won’t have to wait long to find out: the 2024 Moto G Power will be available starting March 22nd at Cricket Wireless and coming to other carriers soon afterward, with an unlocked version arriving on March 29th. The 2024 Moto G 5G will arrive first at T-Mobile starting March 21st, with other carriers to follow. The unlocked version will be a bit of a wait: it arrives on May 2nd.&lt;/p&gt;
+&lt;p id="6jw1Ts"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/12/24097606/motorola-moto-g-5g-power-price-screen-battery"/>
+    <id>https://www.theverge.com/2024/3/12/24097606/motorola-moto-g-5g-power-price-screen-battery</id>
+    <author>
+      <name>Allison Johnson</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-11T11:46:45-04:00</published>
+    <updated>2024-03-11T11:46:45-04:00</updated>
+    <title>AI-generated recipes won’t get you to Flavortown</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="An image showing a graphic of a brain on a black background" src="https://cdn.vox-cdn.com/thumbor/Kv1fGMd2Fea79IrK4uoNG2GJnYE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73198098/acastro_181017_1777_brain_ai_0001.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration by Alex Castro / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="oKeSsu"&gt;Last year, as an experiment, &lt;a href="https://www.theverge.com/24011112/google-bard-gemini-chatgpt-openai-compared"&gt;I baked cakes from recipes&lt;/a&gt; generated by ChatGPT and Bard. &lt;a href="https://www.theverge.com/2023/12/22/24011413/chatgpt-actually-gives-a-pretty-decent-chocolate-cake-recipe-and-im-mad-about-it"&gt;It went better than I expected&lt;/a&gt; — because much of each recipe didn’t seem created by AI at all. &lt;/p&gt;
+&lt;p id="YNPUrY"&gt;The recipes I got were eerily familiar to recipes I’ve seen on food blogs or Instagram. They’d been slightly changed, and only Bard (now called Gemini) bothered offering attribution, linking to a recipe from Sally’s Baking Addiction. In some ways, this isn’t a new problem; I’ve seen far too many copied &lt;em&gt;non&lt;/em&gt;-AI recipes floating around the internet. AI, though, makes the ethics of recipe copying more fraught. Its sheer scale threatens to create a world where human recipe developers are crowded out by semi-randomized AI-generated competition, but while there have been hints of this world arriving, we’re not in it yet.&lt;/p&gt;
+&lt;p id="SKDh54"&gt;Even without AI’s involvement, recipe similarities are a very touchy subject in the food world. Some influencers find themselves in a firestorm if another food blogger or cookbook author claims they stole their recipes. &lt;a href="https://www.nytimes.com/2021/11/29/dining/recipe-theft-cookbook-plagiarism.html"&gt;&lt;em&gt;The New York Times &lt;/em&gt;reported several&lt;/a&gt; instances of alleged recipe copying, including the 2021 case when author Sharon Wee accused British chef Elizabeth Haigh of copying passages and recipes from her cookbook. Then, there’s the online hate against &lt;a href="https://www.nytimes.com/2023/10/30/dining/half-baked-harvest-tieghan-gerard.html"&gt;popular food blogger Half Baked Harvest&lt;/a&gt;, who’s been accused several times of copying from two other popular food bloggers.&lt;/p&gt;
+&lt;p id="ZCsXRY"&gt;But food creators have very little legal recourse if they feel someone took their work. A simple list of ingredients and instructions is treated as an idea that cannot be protected by a copyright. Many recipes have an element of oral tradition; many are passed down through family members. While some include lengthy personal preambles that &lt;em&gt;are&lt;/em&gt; copyrightable, the biggest pushback for “stealing” recipes is often the daily snark threads on Foodsnark Reddit, and the recipe world is largely governed by etiquette — not law.&lt;/p&gt;
+&lt;p id="PcXXeK"&gt;And like musical chords, there are a limited number of ingredients you can put together for a passable recipe. Take a pie crust. How many permutations of sugar, butter, and flour can one write out before someone claims they just repeated the same recipe?&lt;/p&gt;
+&lt;p id="JBLSfs"&gt;Large language models, like those that power ChatGPT and Gemini, can take those permutations, parse through them faster than a human could, and come up with a pretty solid recipe very quickly. As a result, finding recipes that meet a particular diet is often touted as a good potential use of chatbots. On the other hand, to make an obvious point, AI tools can’t actually prepare or eat food. They don’t really “know” if a recipe will work, just that it fits the pattern of one that does.&lt;/p&gt;
+&lt;p id="RhztJA"&gt;Cookbook author and recipe developer Abi Balingit, who runs the blog The Dusky Kitchen, said she doesn’t think about AI when she creates recipes. But she worries that it may impact where food writers and developers can feature their work. &lt;/p&gt;
+&lt;p id="KQ3qpz"&gt;“There are gradients of what is fine and not, AI isn’t making recipe development worse because there’s no guarantee that what it puts out works well,” Balingit said. “But the nature of media is transient and unstable, so I’m worried that there might be a point where publications might turn to an AI rather than recipe developers or cooks.”&lt;/p&gt;
+&lt;p id="lwrEZ4"&gt;Generative AI still occasionally hallucinates and makes up things that are physically impossible to do, as many companies found out the hard way. Grocery delivery platform Instacart partnered with OpenAI, which runs ChatGPT, for recipe images. The results ranged from hot dogs with the interior of a tomato to a salmon Caesar salad that somehow created a lemon-lettuce hybrid. Proportions were off — as &lt;a href="https://www.washingtonpost.com/food/2024/03/07/ai-recipes-generative-instacart-food-photos/"&gt;&lt;em&gt;The Washington Post&lt;/em&gt; pointed out&lt;/a&gt;, the steak size in Instacart’s recipe easily feeds more people than planned. &lt;a href="https://www.nytimes.com/2023/05/23/business/media/buzzfeed-botatouille-chatbot-food.html"&gt;&lt;em&gt;BuzzFeed&lt;/em&gt; also came out&lt;/a&gt; with an AI tool that recommended recipes from its Tasty brand. &lt;/p&gt;
+&lt;p id="iXRP5s"&gt;Balingit added that people have a certain level of trust when they read someone’s recipe or watch them make a dish. There’s the expertise of having made the food and actually tasted it. &lt;/p&gt;
+&lt;p id="NPObXp"&gt;That explained why I instantly felt the need to double-check the recipes from chatbots. AI models can still hallucinate and wildly misjudge how the volumes of ingredients impact taste. Google’s chatbot, for example, inexplicably doubled the eggs, which made the cake moist but also dense and gummy in a way that I didn’t like.  &lt;/p&gt;
+&lt;p id="LUW5fv"&gt;Balingit maintains that one advantage recipe creators have is the human connection. Her cookbook &lt;em&gt;Mayumu&lt;/em&gt; is filled with dishes that take an imaginative trip through her parents’ migration to the US from the Philippines, her childhood in California, and her current life in New York. She said AI doesn’t have cultural or nostalgic connections to food and eating, a historically personal thing people share with others. &lt;/p&gt;
+&lt;p id="K0YpPA"&gt;I felt the same. Though I never truly cared who first devised the idea to poach chicken in a ginger broth, it’s still my favorite Filipino dish, tinola. When I first started learning how to cook it (thanks largely to my dad kicking me out of the kitchen for being a nuisance), I scoured the internet for “authentic” recipes. I chose to follow the work of people whose personal connection to the dish was strong, and it made me want to make the food they wrote passionately about. &lt;/p&gt;
+&lt;p id="9p21JY"&gt;ChatGPT and Bard can generate functional recipes. I know that because I followed them. But I knew, as the person who baked those cakes, that it was dispassionate and generic. My editor, Adi Robertson, compared one to a boxed cake mix, and another reminded me of sad cafeteria cakes. Sure, it hits the spot. Yes, it’s chocolate cake. But cakes can be so much more. &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/24094774/ai-recipes-chatgpt-gemini-copyright"/>
+    <id>https://www.theverge.com/24094774/ai-recipes-chatgpt-gemini-copyright</id>
+    <author>
+      <name>Emilia David</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-11T09:49:33-04:00</published>
+    <updated>2024-03-11T09:49:33-04:00</updated>
+    <title>Reddit goes public: the latest updates on its IPO</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Pink text reading “reddit” with also pink portions of the Reddit alien’s head occupying the bottom right and top left corners of the image, the top one upside down, all on a black background." src="https://cdn.vox-cdn.com/thumbor/uFtm2Pim7brosJY0r3Fo3rvvUsI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73197726/STK115_Reddit_02.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p&gt;The self-styled ‘front page of the internet’ has unplugged third-party apps, spurned defiant mods, and struck AI partnerships in a bid to go public.&lt;/p&gt; &lt;p id="Y1ZmOj"&gt;Reddit is &lt;a href="https://www.theverge.com/2024/2/22/24079978/reddit-ipo-public-offering-shares-power-users"&gt;going public&lt;/a&gt;, seeking a $6.5 billion valuation after a year of upheaval that gave it more control over what &lt;a href="https://www.nytimes.com/2023/04/18/technology/reddit-ai-openai-google.html"&gt;CEO Steve Huffman has called&lt;/a&gt; a “vast corpus” of valuable data that can be used to train AI. As an example, Google recently &lt;a href="https://www.theverge.com/2024/2/22/24080165/google-reddit-ai-training-data"&gt;cut a deal with Reddit&lt;/a&gt; worth a reported $60 million per year for real-time access to that data.&lt;/p&gt;
+&lt;p id="HsLTrg"&gt;In &lt;a href="https://www.theverge.com/2021/12/15/22838901/reddit-going-public-sec-s-1-filing-confidential"&gt;2021, Reddit’s first IPO attempt&lt;/a&gt; fizzled, but now it’s ready to try again by riding the wave of generative AI hype. After Reddit changed the terms of agreements for access to its API last year, third-party developers declared the new terms untenable and shut down many apps, sparking &lt;a href="https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements"&gt;massive protests&lt;/a&gt; and sweeping changes across some of the site’s largest communities.&lt;/p&gt;
+&lt;p id="ozAQRk"&gt;Reddit has also taken an unusual step by setting aside close to 2 million shares for its moderators and users as part of the deal, even if &lt;a href="https://www.theverge.com/2024/2/24/24081441/reddit-shares-redditor-ipo-user-risk"&gt;not everyone has high expectations&lt;/a&gt; about the company’s potential.&lt;/p&gt;
+&lt;p id="aDTcQa"&gt;&lt;em&gt;&lt;strong&gt;Correction March 11th, 12:20PM ET: &lt;/strong&gt;&lt;/em&gt;&lt;em&gt;A previous version of this story said Reddit’s deal with Google is worth $60 billion and misstated the number of shares that will be available for traders. The reported number is $60 million, and Reddit plans to sell 15 million shares to raise up to $519 million. We regret the errors.&lt;/em&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/24097069/reddit-ipo-public-investment-ai-training-data-google"/>
+    <id>https://www.theverge.com/24097069/reddit-ipo-public-investment-ai-training-data-google</id>
+    <author>
+      <name>Wes Davis</name>
+      <name>Mia Sato</name>
+      <name>Emma Roth</name>
+      <name>Elizabeth Lopatto</name>
+      <name>Alex Heath</name>
+      <name>Richard Lawler</name>
+      <name>Jacob Kastrenakes</name>
+      <name>Barbara Krasnoff</name>
+      <name>Jay Peters</name>
+      <name>Umar Shakir</name>
+    </author>
+  </entry>
+</feed>

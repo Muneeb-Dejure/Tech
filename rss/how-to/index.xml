@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>The Verge -  How tos</title>
+  <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
+  <updated>2024-03-15T11:27:02-04:00</updated>
+  <id>https://www.theverge.com/rss/how-to/index.xml</id>
+  <link type="text/html" href="https://www.theverge.com/how-to" rel="alternate"/>
+  <entry>
+    <published>2024-03-15T11:27:02-04:00</published>
+    <updated>2024-03-15T11:27:02-04:00</updated>
+    <title>How to make an Apple Vision Pro Persona</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Vector collage showing different aspects of making a Persona on the Vision Pro." src="https://cdn.vox-cdn.com/thumbor/PuDAt2mir0wigmgijdrowZoqDXg=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73209576/HT047_VISION_PRO_PERSONA.0.jpg" /&gt;
+        &lt;figcaption&gt;Samar Haddad for The Verge | Photo by Apple&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="fpjYR7"&gt;Now that you’ve got your &lt;a href="https://www.theverge.com/24054862/apple-vision-pro-review-vr-ar-headset-features-price"&gt;$3,500 Apple Vision Pro&lt;/a&gt;, gone through the tutorial, and gotten the hang of things, it’s time to do the next best thing: make a Persona.&lt;/p&gt;
+&lt;p id="GS2EGY"&gt;Personas are Apple’s name for a digital avatar of yourself for video calls. Or, in &lt;a href="https://www.apple.com/legal/privacy/data/en/persona/#:~:text=Persona%20is%20a%20natural%20representation,upper%20body%2C%20and%20facial%20expressions."&gt;Apple’s words&lt;/a&gt;, a “natural representation of you that you can use to connect with others.” Aside from FaceTime, your Persona is also used with the &lt;a href="https://duet-cdn.vox-cdn.com/thumbor/0x0:2700x1800/1440x960/filters:focal(1350x900:1351x901):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25255977/246965_vision_pro_AKrales_0002.jpg"&gt;EyeSight feature&lt;/a&gt; — you know, the ghostly eyes that appear on the Vision Pro’s front display. It’s created using image captures and 3D measurements of your head, face, upper body, and facial expressions.&lt;/p&gt;
+&lt;p id="q5ncJe"&gt;But before you go run off and make a Persona, there’s one thing to keep in mind. Right now, Personas are in beta which means... they look kind of cursed. I’ve heard mine described as a soft focus ‘70s-style portrait and as a memorial photo like the ones used in obituaries. Hair often looks blocky, sort of like a non-playable character in a PlayStation 3 game. You’ll recognize yourself, but it won’t quite get everything right. &lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="QnG8zm"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"Apple Vision Pro review: magic, until it’s not ","url":"https://www.theverge.com/24054862/apple-vision-pro-review-vr-ar-headset-features-price"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="aSMc9M"&gt;Personas have gotten a bit better since launch, thanks to software updates, but mine is still not what I’d call a fully “natural representation” of me. But it’s okay — you don’t &lt;em&gt;have&lt;/em&gt; to make one, especially if you’re worried about privacy, since Apple is essentially taking photos of you to generate the Persona.&lt;strong&gt; &lt;/strong&gt;(You can read Apple’s official Persona privacy policy &lt;a href="https://www.apple.com/legal/privacy/data/en/persona/#:~:text=Persona%20is%20a%20natural%20representation,upper%20body%2C%20and%20facial%20expressions."&gt;here&lt;/a&gt;.)&lt;/p&gt;
+&lt;h2 id="mSEHNC"&gt;How to begin&lt;/h2&gt;
+&lt;p id="miVSvV"&gt;You’ll get prompted to create your Persona while you’re setting up the Vision Pro. But in the event you skipped that to explore other features, here’s how to get started.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="JMNaQT"&gt;Press the digital crown, look at &lt;strong&gt;Settings&lt;/strong&gt;, and pinch.&lt;/li&gt;
+&lt;li id="yOWF2M"&gt;Scroll down and select &lt;strong&gt;Persona.&lt;/strong&gt;
+&lt;/li&gt;
+&lt;li id="PXNRq4"&gt;Select &lt;strong&gt;Get Started.&lt;/strong&gt;
+&lt;/li&gt;
+&lt;li id="AQQv2C"&gt;You’ll be prompted to hold out your hands. Do this, and then wait until you hear the cue to take off your headset. But don’t take it off quite yet, because... &lt;/li&gt;
+&lt;li id="DZ3TZf"&gt;...a video will pop up with some pointers. You may want to watch it, because it’s helpful for getting a sense of what you’re supposed to do — especially since you will now take off the headset to continue making your Persona. &lt;/li&gt;
+&lt;/ul&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Screenshot of the Persona Menu within the Vision Pro" data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/A8Kp3N0427Dob4hcKLQAbcF7tt0=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25335981/IMG_0041.PNG"&gt;
+      &lt;cite&gt;Screenshot: Victoria Song / The Verge&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;After you’ve made your Persona, you can edit it or recapture. I encourage doing it a few times!&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;ul&gt;
+&lt;li id="vcVcjN"&gt;Once you take off the headset, this is a good time to fix your hair and your makeup (if you wear any). You might also want to remove dangly earrings, earbuds, glasses, and hats.&lt;/li&gt;
+&lt;li id="qsSLqt"&gt;Hold the Vision Pro at eye level with the front display facing toward you. Make sure your entire face is within the circle that appears. Make sure that you’re holding the Vision Pro by its frame and not the light seal or straps. Those attach magnetically and can pop off if you’re not careful.&lt;/li&gt;
+&lt;li id="h2iIBS"&gt;Follow the directions to slowly look left, right, up, and down. There are arrows and sounds that give you clear visual and audio cues as to where to look and whether you’re doing it correctly. You may hear instructions to redo portions or adjust your facial position.&lt;/li&gt;
+&lt;li id="oVEQZi"&gt;You’ll also be asked to smile with your mouth open and closed, raise your eyebrows, and close your eyes. &lt;/li&gt;
+&lt;li id="DjycVF"&gt;When capture is done, put the headset back on.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id="gPYhQU"&gt;&lt;div data-anthem-component="gallery:12279322"&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p id="WnKBJl"&gt;You should see a preview of your Persona. Bask in its cursed image. But there are still some things you can do to edit how it appears. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="Phk7Sa"&gt;You can select lighting styles. Natural is, well, natural, while Studio brightens everything up and Contour adds some extra shadowing. &lt;/li&gt;
+&lt;li id="WgySFI"&gt;There are also sliders at the bottom that let you adjust the photo temperature and brightness. If you wear glasses, this is where you can swipe through various styles. &lt;/li&gt;
+&lt;li id="2a6Bcf"&gt;When you’re done, tap &lt;strong&gt;Save&lt;/strong&gt;. If it’s too cursed, you can hit &lt;strong&gt;Recapture&lt;/strong&gt; and go through the process again.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p id="mgRYkE"&gt;It’s okay if you need to try making your Persona a second time. I’ve made three thus far, and here are a couple of tips:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="ljF8sz"&gt;Open your eyes wide and exaggerate your facial expressions more than you normally would during capture. Inside the headset, I tend to have “resting sleepy face” and that makes my Persona look a little stoned. Starting out with wider eyes and bigger facial expressions has, according to my friends, resulted in my Persona looking more like me. &lt;/li&gt;
+&lt;li id="8DTgQO"&gt;Make sure you have good, even lighting. If you have funky light or really strong backlighting, you might end up with odd shadowing. &lt;/li&gt;
+&lt;/ul&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Screenshot of two people talking on FaceTime with Personas in Vision Pro" data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/3smNjVij5eZKfJ8FOYU-EAS29n0=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25336348/IMG_0095.jpeg"&gt;
+      &lt;cite&gt;Screenshot: Wes Davis / The Verge&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;Wes and I regularly FaceTime to make silly faces with our new Personas.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="mGG18C"&gt;At this point, it’s imperative that you call your best friend or loved ones on FaceTime. This way, you can listen to them roast you. Better yet, if you know someone who has a Vision Pro, call them and the two of you can have a jolly time laughing at how your Personas turned out. I did this with our weekend news editor Wes Davis, and we had a great time guffawing over how his mustache would not move. &lt;/p&gt;
+&lt;p id="33rrUZ"&gt;So long as you don’t go in with too high expectations, Persona FaceTimes can be a fun conversation starter with people you know. Have a lot of people laughed at my expense? Sure, but I’d be lying if I said I didn’t have a blast in the process. &lt;/p&gt;
+&lt;p id="gQhg6H"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/24100674/apple-vision-pro-persona-how-to"/>
+    <id>https://www.theverge.com/24100674/apple-vision-pro-persona-how-to</id>
+    <author>
+      <name>Victoria Song</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-12T12:03:41-04:00</published>
+    <updated>2024-03-12T12:03:41-04:00</updated>
+    <title>How to use Low Power Mode on the Apple Watch</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Apple Watch Ultra on top of a colorful illustration of different fitness trackers" src="https://cdn.vox-cdn.com/thumbor/ZYBAaV2ZTB1YvEqYVN5f0kO9YxA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71494044/Smart_watch_master.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;Low Power Mode was introduced in watchOS 9 with the Apple Watch Ultra in mind.&lt;/em&gt; | Illustration by Samar Haddad / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="eB7olN"&gt;The Apple Watch has never been known for having long battery life. Case in point: Apple never budged from the 18-hour battery life estimate until it launched the &lt;a href="https://www.theverge.com/23363948/apple-watch-ultra-review-rugged-smartwatch-gps"&gt;Apple Watch Ultra&lt;/a&gt;. In 2022, the company introduced a new Low Power Mode when it launched the Ultra, and now, it has extended the time between charges for Apple Watches using watchOS 9 and later.&lt;/p&gt;
+&lt;p id="B6HMZL"&gt;Previously, the Apple Watch had a Power Reserve mode, which shut off any functions aside from your ability to tell time and turned your smartwatch into a normal watch until you could get it to a charger. This mode is different — it’s more like the iPhone’s Low Power Mode. When enabled, you’ll still be able to use your Apple Watch, but certain power-hungry features will be turned off or limited to conserve the battery. &lt;/p&gt;
+&lt;h3 id="60o9rK"&gt;What Low Power Mode does&lt;/h3&gt;
+&lt;p id="iyip3N"&gt;On the Apple Watch, Low Power Mode disables the always-on display and limits sensor readings like background heart rate and blood oxygen monitoring. (You should be aware that it also disables irregular heart rhythm notifications as well as high and low heart rate notifications.) &lt;/p&gt;
+&lt;p id="Uj0Mtt"&gt;Low Power Mode also curtails LTE and Wi-Fi connectivity. While you’ll still be able to send messages or make calls from your watch, it’ll only fetch notifications about once an hour. As a result, you might miss timely texts and emergency alerts. &lt;/p&gt;
+&lt;p id="a0xTr1"&gt;However, if you’re in the middle of a workout, don’t worry — heart rate and GPS will be unaffected. Another option that reduces heart rate and GPS sampling is also in the works but is currently unavailable.&lt;/p&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Low Power Mode screen on the Apple Watch Ultra" data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/U5cXZb6UU7reaayAdTuYcAfss-o=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24037425/226274_APPLE_WATCH_ULTRA_PHO_akrales_0595.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;Low Power Mode allows you to still use the Apple Watch while disabling power-hungry features.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="ZEhUmp"&gt;This mode is a great option if you’ve got an aging Apple Watch but aren’t looking to upgrade (since battery life is often why people buy new watches). Your mileage may vary, however. Battery life depends heavily on individual usage, and your watch’s battery health is also a factor. You can only squeeze so much out of Low Power Mode if your battery has significantly degraded over the years.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="w0HBQl"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"watchOS 10 preview: widgets all the way down ","url":"https://www.theverge.com/23786155/watchos-10-preview-apple-watch"},{"title":"How to use the Apple Watch Ultra’s Action button","url":"https://www.theverge.com/23365635/apple-watch-ultra-action-button-how-to"},{"title":"How to use the Apple Watch Ultra’s siren","url":"https://www.theverge.com/23387063/apple-watch-ultra-siren-how-to"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="O8DVT7"&gt;As with the iPhone version, you’ll be automatically prompted to turn on Low Power Mode once your battery power hits 10 percent. But some people, especially those with Ultras, might want to be more intentional about how they use the feature — for example, if they’re participating in an Ironman and need at least 12 hours or so of GPS and activity tracking. On the Ultra and Ultra 2, Apple says Low Power Mode can stretch battery life up to 60 hours. (Though, based on our testing, you may get well beyond that.)&lt;/p&gt;
+&lt;h3 id="zoFKGU"&gt;Enabling Low Power Mode&lt;/h3&gt;
+&lt;p id="q1hBHU"&gt;First things first — again, to use Low Power Mode, you’ll need to have watchOS 9 or later. (Currently, we’re on watchOS 10, but it’ll still work on watchOS 9 if you don’t like how the latest version &lt;a href="https://www.theverge.com/23786155/watchos-10-preview-apple-watch"&gt;updated the Apple Watch interface&lt;/a&gt;.) That also means you’ll need at least a Series 4. If you have an older watch and you think this feature is worthwhile, you may want &lt;a href="https://www.theverge.com/23037217/apple-watch-series-8-ultra-second-gen-se-best-smartwatch-how-to"&gt;to consider upgrading&lt;/a&gt;. &lt;/p&gt;
+&lt;p id="Jkms5J"&gt;In any case, assuming your Apple Watch is equipped with compatible software, you can enable the feature in two ways.&lt;/p&gt;
+&lt;h3 id="XsTqcx"&gt;Using Control Center&lt;/h3&gt;
+&lt;p id="dFkYdD"&gt;The quickest way is through your watch’s &lt;strong&gt;Control Center&lt;/strong&gt;. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="iYcDh2"&gt;If you’re still using watchOS 9, swipe up to access it. In watchOS 10, you’ll need to press the side button. Then, find the battery percentage tile and tap it. &lt;/li&gt;
+&lt;li id="211Ubl"&gt;You should see a readout of how much battery you have left. Tap the &lt;strong&gt;Low Power Mode toggle&lt;/strong&gt; to turn it on. You’ll then see an explainer about which features are turned off in this mode, which will pop up each time you toggle it on.  &lt;/li&gt;
+&lt;li id="XCjoev"&gt;From there, you can tap &lt;strong&gt;Turn On&lt;/strong&gt; or &lt;strong&gt;Turn On For...&lt;/strong&gt; The former enables the mode for an indefinite period. The latter will give you the option to temporarily turn it on for one, two, or three days.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;&lt;div class="c-image-grid"&gt;
+&lt;div class="c-image-grid__item"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="Battery history screen on the Series 8." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/n8EA0PvcgjXgmWiAbFPG-nYrL-M=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24023348/226266_APPLE_WATCH_8_SE_PHO_akrales_0162.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;Enabling the mode via the Battery menu gives you extra context about your charging history.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;div class="c-image-grid__item"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="Low power mode screen on the Apple Watch Series 8" data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/090_MKZ1e7m2CHlhP0FxrYhWvs0=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24023347/226266_APPLE_WATCH_8_SE_PHO_akrales_0153.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;You can also view battery health.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;h3 id="hFfAgt"&gt;Using Settings&lt;/h3&gt;
+&lt;p id="5rmenM"&gt;You can also turn on Low Power Mode by going to &lt;strong&gt;Settings &amp;gt; Battery &amp;gt; Low Power Mode&lt;/strong&gt;. The benefit of doing it this way is that you get extra context about your battery life. Not only can you see how your battery’s been draining since your last charge but you can also see what times you may have previously enabled Low Power Mode. &lt;/p&gt;
+&lt;p id="2cQYMp"&gt;And you can tap &lt;strong&gt;Battery Health&lt;/strong&gt; from this menu to check how much the battery has degraded and enable optimized battery charging settings.&lt;/p&gt;
+&lt;p id="VilTSG"&gt;&lt;em&gt;&lt;strong&gt;Update, March 12th, 2024, 12:03PM ET: &lt;/strong&gt;&lt;/em&gt;&lt;em&gt;This article was originally published on October 14th, 2022, and has been updated to include information about watchOS 10 and how to access the control panel.&lt;/em&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/23403065/apple-watch-low-power-battery-how-to"/>
+    <id>https://www.theverge.com/23403065/apple-watch-low-power-battery-how-to</id>
+    <author>
+      <name>Victoria Song</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-10T09:00:00-04:00</published>
+    <updated>2024-03-10T09:00:00-04:00</updated>
+    <title>How to watch the 2024 Academy Awards </title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="An image showing an Oscar award statue " src="https://cdn.vox-cdn.com/thumbor/6hr-mPftd7D0swwYpcOgmGcbGAA=/0x0:7889x5259/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73195834/2039129912.0.jpg" /&gt;
+        &lt;figcaption&gt;Photo by Beata Zawrzel/NurPhoto via Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="e13e1l"&gt;Some of Hollywood’s biggest stars will gather in the Dolby Theatre tonight for the 96th annual Academy Awards. It’s a sign things are starting to get back to normal following last year’s monthslong writers and actors strikes.&lt;/p&gt;
+&lt;p id="bXqeP1"&gt;In between the award announcements, we’ll also get to see performances from several artists — including Ryan Gosling. If you want to see what this year’s ceremony has to offer, and also find out which film takes away the most Oscars, here’s what you need to know about tuning in.&lt;/p&gt;
+&lt;h2 id="iH9s5L"&gt;When do the Oscars start?&lt;/h2&gt;
+&lt;p id="LezoNC"&gt;The Oscars kick off on Sunday, March 10th, 2024, and will air from 7PM ET / 4PM PT to 10PM ET / 7PM PT.&lt;/p&gt;
+&lt;h2 id="I4Y2TH"&gt;Where can I watch the Oscars?&lt;/h2&gt;
+&lt;p id="awNKPK"&gt;If you have cable or satellite, you can watch the Academy Awards on your local ABC station. You can also tune in to the Oscars from &lt;a href="https://abc.com/watch-live"&gt;ABC’s website&lt;/a&gt; or &lt;a href="https://abc.com/apps"&gt;app&lt;/a&gt; by logging in with your television provider.&lt;/p&gt;
+&lt;p id="v0CQyO"&gt;Without cable, you can catch the Oscars with a subscription to Hulu + Live TV, YouTube TV, Fubo, or DirecTV Stream. If you’re located outside the US, you can check &lt;a href="https://www.oscars.org/how-to-watch/international.html"&gt;this list&lt;/a&gt; for the networks airing the Oscars by country.&lt;/p&gt;
+&lt;h2 id="SdkxC0"&gt;Who is hosting the Oscars?&lt;/h2&gt;
+&lt;p id="6eeXw2"&gt;Jimmy Kimmel will host this year’s Oscars for the second year in a row. This marks his fourth appearance as host, as he led the ceremony in 2017 and 2018 as well.&lt;/p&gt;
+&lt;p id="eMIkJO"&gt;Several celebrities are presenting this year’s awards, too. You can expect to see Nicolas Cage, Michelle Yeoh, Octavia Spencer, Al Pacino, Jennifer Lawrence, Zendaya, Matthew McConaughey, Ke Huy Quan, Dwayne Johnson, and many more take the stage.&lt;/p&gt;
+&lt;h2 id="vxMzkL"&gt;What are this year’s nominations?&lt;/h2&gt;
+&lt;p id="eUo3XX"&gt;This year, there are 10 nominations for Best Picture, including &lt;em&gt;Barbie&lt;/em&gt;, &lt;em&gt;Oppenheimer&lt;/em&gt;, &lt;em&gt;Killers of the Flower Moon&lt;/em&gt;, and &lt;em&gt;Poor Things&lt;/em&gt;. Meanwhile, Bradley Cooper, Paul Giamatti, Cillian Murphy, Lily Gladstone, Carey Mulligan, and Emma Stone are all up for awards in the best actor categories.&lt;/p&gt;
+&lt;p id="ZOzKW1"&gt;You can check out the &lt;a href="https://www.theverge.com/2024/1/23/24047370/oscars-2024-nominations-academy-awards-list"&gt;full list of nominations here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="xeRPia"&gt;What else can I expect?&lt;/h2&gt;
+&lt;p id="QJuAbN"&gt;One of the most exciting parts about the Academy Awards is the performances, and there will be quite a few this year:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="yPwSgC"&gt;Ryan Gosling and DJ Mark Ronson: “I’m Just Ken”&lt;em&gt; &lt;/em&gt;from &lt;em&gt;Barbie&lt;/em&gt;
+&lt;/li&gt;
+&lt;li id="VvHoI1"&gt;Billie Eilish and Finneas O’Connell: “What Was I Made For?” from &lt;em&gt;Barbie&lt;/em&gt;
+&lt;/li&gt;
+&lt;li id="VBGHGq"&gt;Becky G: “The Fire Inside” from &lt;em&gt;Flamin’ Hot&lt;/em&gt;
+&lt;/li&gt;
+&lt;li id="L07DyK"&gt;Scott George and the Osage Singers: “Wahzhazhe (A Song For My People)” from &lt;em&gt;Killers of the Flower Moon&lt;/em&gt;
+&lt;/li&gt;
+&lt;li id="8TRFtO"&gt;Jon Batiste: “It Never Went Away” from &lt;em&gt;American Symphony&lt;/em&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p id="NZbMeZ"&gt;The Oscars will also have the five past winners for Best Actor and Best Actress present the nominees for both categories, similar to the format it last &lt;a href="https://www.youtube.com/watch?v=PxzQSWx9IGs"&gt;did in 2009&lt;/a&gt;, according to &lt;a href="https://www.hollywoodreporter.com/movies/movie-news/2024-oscars-past-winners-introduce-acting-nominees-1235837121/"&gt;&lt;em&gt;The Hollywood Reporter&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/10/24092561/oscars-2024-academy-awards-watch-live"/>
+    <id>https://www.theverge.com/2024/3/10/24092561/oscars-2024-academy-awards-watch-live</id>
+    <author>
+      <name>Emma Roth</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-08T16:07:13-05:00</published>
+    <updated>2024-03-08T16:07:13-05:00</updated>
+    <title>How to find (and delete) your TikTok history</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Hand holding a mobile phone with a TikTok symbol on it and a background of illustrations." src="https://cdn.vox-cdn.com/thumbor/JyGIO_n44mhJx5WJKPXu-ieU7rY=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71203524/1.0.png" /&gt;
+        &lt;figcaption&gt;Illustration by Samar Haddad / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="iadtM5"&gt;One of the more frustrating aspects of TikTok used to be the difficulty in finding a video that you really liked and wanted to see again but had accidentally swiped past or watched a day or two ago. Previously, there was &lt;a href="https://www.theverge.com/22584172/tiktok-video-watch-history-how-to-download"&gt;a long, complex series of steps&lt;/a&gt; you had to follow to find out your watch history on TikTok — making it hardly worth the effort. Now, however, you can easily find your watch history — and, if you want, erase it. All you have to do is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="NVDenz"&gt;Tap your &lt;strong&gt;Profile&lt;/strong&gt; icon in the bottom-right corner of the screen.&lt;/li&gt;
+&lt;li id="GYMAOM"&gt;Select the three-line icon in the top-right corner.&lt;/li&gt;
+&lt;li id="XqKmgx"&gt;Tap on &lt;strong&gt;Settings and privacy &amp;gt; Activity center&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p id="NoCvUP"&gt;You should now see a gallery with all of the videos you’ve watched over the last 180 days. Tap on any that you’d like to rewatch.&lt;/p&gt;
+&lt;div&gt;&lt;div class="c-image-grid"&gt;
+&lt;div class="c-image-grid__item"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="Mobile screen with Watch History on top and several rows of TikTok videos below." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/r-yeb_jA9Wi7703vIxSw6dfojbE=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25325682/Screenshot_20240308_145241.png"&gt;
+      &lt;figcaption&gt;&lt;em&gt;You can see the TikTok videos you’ve watched over the past 180 days — which can be a lot!&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;div class="c-image-grid__item"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="Page with Watch history on top, and several rows of TikTok videos with red circles with checks in them in the corners, and a large Delete button at the bottom right." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/g_u3m8DMun4k0XfM4mWo0rZlD_w=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25325683/Screenshot_20240308_145301.png"&gt;
+      &lt;figcaption&gt;&lt;em&gt;You can check one or more of the videos you want to delete.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;p id="vmzvIu"&gt;If you want to erase any — or all — of the videos in your history, it’s simple to arrange. (You can, if you want, first save your watch history before you delete it from TikTok’s site by going back to &lt;strong&gt;Settings and Privacy&lt;/strong&gt;, and then to &lt;strong&gt;Account &amp;gt; Download your data&lt;/strong&gt;.) To delete one or more of the videos you’ve watched:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="Xs9SKc"&gt;On the &lt;strong&gt;Watch history&lt;/strong&gt; page, tap &lt;strong&gt;Select&lt;/strong&gt; in the upper-right corner. Empty circles will appear in the upper-right corner of each video.&lt;/li&gt;
+&lt;li id="xYYd86"&gt;Tap the circle of each video you want to delete, and then hit the red &lt;strong&gt;Delete&lt;/strong&gt; button in the lower-right corner.&lt;/li&gt;
+&lt;li id="HmqA5d"&gt;If you want to clear out all your videos, use the &lt;strong&gt;Select all watch history&lt;/strong&gt; button at the bottom left — which will check circles — and then tap the &lt;strong&gt;Delete&lt;/strong&gt; button.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p id="4sXnNV"&gt;Be aware that, even if you’ve deleted all your videos, they’re not completely gone: TikTok’s explanation of watch history says that “we’ll continue to keep your watch history data for some time to optimize your experience.” In other words, TikTok will still be using your history to feed its algorithms.&lt;/p&gt;
+&lt;p id="p3CoJx"&gt;&lt;em&gt;&lt;strong&gt;Update March 8th, 2024, 4:07PM ET: &lt;/strong&gt;&lt;/em&gt;&lt;em&gt;This article was originally published on August 3rd, 2022, and has been updated to account for changes in the app.&lt;/em&gt;&lt;/p&gt;
+&lt;p id="OBgsgj"&gt;&lt;/p&gt;
+&lt;p id="NmC9cB"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/23289267/tiktok-history-find-delete-how-to"/>
+    <id>https://www.theverge.com/23289267/tiktok-history-find-delete-how-to</id>
+    <author>
+      <name>Barbara Krasnoff</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-08T14:11:31-05:00</published>
+    <updated>2024-03-08T14:11:31-05:00</updated>
+    <title>How to use Alexa’s Drop In feature</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Echo show showing person on screen against an illustrated background." src="https://cdn.vox-cdn.com/thumbor/7SXkc06Y7G_WzyIihQuBA0w7lh0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73192449/HT006_alexa_0005.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration by Samar Haddad / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="nWXiv8"&gt;Amazon’s Drop In feature has become a useful tool for contacting people in your household, finding out what your kids are up to (especially when they’re being &lt;em&gt;too&lt;/em&gt; quiet), and checking in on elderly relatives. It allows you to literally “drop in” using an Alexa-capable device, either just via audio or with audio and video. But since you don’t want anyone dropping in on you unwanted, it’s a good idea to understand how to set it up and how to use it.&lt;/p&gt;
+&lt;h2 id="GLcFAh"&gt;Set up your device for Drop In&lt;/h2&gt;
+&lt;p id="r9wl2Y"&gt;In order to allow somebody to drop in on an Echo or Fire device (or any Alexa-capable device that allows you to make calls), first you have to enable the Drop In feature on that specific unit.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="InBmZh"&gt;Open the Alexa app on your phone and select the &lt;strong&gt;Device&lt;/strong&gt; icon on the bottom of the screen.&lt;/li&gt;
+&lt;li id="shTJMX"&gt;You’ll see a list of your devices. Select the one for which you want to enable or disable Drop In.&lt;/li&gt;
+&lt;li id="Eb5zaQ"&gt;Tap the &lt;strong&gt;gear icon&lt;/strong&gt; at the top right of the pop-up window, then scroll down to and select &lt;strong&gt;Communications&lt;/strong&gt;.&lt;/li&gt;
+&lt;li id="5ooUKj"&gt;Tap on &lt;strong&gt;Drop In&lt;/strong&gt;. Now you can turn it on for permitted contacts (which means whoever is in your contact list and who has permission to use Drop In), people in your household only, or nobody.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id="z0XiHI"&gt;&lt;div data-anthem-component="gallery:12273275"&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id="iFmdME"&gt;Give someone permission to Drop In&lt;/h2&gt;
+&lt;p id="XEeu9Q"&gt;If you want somebody outside your household to have the ability to drop in to your device, then you have to mark that contact as a permitted contact.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="TFMqSg"&gt;In the Alexa app, go to &lt;strong&gt;More &amp;gt; Communicate&lt;/strong&gt; and tap on the icon resembling two people at the top right.&lt;/li&gt;
+&lt;li id="HyPtrV"&gt;You’re now on your Contacts screen. If you want to allow an existing contact to drop in, just tap on the person’s name. You can also create a new contact by either selecting the &lt;strong&gt;Add New&lt;/strong&gt; button and then &lt;strong&gt;Add Contact&lt;/strong&gt;, or by tapping the &lt;strong&gt;three dots&lt;/strong&gt; in the upper right corner and then &lt;strong&gt;Add Contact&lt;/strong&gt;. (You can also, if you wish, import all your contacts associated with your device — just tap on &lt;strong&gt;Import&lt;/strong&gt; at the bottom of the screen.)&lt;/li&gt;
+&lt;li id="6tseh8"&gt;Whichever you choose — a new contact or an existing one — scroll down in the individual’s contact page. Under &lt;strong&gt;Permissions&lt;/strong&gt;, you’ll see &lt;strong&gt;Allow Drop In&lt;/strong&gt;, which you can toggle on or off.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="ZMroVs"&gt;Using Drop In&lt;/h2&gt;
+&lt;p id="ZxdbcJ"&gt;Now that you’re all set up, it’s easy. Just use the command “Alexa, drop in...” with the name of the device you want to call. &lt;/p&gt;
+&lt;p id="iv4wNf"&gt;To see what’s going on in another room that has an Echo Show named “Kid’s Den,” for example, just say something like “Alexa, drop in on Kid’s Den.” The device in that room will chime and its light, if any, will turn green. You’ll then be able to see and hear what’s going on in the other room through your own device — and if they’ve got a device with a camera, they’ll be able to see and hear what’s going on in yours. (Of course, if either party is using an audio-only device, that will limit the communication to, well, audio.)&lt;/p&gt;
+&lt;p id="QX4yGS"&gt;To stop the connection, say, “Alexa, hang up.”&lt;/p&gt;
+&lt;p id="Ovsk7b"&gt;&lt;em&gt;&lt;strong&gt;Update March 8th, 2024, 3:06PM ET: &lt;/strong&gt;&lt;/em&gt;&lt;em&gt;This article has been updated to clarify that Drop In is only available on Echos, Fires, or other Alexa-equipped devices that are capable of making calls.&lt;/em&gt;&lt;/p&gt;
+&lt;p id="ZoUy6K"&gt;&lt;/p&gt;
+&lt;p id="IsFKpA"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/24093353/how-to-use-alexas-drop-in-feature"/>
+    <id>https://www.theverge.com/24093353/how-to-use-alexas-drop-in-feature</id>
+    <author>
+      <name>Dan Rosenbaum</name>
+      <name>Barbara Krasnoff</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-07T19:33:53-05:00</published>
+    <updated>2024-03-07T19:33:53-05:00</updated>
+    <title>How to watch President Joe Biden’s State of the Union address</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Photo illustration of President Joe Biden." src="https://cdn.vox-cdn.com/thumbor/f4MqIabPrlIdp_Pj7cKb7FjrqXw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73188851/STK174_PRES_BIDEN_A.0.jpg" /&gt;
+        &lt;figcaption&gt;Cath Virginia / The Verge | Photos from Getty Images, Nathan Howard / Stringer&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="tRPHNT"&gt;President Joe Biden is set to deliver his third State of the Union address on Thursday as he hurdles toward a likely rematch with former President Donald Trump in November.&lt;/p&gt;
+&lt;p id="Z3BXbS"&gt;Biden will deliver the speech at the US Capitol at 9PM ET.&lt;/p&gt;
+&lt;p id="ETbTLO"&gt;This year’s address comes just a couple of days after Super Tuesday, where Biden and Trump each dominated primary ballots across multiple states. That brings them one step closer to entering the official general election campaigning stage.&lt;/p&gt;
+&lt;div id="2gKhee"&gt;&lt;div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"&gt;&lt;iframe src="https://www.youtube.com/embed/nFVUPAEF-sw?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen="" scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p id="KF8vuN"&gt;We’ll be watching for what Biden has to say that could shape the tech policy issues at the forefront of both the presidential campaign and the next few legislative months. The White House has made the safe deployment of artificial intelligence a priority in the past year with &lt;a href="https://www.theverge.com/2023/10/30/23914507/biden-ai-executive-order-regulation-standards"&gt;Biden’s executive order&lt;/a&gt;, for example, and his administration has been working &lt;a href="https://www.theverge.com/2022/8/9/23298147/biden-chips-act-semiconductors-subsidies-ohio-arizona-plant-china"&gt;to carry out the CHIPS and Science Act&lt;/a&gt; to build a domestic semiconductor industry — so we could see nods to those efforts. &lt;/p&gt;
+&lt;p id="NbZ6pu"&gt;&lt;a href="https://www.theverge.com/2023/2/7/23590396/state-of-the-union-sotu-biden-tech-tiktok-privacy-antitrust"&gt;Biden has used his address in the past&lt;/a&gt; to call for antitrust enforcement against large online platforms and strengthened protections for children’s data on the internet. Those issues still loom large as Congress considers &lt;a href="https://www.theverge.com/2024/3/6/24092205/can-antitrust-cases-against-google-and-apple-be-won-on-a-budget"&gt;cutting the DOJ antitrust division’s budget&lt;/a&gt; as it takes on Google and possibly Apple and &lt;a href="https://www.theverge.com/2024/2/15/24073878/kids-online-safety-act-new-senate-support"&gt;online safety legislation for children gains momentum&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id="UwIXun"&gt;What time does the State of the Union address start?&lt;/h3&gt;
+&lt;p id="3u8DpS"&gt;The State of the Union will start Thursday, March 7th, at 9PM ET.&lt;/p&gt;
+&lt;h3 id="MMYppJ"&gt;How do I watch tonight’s State of the Union address?&lt;/h3&gt;
+&lt;p id="17V7Y4"&gt;In addition to major networks and political cable channels that will air the address, you can stream it directly on &lt;a href="http://WH.gov/SOTU"&gt;WH.gov/SOTU&lt;/a&gt; and on the White House or president’s social media platforms, including &lt;a href="https://www.youtube.com/watch?v=nFVUPAEF-sw"&gt;YouTube&lt;/a&gt;, &lt;a href="https://twitter.com/whitehouse"&gt;X&lt;/a&gt;, &lt;a href="https://www.facebook.com/WhiteHouse/"&gt;Facebook&lt;/a&gt;, and — for the first time — &lt;a href="https://www.instagram.com/potus/"&gt;Instagram&lt;/a&gt;, as the administration aims to seek a younger audience. &lt;/p&gt;
+&lt;h3 id="nWoonn"&gt;Who is delivering the Republican response?&lt;/h3&gt;
+&lt;p id="cywauj"&gt;&lt;a href="https://www.republicanleader.senate.gov/newsroom/press-releases/senator-katie-britt-of-alabama-will-deliver-republican-address-to-the-nation?peek=F6i7DE5Lycy%2B%2FzhG0tALTMXjlLvsigJR%2FsrfSJTTrnoA1sLG"&gt;Sen. Katie Britt (R-AL)&lt;/a&gt; will deliver the Republican response following Biden’s speech.&lt;/p&gt;
+&lt;p id="sJYiU7"&gt;&lt;em&gt;&lt;strong&gt;Update March 7th, 7:35PM ET:&lt;/strong&gt;&lt;/em&gt;&lt;em&gt; Added SOTU &lt;/em&gt;&lt;a href="https://www.youtube.com/watch?v=nFVUPAEF-sw"&gt;&lt;em&gt;YouTube stream&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/3/7/24092301/state-of-the-union-biden-how-to-watch-time-date"/>
+    <id>https://www.theverge.com/2024/3/7/24092301/state-of-the-union-biden-how-to-watch-time-date</id>
+    <author>
+      <name>Lauren Feiner</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-07T09:19:23-05:00</published>
+    <updated>2024-03-07T09:19:23-05:00</updated>
+    <title>How to collaborate on playlists in Apple Music</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="A MacBook with Apple Music open on a background dotted with other Apple icons." src="https://cdn.vox-cdn.com/thumbor/0arU3UfI8vkOHD62PUxJvbR1RM0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73188756/HT016_macOS_0002.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration by Samar Haddad / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="Si3Qh0"&gt;I used to enjoy sharing my favorite new music with friends and family via a carefully compiled piece of physical media. Sadly for those of us above a certain age, the switch to digital and streaming music has made the mixtape (or the mix CD) redundant. However, while streaming music apps may have killed off the mixtape, they’ve brought with them collaborative playlists: being able to easily compile a list of tunes with other people, even if those people aren’t in the same physical place you are.&lt;/p&gt;
+&lt;p id="yslIZg"&gt;This is a feature that’s &lt;a href="https://www.theverge.com/2017/6/21/15844838/spotify-shared-playlists-facebook-messenger"&gt;been in Spotify for years&lt;/a&gt;, but it’s now arrived in Apple Music with iOS 17.3 and macOS 14.3. (So make sure the software on your devices is up to date before you get started).&lt;/p&gt;
+&lt;h2 id="sqie2y"&gt;Collaborative playlists on iOS&lt;/h2&gt;
+&lt;div&gt;&lt;div class="c-image-grid"&gt;
+&lt;div class="c-image-grid__item"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="Mobile screen with photo of crowd on top, then pop-up saying Invite People to Join, then the name David Nield, and the Approve Collaborators with a toggle." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/xhVZd6JzzTdsBREImmJQMpYXIAo=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25321566/01_collab.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;If you want to approve your collaborators, toggle that feature on. Otherwise, anyone with your link can join the playlist.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;div class="c-image-grid__item"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="Mobile screen with photo of crowd on top, under that My collaborative playlist David Nield &amp;amp;amp; 1 other, and then a list of songs with a Play and Shuffle button." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/fy_8iDHBNCRUjYzmS5c9W-20hZo=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25321567/02_collab.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;The icon of the contributor is next to each tune.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;p id="wzNimf"&gt;To start a new collaborative playlist in Apple Music for iOS:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="1zbYub"&gt;Open up the &lt;strong&gt;Library&lt;/strong&gt; tab, then tap &lt;strong&gt;Playlists &amp;gt; New Playlist&lt;/strong&gt;.&lt;/li&gt;
+&lt;li id="Mh3If1"&gt;Give your playlist a name.&lt;/li&gt;
+&lt;li id="Kf8AGk"&gt;Tap the camera icon to give your playlist a picture, if you want — you can take a new image with your iPhone camera, or choose an image from your photo library.&lt;/li&gt;
+&lt;li id="cGpCtt"&gt;Tap &lt;strong&gt;Create&lt;/strong&gt; to confirm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p id="FRPhRw"&gt;The empty playlist opens up, and if this is the first time you’ve used Apple Music with the collaborative playlists capability, you’ll see a pop-up advertising the feature. Existing playlists can be turned into collaborative ones as well — just open up the playlist and follow these same directions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="7GIDn6"&gt;Tap the icon in the top right corner that looks like a portrait of a person.&lt;/li&gt;
+&lt;li id="gHtKEm"&gt;The next dialog lets you choose the name and photo used for you in the playlist.&lt;/li&gt;
+&lt;li id="BXKtR3"&gt;You can also turn the &lt;strong&gt;Approve Collaborators&lt;/strong&gt; option on. If you don’t want anyone and everyone getting involved, activating this means your collaborators can’t spread the link around without your say-so.&lt;/li&gt;
+&lt;li id="0W5Brn"&gt;Tap &lt;strong&gt;Start Collaborating&lt;/strong&gt;, and you can begin inviting people to join.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p id="yxMqog"&gt;There are various options for inviting people to a playlist: you can AirDrop a link, for instance, or send it via iMessage. Following the link leads other people to your playlist, and any collaborator can pass the link on elsewhere. Note that the link is only valid for six days. After that, you need to generate another link.&lt;/p&gt;
+&lt;div&gt;&lt;div class="c-image-grid"&gt;
+&lt;div class="c-image-grid__item"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="Mobile screen titled My collaborative playlist with buttons to share link or gift card, and a list of names." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/kd3djTm8tlhssopTXPIHnnkjoBk=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25321676/03_collab.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;You can manage collaboration options for each playlist. &lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;div class="c-image-grid__item"&gt;  &lt;figure class="e-image"&gt;
+        &lt;img alt="Mobile screen with urban night scene on top, and a pop-up with several emojis." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/cmOwkQKHp7NFPrh0Iz-0ISABLLs=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25321677/04_collab.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;Collaborative playlists can have emoji reactions, too. &lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;p id="OGUuGA"&gt;At this point, anyone you’ve invited (and, if you’ve enabled Approve Collaborators,  approved) can start adding songs to the playlist. You can see next to each track the person who added it via their Apple ID avatar. If a tune  is added that you don’t like, tap the three dots next to it and choose &lt;strong&gt;Remove from Playlist&lt;/strong&gt;. (This can only be done by the playlist creator.)&lt;/p&gt;
+&lt;p id="NxYb7R"&gt;To make changes to how the playlist is shared, you either tap the collaboration icon or the three dots (both are top right) and select &lt;strong&gt;Manage Collaboration&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="xskffd"&gt;Tap &lt;strong&gt;Share Invite Link&lt;/strong&gt; or &lt;strong&gt;QR Code&lt;/strong&gt; to share the playlist with more people.&lt;/li&gt;
+&lt;li id="5W0DO4"&gt;Select &lt;strong&gt;Stop&lt;/strong&gt; to turn off collaboration for this playlist.&lt;/li&gt;
+&lt;li id="NgKYk4"&gt;If you’re currently using someone else’s playlist, there’s also a &lt;strong&gt;Leave&lt;/strong&gt; option. &lt;/li&gt;
+&lt;li id="xirJXS"&gt;The &lt;strong&gt;Approve Collaborators&lt;/strong&gt; toggle switch reappears here as well.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p id="DErBsS"&gt;One cool extra you get with collaborative playlists is emoji reactions: you’ll see the emoji button under the album art for a track on the full-screen now playing view. Tap the button and choose an emoji to react, which other people will be able to see.&lt;/p&gt;
+&lt;p id="tCuRKC"&gt;&lt;/p&gt;
+&lt;p id="y4vQr7"&gt;&lt;strong&gt;Collaborative playlists on Apple Music for macOS&lt;/strong&gt;&lt;/p&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Screenshot of photo on left with My Collaborative playlist in the center, and a line of emojis on top." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/Gy2pPeL_VKfE7X8J1rIwgdSpHgI=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25321782/05_collab.jpg"&gt;
+      &lt;figcaption&gt;&lt;em&gt;The emoji reactions are also easy to access in Apple Music for macOS. &lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="T0Vf2O"&gt;Creating collaborative playlists on a Mac isn’t much different, aside from the desktop interface. Opening up individual playlists will reveal the new collaboration icon — the same small portrait figure silhouette that you get on iOS — and you can click on this to invite people to work on playlists, and to access the &lt;strong&gt;Approve Collaborators&lt;/strong&gt; option.&lt;/p&gt;
+&lt;p id="8TQZ28"&gt;The same button gives you access to the collaboration management page. From here you can approve or block collaborators, turn off collaboration for the playlist, and generate a new invite link to send out.&lt;/p&gt;
+&lt;p id="0uEmiQ"&gt;Emoji reactions are available on collaborative playlists, too: You’ll see an emoji icon up in the playback controls window at the top of the interface that you can use, or you can click inside the Reactions column (if it’s visible) in the list of tracks.&lt;/p&gt;
+&lt;p id="OY30ew"&gt;It’s worth noting that I originally had some issues getting the collaboration feature to show up in Apple Music for macOS — the collaboration button wasn’t appearing for me. In the end, I was able to fix it by &lt;a href="https://discussions.apple.com/thread/255430870?sortBy=best"&gt;following these steps&lt;/a&gt;: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="PDrg6k"&gt;Make sure you’ve created an Apple Music profile in iOS (tap your account avatar, top right, on the &lt;strong&gt;Listen Now&lt;/strong&gt; screen to check)&lt;/li&gt;
+&lt;li id="tsR7Gm"&gt;Sign out of the Apple Music app on macOS and restart the program&lt;/li&gt;
+&lt;li id="aLZnGX"&gt;Finally, sign back in.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p id="88X5Cp"&gt;And that should do it.&lt;/p&gt;
+&lt;p id="G2zmIA"&gt;&lt;/p&gt;
+&lt;p id="3lHJeE"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/24092496/apple-music-collaborate-playlists-how-to"/>
+    <id>https://www.theverge.com/24092496/apple-music-collaborate-playlists-how-to</id>
+    <author>
+      <name>David Nield</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-05T16:11:17-05:00</published>
+    <updated>2024-03-05T16:11:17-05:00</updated>
+    <title>How to create and save Chrome tab groups</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Chrome page showing The Verge, with tab groups on top, surrounded by artistic illustrations." src="https://cdn.vox-cdn.com/thumbor/833fOJe5AxNSc4C8WDZWeSydxyc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71451529/HT038_S_Haddad_Chrome_Tabs.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration by Samar Haddad / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="2xpAKU"&gt;I usually have at least half a dozen or more projects going at once: I can be writing or updating several short pieces, editing one or two others, getting ready for Apple or Google or some other company to announce their latest and greatest tech, or dealing with some other project. Each of these projects usually involves several tabs on my Chrome browser: one for the article itself; several for online sources that I need to read or link to; and perhaps also a document or spreadsheet that I’m sharing with my team. And that’s not even counting the tabs for my email accounts (work and personal), calendars (ditto), and social networking.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="7YHzjI"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"Quick fixes: restoring pages of tabs on Chrome","url":"https://www.theverge.com/23196510/chrome-tabs-restore-google-how-to"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="ifoJur"&gt;Once upon a time, I would have had to create bookmarks for all of those tabs if I wanted to keep them in any kind of order. But these days, tab grouping is what keeps me sane. It lets me keep together the tabs that belong together, hide them if I don’t need them right now, and save them so I’ll be sure to find them when I &lt;em&gt;do&lt;/em&gt; need them.&lt;/p&gt;
+&lt;p id="OqlqoM"&gt;If you also tend to collect tabs on your Chrome browser, here’s how you can use tab groups to keep things in check.&lt;/p&gt;
+&lt;h2 id="OfC7nK"&gt;How to create a tab group&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li id="DoZy2S"&gt;Choose one of the tabs that you want to include in a group — any will do — and right-click on it.&lt;/li&gt;
+&lt;li id="cTq8Rt"&gt;Select &lt;strong&gt;Add Tab to Group &amp;gt; New Group&lt;/strong&gt;.&lt;/li&gt;
+&lt;li id="9Fk36H"&gt;Type in the name of the new group, choose a color (or go with the default), and hit &lt;strong&gt;Return&lt;/strong&gt;. (Note: if you hit Return without typing in a group name, you’ll get a tab label with just the color and no text.)&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="The Verge main page with a drop-down menu showing options for tab groups" data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/L4l1z9xOexwllEFliBsz80ggCxU=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25319938/Screenshot_2024_03_05_at_3.10.25_PM.png"&gt;
+      &lt;figcaption&gt;&lt;em&gt;Just right-click on a tab, create a new group, and name it.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;ul&gt;
+&lt;li id="5PdsYc"&gt;Click and drag any tabs you want in the group toward the new label; they will now be underlined with the new color, indicating they’re part of the group. You can also click on one tab and then use Ctrl + click or Shift + click to choose multiple tabs and move them into the group. (Thanks to &lt;a href="https://www.theverge.com/23384844/chrome-google-tab-groups-create-save-how-to?commentID=6b18b2e2-eae5-4caa-b1c2-67ee153fc90d"&gt;farrellj&lt;/a&gt; in our comments section for the tip.)&lt;/li&gt;
+&lt;li id="v46DN3"&gt;You can click and drag tabs out of the group as well.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p id="QKjlco"&gt;Now, when you aren’t using those particular tabs, just click on the label, and all your tabs will collapse into the label — out of sight and out of mind. Once you need to use them again, just click on the label.&lt;/p&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Chrome browser showing The Verge and with several colored labels showing tab groups." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/bQasd4gyMpiltSs7XzLdqIsVR7Q=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24078834/tab_groups.png"&gt;
+      &lt;figcaption&gt;&lt;em&gt;Any tabs you’re not using can now be hidden under a label, making your browser a lot neater.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;h2 id="0QDZAm"&gt;Manage your tab groups&lt;/h2&gt;
+&lt;p id="ffIQuQ"&gt;There are several ways you can manage the tab groups. Start by right-clicking on the group tab and selecting an option from the drop-down menu:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="ND9pl7"&gt;Toggle &lt;strong&gt;Save Group&lt;/strong&gt; on if you want to keep the group available. (More on that below.)&lt;/li&gt;
+&lt;li id="BE3ARp"&gt;Select &lt;strong&gt;New Tab in Group&lt;/strong&gt; to create a new unused tab.&lt;/li&gt;
+&lt;li id="P7DklE"&gt;Select &lt;strong&gt;Ungroup&lt;/strong&gt; to delete the named group tab but keep the tabs it contained.&lt;/li&gt;
+&lt;li id="gg8yRu"&gt;Select &lt;strong&gt;Delete Group&lt;/strong&gt; to delete the group tab &lt;em&gt;and&lt;/em&gt; all the tabs in the group. (Note: if you’ve enabled the &lt;strong&gt;Save Group&lt;/strong&gt; toggle, this will be replaced by &lt;strong&gt;Hide Group&lt;/strong&gt;. And yes, more on that later.)&lt;/li&gt;
+&lt;li id="aVQrdQ"&gt;Select &lt;strong&gt;Move Group to New Window&lt;/strong&gt; to — well, you know.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="emMKFn"&gt;Reopen your tab group&lt;/h2&gt;
+&lt;p id="MRBaU8"&gt;If you’ve recently deleted a tab group — so that all the tabs from that group were deleted as well — and then regretted it, you can find the entire group and restore them.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="PuctEU"&gt;Click on the &lt;strong&gt;Search Tabs&lt;/strong&gt; icon. (It’s the small downward-facing arrow in the upper-right corner of the browser.) You’ll see a long list of your recently closed tabs.&lt;/li&gt;
+&lt;li id="C5lN5C"&gt;Scroll down to &lt;strong&gt;Recently Closed&lt;/strong&gt;.&lt;/li&gt;
+&lt;li id="n4Vu2d"&gt;Look for the name of the tab group; it will have a small colored dot underneath with the number of the tabs that were in the group. Click on that, and the group will be restored, along with all of its tabs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p id="SBUDs6"&gt;Incidentally, every open tab in the &lt;strong&gt;Search Tabs&lt;/strong&gt; list that belongs to a group will have an identifying colored dot next to it as well.&lt;/p&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="The Verge main page with Search Tabs drop down menu on the right." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/cS9JQkzUV0ENTZClnM1rbnC28eQ=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25319943/Screenshot_2024_03_05_at_10.48.06_AM.png"&gt;
+      &lt;figcaption&gt;&lt;em&gt;The small colored dots indicate that the tabs were part of a group; the name of the group is next to the dot.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;h2 id="f4zt4p"&gt;Save your tab group&lt;/h2&gt;
+&lt;p id="K3sUCt"&gt;If you’ve got a tab group that you’ll be using over the course of days — or longer — you will logically want to save that group in the same way that you can save a bookmark. That is what the Save Group toggle is for.&lt;/p&gt;
+&lt;p id="eSua1w"&gt;Once you’ve toggled &lt;strong&gt;Save Group&lt;/strong&gt; on, a label for that group will appear on the left side of your bookmark bar. Right-click on the label, and you’ll get a drop-down menu showing all of the tabs that are part of that group. From there, you can open a single tab; you can also move the group to a new window or delete it.&lt;/p&gt;
+&lt;p id="0Y9Fb4"&gt;(Incidentally, even if you have more than one Chrome window, all the labels will appear on each bookmark bar, even if one or more of the groups is open in a different window.)&lt;/p&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Part of a Chrome front page with four differently colored labels and a drop-down menu showing the test group." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/puN4ZorVroyhHR1cHdFZLxyZ_fM=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25319952/Screenshot_2024_03_05_at_3.22.38_PM.png"&gt;
+      &lt;figcaption&gt;&lt;em&gt;A group label without an outline indicates a “hidden” group. Right-click on any label to see what the group contains.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;h2 id="TYSiyD"&gt;Hide your group&lt;/h2&gt;
+&lt;p id="HTxiH8"&gt;As mentioned above, you will only see a &lt;strong&gt;Delete Group&lt;/strong&gt; entry in the group tab’s drop-down menu if the &lt;strong&gt;Save Group&lt;/strong&gt; toggle is off. If it is on, you will see &lt;strong&gt;Hide Group &lt;/strong&gt;instead. This is a very handy feature, especially if you want to clean up your tabs a bit. Select &lt;strong&gt;Hide Group&lt;/strong&gt;, and the tabs in that group — and the tab label — will disappear from the top of your browser. However, the group label on the left side of the bookmark bar will remain, although, unlike the other labels, it will not be outlined.&lt;/p&gt;
+&lt;p id="qVrSI4"&gt;If you want your hidden tabs back, just click on the label, and they will all reappear. If you don’t remember what was in a specific group, right-click on any of the labels, and you’ll get a list. If you only want one of the tabs back rather than the entire group, select the desired tab from that list, and it will appear with your other live tabs.&lt;/p&gt;
+&lt;h2 id="xG9cfP"&gt;Finding saved groups from closed browsers&lt;/h2&gt;
+&lt;p id="1Yf2UE"&gt;So, you can now find a saved group after you closed it in an active Chrome browser. But can you find your saved group after you’ve actually shut down your browser? &lt;/p&gt;
+&lt;p id="hPq1JV"&gt;Yes, you can — very easily.&lt;/p&gt;
+&lt;p id="DPeWWz"&gt;If you shut down your Chrome browser and then reopen it, the labels of all your saved groups will be right where you left them — on the left side of your bookmark bar. None will be open, but all you have to do is click on the ones you want to use, and the group — with its label and all of its tabs — will reappear on the top of your browser, ready for you to access.&lt;/p&gt;
+&lt;p id="Yd1ubV"&gt;&lt;em&gt;&lt;strong&gt;Update March 5th, 2024, 4:11PM ET: &lt;/strong&gt;&lt;/em&gt;&lt;em&gt;This article was originally published on October 4th, 2022, and has been updated to add info about the bookmark bar labels, the ability to save and hide tab groups, and other changes.&lt;/em&gt;&lt;/p&gt;
+&lt;p id="3qwN7S"&gt;&lt;/p&gt;
+&lt;p id="J24WHw"&gt;&lt;/p&gt;
+&lt;p id="9ZkuQf"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/23384844/chrome-google-tab-groups-create-save-how-to"/>
+    <id>https://www.theverge.com/23384844/chrome-google-tab-groups-create-save-how-to</id>
+    <author>
+      <name>Barbara Krasnoff</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-04T16:58:07-05:00</published>
+    <updated>2024-03-04T16:58:07-05:00</updated>
+    <title>How to file and pay your 2023 taxes online </title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Colorful image of the IRS logo with several small images surrounded by smartphones and financial-themed drawings." src="https://cdn.vox-cdn.com/thumbor/Uh0GGthSta5ftZGbiLUwxca0Zck=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73068318/HT017_IRS_How_To_Money.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: Samar Haddad / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="QSUmXj"&gt;The holidays are over, a new year is here, and along with all the various upheavals that we are facing, most of us have to deal with our annual income taxes. (The usual quote about death and taxes goes here.)&lt;/p&gt;
+&lt;p id="2Ea84b"&gt;While we were able to wait until April 18th in 2023, this year, tax day is back to the traditional April 15th, which is a Monday. That is, unless you live in Maine or Massachusetts — then you have until Wednesday, April 17th, because of the Patriots’ Day and Emancipation Day holidays.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="sgaenM"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"How to file for a tax extension","url":"https://www.theverge.com/22891931/taxes-file-extension-deadline-irs-how-to"},{"title":"13 states join the IRS direct-file test after tax prep firms dropped the ball","url":"https://www.theverge.com/2023/10/18/23922150/irs-direct-file-pilot-available-13-states-income-tax-2024"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="ZUmGzW"&gt;Despite the stress that many of us feel at the thought of tackling our yearly taxes, try not to worry — we’re going to list some resources that are available so that you can prepare your taxes. As always, it might not be a bad idea to start working on those taxes as soon as possible to avoid any last-minute panic. And whether you’re a full-time worker dealing with a single W-2 or a freelancer / gig worker getting a series of 1099s, the fastest way to pay the piper these days is to do it online.&lt;/p&gt;
+&lt;p id="IPN5pt"&gt;And now, in 2024, there’s a new way to file: through the IRS’s pilot of its own &lt;a href="https://www.irs.gov/about-irs/strategic-plan/direct-file"&gt;Direct File &lt;/a&gt;program. We’ll get to that in a moment. &lt;/p&gt;
+&lt;p id="DtewJZ"&gt;To begin with, the IRS offers a series of directions &lt;a href="https://www.irs.gov/"&gt;on its website&lt;/a&gt; to help US citizens figure out their taxes, report those taxes, and send in payments (or ask for refunds) using its e-file online method. Here’s a rundown of what’s available and where you can find it, starting with how to fill out your tax forms.&lt;/p&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Webpage with photo of two people looking at a computer and below that the line “How can we help you?” with various choices underneath." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/f6Top7lH_VhbJMoJfw8aZvFeuKQ=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25234868/Screenshot_2024_01_18_at_3.29.28_PM.png"&gt;
+      &lt;figcaption&gt;&lt;em&gt;Your first stop: irs.gov.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;h2 id="X1xk6y"&gt;Try the Direct File pilot program&lt;/h2&gt;
+&lt;p id="3g8h3r"&gt;As mentioned above, the IRS has developed Direct File, its own free filing software, and is &lt;a href="https://directfile.irs.gov/"&gt;running a pilot program&lt;/a&gt; for a limited number of taxpayers. You have to live in one of 12 states:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="4jpOYw"&gt;Arizona&lt;/li&gt;
+&lt;li id="381cO9"&gt;California&lt;/li&gt;
+&lt;li id="9DzYaV"&gt;Florida&lt;/li&gt;
+&lt;li id="a39PzY"&gt;Massachusetts&lt;/li&gt;
+&lt;li id="4aeaAl"&gt;Nevada&lt;/li&gt;
+&lt;li id="AqcMBq"&gt;New Hampshire&lt;/li&gt;
+&lt;li id="0kEH7n"&gt;New York&lt;/li&gt;
+&lt;li id="gHMSfo"&gt;South Dakota&lt;/li&gt;
+&lt;li id="4gNQle"&gt;Tennessee&lt;/li&gt;
+&lt;li id="87z6hx"&gt;Texas&lt;/li&gt;
+&lt;li id="2rNKIk"&gt;Washington state&lt;/li&gt;
+&lt;li id="Cb1iKT"&gt;Wyoming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p id="cfBRdl"&gt;In addition, residents of four states (Arizona, California, Massachusetts, and New York) will be able to file their state taxes as well, either with Direct File or with an associated state program.&lt;/p&gt;
+&lt;p id="7RKWMa"&gt;For now, the Direct File pilot program is limited to fairly simple tax scenarios. For example, you can’t use it if you’re self-employed or have any gig economy income, have income from a pension or retirement account distributions (although you can use it if your income is from Social Security or unemployment), itemize your deductions, want to claim a child tax credit, or make more than $200,000 — and there’s more. If you click on “Check my eligibility” &lt;a href="https://directfile.irs.gov/"&gt;on the Direct File page&lt;/a&gt;, you’ll be directed to a several-page questionnaire that will help you determine whether you can file using this program.&lt;/p&gt;
+&lt;h2 id="g3eMd7"&gt;Try the Free File program&lt;/h2&gt;
+&lt;p id="IAGjYo"&gt;If your &lt;a href="https://www.irs.gov/e-file-providers/definition-of-adjusted-gross-income"&gt;adjusted gross income&lt;/a&gt; for 2023 was $79,000 or under, you can use the &lt;a href="https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free"&gt;IRS Free File option&lt;/a&gt;. There are several of what the IRS calls “trusted partners” to choose from. When you go to IRS Free File, you are given a series of questions to see if you qualify; if you do, you are then referred to an appropriate partner.&lt;/p&gt;
+&lt;p id="cYAvbm"&gt;You may notice the absence of two prominent tax software companies: Intuit, the makers of TurboTax, and H&amp;amp;R Block. For some time, there had been some tension between the IRS and those companies. For example, in March 2022, &lt;a href="https://www.theverge.com/2022/3/29/23002219/ftc-turbo-tax-irs-free-tax-prep-software-intuit-misleading"&gt;the FTC sued Intuit&lt;/a&gt; because of what it said were deceptive claims of free tax filing, and in May of that year, &lt;a href="https://www.theverge.com/2022/5/4/23057463/intuit-141-million-agreement-new-york-attorney-general-turbotax-free"&gt;Intuit agreed to distribute a refund of $141 million&lt;/a&gt; to consumers who were tricked into paying for its free service. &lt;/p&gt;
+&lt;p id="U6GgZo"&gt;Finally, when the IRS announced its intention to develop Direct File, &lt;a href="https://freefile.intuit.com/"&gt;Intuit&lt;/a&gt; and &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.hrblock.com%2Fonline-tax-filing%2Ffree-online-tax-filing%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24032894%2Ftaxes-irs-file-2023-how-to-refund" rel="sponsored nofollow noopener" target="_blank"&gt;H&amp;amp;R Block&lt;/a&gt; pulled out of the Free File program in protest.&lt;/p&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="IRS web page with notice “Free File is Now Open” on top, a menu on the left, and VOZ DOE Guided Tax Preparation." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/w-hnqbdSxPvoxiWLMxu-ldOMX2U=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25234903/Screenshot_2024_01_18_at_3.41.06_PM.png"&gt;
+      &lt;figcaption&gt;&lt;em&gt;Free File is available for those whose income is $79,000 or less.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;h2 id="jmNUQf"&gt;Do your own taxes&lt;/h2&gt;
+&lt;p id="fC7FEJ"&gt;If your income is above $79,000, you can still use fillable forms provided by IRS Free File, but you don’t get the support of the free software, and you can’t do your state taxes through this method. (If you’re really into doing your own taxes, you may want to check out the &lt;a href="https://www.irs.gov/newsroom/irs-tax-tips"&gt;IRS page on tax tips&lt;/a&gt;.)&lt;/p&gt;
+&lt;h2 id="66xeCa"&gt;Get some help&lt;/h2&gt;
+&lt;p id="dlnklN"&gt;If you’re not a pro at filling out taxes, you’re going to either have to use e-file with one of the available software solutions or find a tax preparer who can do it for you. For those whose income is $60,000 or less, who have disabilities, or whose English is limited, the IRS has a program called the Volunteer Income Tax Assistance (VITA) program to help with tax preparation. There is also Tax Counseling for the Elderly (TCE) for people who are 60 years of age or older. Go to the &lt;a href="https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers"&gt;page describing these programs&lt;/a&gt; for more information. You can also use &lt;a href="https://irs.treasury.gov/freetaxprep/"&gt;a locator tool&lt;/a&gt; to find providers of these programs near you. There’s also the &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.aarp.org%2Fmoney%2Ftaxes%2Faarp_taxaide%2Flocations.html&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24032894%2Ftaxes-irs-file-2023-how-to-refund" rel="sponsored nofollow noopener" target="_blank"&gt;AARP Foundation Tax-Aide program&lt;/a&gt;, which is available up to April 15th and provides a variety of services, including coaching from a tax counselor.&lt;/p&gt;
+&lt;p id="yHhDuA"&gt;If you use a tax preparer, the person or company that does your taxes needs to be authorized to use e-file; if you don’t already have a tax professional, you can find one at &lt;a href="https://www.irs.gov/e-file-providers/authorized-irs-e-file-provider-locator-service-for-tax-professionals"&gt;the IRS website&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="5JFGLd"&gt;Pay your taxes online&lt;/h2&gt;
+&lt;p id="qQd1r5"&gt;If you’ve got to actually pay taxes, it’s a lot easier to do it online. The IRS lists &lt;a href="https://www.irs.gov/payments"&gt;a variety of payment methods&lt;/a&gt;. &lt;/p&gt;
+&lt;p id="d3Djfz"&gt;First, you can use &lt;a href="https://www.irs.gov/payments/direct-pay"&gt;Direct Pay&lt;/a&gt; to pay your annual taxes (using 1040 forms), quarterly estimated taxes, or a number of other types of taxes; they are listed &lt;a href="https://www.irs.gov/payments/payment-options-available-through-direct-pay"&gt;here&lt;/a&gt;. Direct Pay is for paying personal taxes. If you are paying business taxes, you can do that through the &lt;a href="https://www.irs.gov/payments/eftps-the-electronic-federal-tax-payment-system"&gt;Electronic Federal Tax Payment System (EFTPS)&lt;/a&gt;. Be aware that, according to the IRS, it can take up to five business days to process a new EFTPS enrollment.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="FTFd7k"&gt;&lt;q&gt;If you use a credit card, it could cost you up to another 1.98 percent of your payment amount &lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="BUZzQt"&gt;You can also pay &lt;a href="https://www.irs.gov/payments/pay-your-taxes-by-debit-or-credit-card"&gt;via a credit or debit card or a digital wallet such as PayPal or Click to Pay&lt;/a&gt;; however, there is a fee involved (since the IRS isn’t going to absorb what your credit card company is charging for the service). If you’re paying by debit card, it can cost anywhere from $2.14 to $2.50 or more, depending on the service you use. If you use a credit card, it could cost you up to another 1.98 percent of your payment amount — so if you can, Direct Pay is definitely the way to go.&lt;/p&gt;
+&lt;p id="jhy3tY"&gt;If you owe taxes but simply don’t have the available funds to pay them, you can &lt;a href="https://www.irs.gov/payments/online-payment-agreement-application"&gt;arrange for a payment plan&lt;/a&gt;. If you owe less than $100,000 and can manage to pay the full amount within 180 days, you can establish a short-term payment plan in which there is no setup fee (although you will have to pay penalties and interest on the owed amount). Otherwise, you could qualify for a &lt;a href="https://www.irs.gov/payments/payment-plans-installment-agreements#collapseCollapsible1701267615337"&gt;monthly payment plan&lt;/a&gt; for which you apply either online, by phone, or by mail. If you agree to a monthly debit from a checking account, it will cost an additional $31 setup fee besides penalties and interest if you apply online (or $107 if you apply by phone, by mail, or in person), although it’s possible to get a waiver for that fee &lt;a href="https://www.irs.gov/payments/payment-plans-installment-agreements#feewaiver"&gt;if you qualify&lt;/a&gt;. Any other method of payment gets expensive: the setup fee is $130 for applying online and $225 otherwise.&lt;/p&gt;
+&lt;h2 id="ugxyPN"&gt;How do I get my refund?&lt;/h2&gt;
+&lt;p id="o8jn9l"&gt;One of the ways the IRS tries to convince you to file online is to assure you that you will get your refund faster — &lt;a href="https://www.irs.gov/refunds/tax-season-refund-frequently-asked-questions"&gt;in less than 21 days&lt;/a&gt;, in most cases, although there are exceptions. (If you file via paper, it could take six months or more to process.) Once you’ve filed, you can &lt;a href="https://www.irs.gov/wheres-my-refund"&gt;check the status&lt;/a&gt; of your refund online 24 hours after you’ve filed. You can also &lt;a href="https://www.irs.gov/newsroom/irs2goapp"&gt;download the official IRS2Go&lt;/a&gt; mobile app, which allows you to check on the status of your refund, pay your taxes, and get other information.&lt;/p&gt;
+&lt;h2 id="fdc19H"&gt;What if I’m going to be late?&lt;/h2&gt;
+&lt;p id="l9GmZM"&gt;If you can’t do your taxes by the due date because of a family emergency, job pressures, or because you simply put it off for too long, you can file for an extension. We’ve got a separate article telling you how to do that &lt;a href="https://www.theverge.com/22891931/taxes-file-extension-deadline-irs-how-to"&gt;right here&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="vlUxMY"&gt;&lt;em&gt;&lt;strong&gt;Update March 4th, 2024, 4:57PM ET: &lt;/strong&gt;&lt;/em&gt;&lt;em&gt;This article was originally published on January 19th, 2024, and has been updated with information about Direct File and other tax filing resources.&lt;/em&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/24032894/taxes-irs-file-2023-how-to-refund"/>
+    <id>https://www.theverge.com/24032894/taxes-irs-file-2023-how-to-refund</id>
+    <author>
+      <name>Barbara Krasnoff</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-03-04T09:00:00-05:00</published>
+    <updated>2024-03-04T09:00:00-05:00</updated>
+    <title>How to keep your smart cam footage safe and private </title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Illustration showing a security camera encased in a lock." src="https://cdn.vox-cdn.com/thumbor/Ef5ff3B6qQJ0jZEamn5gB7f1YhI=/0x0:1750x1167/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73180824/246980_SMART_HOME_WEEK_CAMERAS_AAstorgano.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration by Adrián Astorgano&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;div id="d0X2Vn"&gt;
+&lt;script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin=""&gt;&lt;/script&gt;
+    &lt;script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin=""&gt;&lt;/script&gt;
+&lt;script src="https://unpkg.com/babel-standalone@6/babel.min.js"&gt;&lt;/script&gt;
+
+&lt;script type="text/babel"&gt;
+
+function LedeVideo(props) {
+	return (
+		&lt;div className="video-wrapper"&gt;
+			&lt;div className="video-inner"&gt;
+				&lt;video src={props.source} muted loop autoPlay playsInline poster={props.poster}&gt;&lt;/video&gt;
+			&lt;/div&gt;
+			&lt;cite className="font-polysans-mono text-12"&gt;{props.credit}&lt;/cite&gt;
+		&lt;/div&gt;
+	)
+}
+
+
+	
+	const containers = document.querySelectorAll(".w-full figure.w-full");
+        containers.forEach(container =&gt; {const root = ReactDOM.createRoot(container);
+    root.render(&lt;LedeVideo source="https://volume-assets.voxmedia.com/production/90bce6f5007b431413b637519b8f519d/246980_SMART_HOME_WEEK_CAMERAS_AAstorgano_2.mp4" poster="https://cdn.vox-cdn.com/uploads/chorus_asset/file/25312206/246980_SMART_HOME_WEEK_CAMERAS_AAstorgano.jpg" credit="Illustration by Adrián Astorgano" /&gt;)})
+	
+
+&lt;/script&gt;
+
+&lt;style&gt;
+.duet--article--lede-image.w-full {
+  position: relative;
+  padding-top: 62.5%;
+  margin-bottom: 20px;
+}
+
+.duet--article--lede-image.w-full img, .duet--article--lede-image.w-full span {
+  display: none !important;
+}
+
+.duet--article--lede-image.w-full .video-wrapper {
+  position: absolute;
+  inset: 0;
+}
+
+.duet--article--lede-image.w-full .video-inner {
+  width: 100%;
+  height: 100%;
+}
+
+.duet--article--lede-image.w-full .video-wrapper video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.w-full figure.w-full .video-wrapper cite {
+	font-style: normal;
+	color: rgb(90, 90, 90);
+}
+&lt;/style&gt;
+&lt;/div&gt;
+&lt;p id="tn90Oc"&gt;If you’re shopping around for a baby monitor, a pet camera, or a video doorbell, just a little research can make the world of network security cameras feel insecure. You don’t have to look far to find examples of companies breaking the trust of their customers. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="j28OS6"&gt;Ring, which introduced a feature that lets police ask for your footage, is the most obvious example. Even though the company says it’s &lt;a href="https://www.theverge.com/2024/1/24/24049165/ring-police-neighbors-app-clips-search-warrant"&gt;sunsetting that feature&lt;/a&gt;, &lt;a href="https://www.theverge.com/2022/7/14/23219419/amazon-ring-law-enforcement-no-warrant-no-consent"&gt;law enforcement can still request footage from the company&lt;/a&gt; in the event of “emergencies.” &lt;/li&gt;
+&lt;li id="tmpewL"&gt;Wyze had a &lt;a href="https://www.theverge.com/23003418/wyze-cam-v1-vulnerability-no-patch-bitdefender-responsible-disclosure"&gt;vulnerability it knew about for three years&lt;/a&gt; and also allowed users to &lt;a href="https://www.theverge.com/2024/2/16/24075369/wyze-security-camera-stranger-feeds-glitch"&gt;see into other people’s homes&lt;/a&gt; on &lt;a href="https://www.theverge.com/2023/9/8/23865255/wyze-security-camera-feeds-web-view-issue"&gt;two separate occasions&lt;/a&gt;, causing many of us to be done with them entirely.&lt;/li&gt;
+&lt;li id="qIBYY7"&gt;
+&lt;a href="https://www.theverge.com/23573362/anker-eufy-security-camera-answers-encryption"&gt;Eufy had its share of issues&lt;/a&gt;, only admitting that its supposedly encrypted videos were less than encrypted after being repeatedly asked by &lt;em&gt;The Verge&lt;/em&gt;. &lt;/li&gt;
+&lt;/ul&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="A security camera sites on a ledge." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/c6U6NGTv6Ql9s-7pPkSeBo6sgvI=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25289286/Wyze_Cam_v3_Pro_4.jpeg"&gt;
+      &lt;cite&gt;Image: Wyze&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;Wyze cameras and other smart cams from major companies have had vulnerabilities that could make potential users nervous.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="q7ln6B"&gt;And even if you trust that a company is going to be a good steward of your private data, you’ll likely have to pay for it. Companies like Ring and &lt;a href="https://www.theverge.com/2024/1/30/24055880/arlo-secure-security-camera-price-increase"&gt;Arlo&lt;/a&gt; often raise prices for their subscriptions and, in some cases, &lt;a href="https://www.theverge.com/2023/1/2/23536194/arlo-eol-security-cameras-pro-baby-q-gen-3-lights-doorbell"&gt;remove features you’ve already paid for&lt;/a&gt;.  &lt;/p&gt;
+&lt;p id="PrQgJK"&gt;In addition to the basic issues of security, some of the technology behind these cameras has potential drawbacks. First, relying on Wi-Fi alone can be potentially spotty and risky. Many of the cameras, particularly the outdoor ones, rely on battery technology that gives them a relatively long life on a single charge — but at the expense of not running 24/7 by default. &lt;/p&gt;
+&lt;p id="hCyWou"&gt;What’s more, AI detection varies wildly in quality and accuracy from model to model. And very few of the cameras I tested for this article could be activated and managed without downloading another tedious app. I feel very strongly that every single IP camera should be mandated by law to not require an app. You should be able to connect them to your network or put them in hotspot mode and then do the entire process via a web browser. (And if I am forced to sign up for an additional brand-only account, I am going to lose it.)&lt;/p&gt;
+&lt;p id="050IfI"&gt;So despite security cams being part of a massive industry peddling a relatively straightforward product, navigating the issues involved in safely purchasing and using one can feel like a chore. Where do you even start? &lt;/p&gt;
+&lt;p id="x4NCcH"&gt;Well, you can start by choosing safe ways to collect and store your video footage. In this article, I’m not going to talk about which camera to buy or how to install it — instead, I’m going to look at some of the more reasonable, flexible options out there that you can use to keep your video feed safe and private, from simplest to most complex.  &lt;/p&gt;
+&lt;p id="YFY8Tc"&gt;Let’s dig in.  &lt;/p&gt;
+&lt;h2 id="PyyiKy"&gt;Safe and simple: Apple’s HomeKit Secure Video &lt;/h2&gt;
+&lt;p id="fmhh56"&gt;I generally do not trust most companies with my personal data, but of the bigger companies out there, Apple tends to be the least egregious in terms of basic security for smart home applications. If you aren’t the kind of weirdo who enjoys building a server or screwing around with homelab stuff, you could do far worse than a HomePod Mini or an Apple TV as the brain that’s running your smart home, especially if you use an iPhone on a daily basis. &lt;/p&gt;
+&lt;p id="Q49FOI"&gt;One of the nice little perks of this ecosystem is &lt;a href="https://support.apple.com/guide/icloud/icloud-homekit-secure-video-mme054c72692/icloud#:~:text=With%20HomeKit%20Secure%20Video%2C%20you,%2C%20Mac%2C%20or%20Apple%20TV."&gt;HomeKit Secure Video&lt;/a&gt;, Apple’s proprietary method for streaming from cameras. HomeKit Secure Video does, however, come with some caveats. You do need to be part of the Apple ecosystem, including an iCloud subscription. It isn’t perfect and has many limitations, but if your No. 1 priority is security, then you could do far worse. And hey — it means you don’t have to download a separate app from the camera manufacturer. &lt;/p&gt;
+&lt;h2 id="tm8dD9"&gt;Stay in-camera: save to an SD card&lt;/h2&gt;
+&lt;p id="YszFB6"&gt;One nice thing about a lot of these cameras is that they allow you to save to a microSD card. MicroSD cards that hold a huge amount of data are dirt cheap now, and these cameras all run pretty efficiently. I was able to pull saved videos from most of them directly to my phone. &lt;/p&gt;
+&lt;p id="qHpkuY"&gt;One camera I tested, the &lt;a href="https://howl.me/clLWGZNIeeX"&gt;EufyCam 3C with the HomeBase 3&lt;/a&gt;, allows a thumb drive to be connected to it to offload footage of triggered events. Another, &lt;a href="https://www.tapo.com/us/product/smart-camera/tapo-c420s2/"&gt;the Tapo C420S2&lt;/a&gt;, actually comes with a little baby hub that will hold a microSD card with up to 256GB. &lt;/p&gt;
+  &lt;figure class="e-image"&gt;
+        &lt;img alt="Eufy HomeBase 3 on a table" data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/Jqs3WeigYm4Mz5kailQR3qsj4kw=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25289473/Screenshot_2024_02_16_at_11.13.05_AM.png"&gt;
+      &lt;cite&gt;Photo: Eufy&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;The HomeBase 3 from Eufy allows a thumb drive to be connected to offload video footage.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="XqH4ew"&gt;In short, for most people, keeping these devices running with a local SD card instead of opting for cloud services can be more than enough. &lt;/p&gt;
+&lt;p id="JfBZWR"&gt;Now, let’s get into the more complicated stuff.&lt;/p&gt;
+&lt;h2 id="8eLgCR"&gt;Keep it in-house: run your own NAS&lt;/h2&gt;
+&lt;p id="eENOmT"&gt;I love my NAS (Network Attached Storage) and think a lot more people should have one. If you don’t know what it is, it’s basically a baby server you shove hard drives into and attach to your router. &lt;/p&gt;
+&lt;p id="Ek4kfm"&gt;There’s tons of stuff you can do with one. You can use it to store movies, have it function as a &lt;a href="https://jellyfin.org/"&gt;Jellyfin&lt;/a&gt; (or &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.plex.tv%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24074904%2Fsmart-home-camera-security-privacy-how-to" rel="sponsored nofollow noopener" target="_blank"&gt;Plex&lt;/a&gt;, if that’s your thing) server, or stream your music and then access it anywhere. If someone I know needs a file on my server, I can just send them a link from my phone. You can also&lt;em&gt; &lt;/em&gt;use a NAS solution to record footage from your security cameras. And when it comes to encryption, it can be very secure. &lt;/p&gt;
+&lt;p id="114Jc2"&gt;While a NAS solution can be a hassle to get going, it’s less of a pain than other methods. When I was in the market, I went with &lt;a href="https://www.synology.com/en-us"&gt;Synology&lt;/a&gt;, and while it’s not the most open platform, it is one of the most robust off-the-shelf options. Synology’s security software, &lt;a href="https://www.synology.com/en-global/surveillance"&gt;Surveillance Station&lt;/a&gt;, is considered one of the better pieces of software you can get when it comes to monitoring your home. (I have also seen people recommend &lt;a href="https://blueirissoftware.com/"&gt;Blue Iris&lt;/a&gt;). &lt;a href="https://www.synology.com/en-global/compatibility/camera"&gt;Synology’s Surveillance Station&lt;/a&gt; is also compatible with a whole slew of cameras. On top of that, Synology offers cloud backups as well (&lt;a href="https://c2.synology.com/surveillance/overview"&gt;per camera, for a price&lt;/a&gt;). &lt;/p&gt;
+&lt;p id="2DlOZt"&gt;Again setting up a NAS solution is no minor task for a lot of people, but in general, Synology makes it easier than most. Alternatively, you can just buy an off-the-shelf dedicated network video recorder (NVR) — more on that in a moment. Meanwhile, in order to get my Synology NAS up and running, I first had to find some streams.&lt;/p&gt;
+&lt;h2 id="yjAka7"&gt;Add flexibility by adding a stream&lt;/h2&gt;
+&lt;p id="V3CJg1"&gt;In my opinion, the ability to have a stream makes your security system more transparent and flexible and also allows setting up an external DVR. Many cameras support common streaming protocols, the most common being RTSP and the &lt;a href="https://www.pelco.com/blog/onvif-guide"&gt;ONVIF security standard&lt;/a&gt;. In general, cameras that can do this have far more utility. You can play an &lt;a href="https://superuser.com/questions/1726365/how-to-stream-via-vlc-with-rtsp"&gt;RTSP stream in VLC media player&lt;/a&gt; (one of the best free players available), and &lt;a href="https://obsproject.com/forum/resources/obs-rtspserver.1037/"&gt;OBS can be configured to accept RTSP streams&lt;/a&gt; if you want to Twitch stream your house like it’s a reality TV show. &lt;/p&gt;
+&lt;p id="Ap3rHh"&gt;Not all cameras come with this out of the box for various reasons. Many battery-run cameras, as previously mentioned, cannot stream continuously, which rules many of them out. And many smart cameras just don’t offer the feature, although Wyze (if you still trust it) has &lt;a href="https://support.wyze.com/hc/en-us/articles/360026245231-Wyze-Cam-RTSP"&gt;offered the option to use an alternate firmware&lt;/a&gt; that lets you use an RTSP stream. In general, though, several non-battery cameras from &lt;a href="https://support.amcrest.com/hc/en-us/articles/360052688931-Accessing-Amcrest-Products-Using-RTSP"&gt;Amcrest&lt;/a&gt;, &lt;a href="https://support.reolink.com/hc/en-us/articles/900000630706-Introduction-to-RTSP/"&gt;Reolink&lt;/a&gt;, &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.tp-link.com%2Fus%2Fsupport%2Ffaq%2F2680%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24074904%2Fsmart-home-camera-security-privacy-how-to" rel="sponsored nofollow noopener" target="_blank"&gt;Tapo&lt;/a&gt;, Hikvision, and Dahua allow for this. &lt;/p&gt;
+&lt;p id="c8aTYw"&gt;Of the cameras I tested for &lt;em&gt;The Verge&lt;/em&gt;, some of the ones that allowed me easy access to an RTSP stream were the &lt;a href="https://howl.me/clLWSTFCqLg"&gt;Eufy cameras connected to the HomeBase&lt;/a&gt; and &lt;a href="https://go.skimresources.com?id=1025X1701640&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.lorex.com%2Fproducts%2Fw881aad-4k-spotlight-indoor-outdoor-wi-fi-security-camera" rel="sponsored nofollow noopener" target="_blank"&gt;a model by Lorex&lt;/a&gt;. With that stream, I was able to do a lot, like add it as a device in &lt;a href="https://obsproject.com/"&gt;OBS&lt;/a&gt;. This allowed me to &lt;a href="https://twitter.com/Papapishu/status/1757552923251208685"&gt;create something I call my “Bike Stream” setup&lt;/a&gt; in which I streamed myself watching to see if anything happened to my bike. Thankfully, nothing happened to my bike. But that’s just one of many opportunities that having ready and direct access to your technology affords you.&lt;/p&gt;
+&lt;h2 id="4eQXrZ"&gt;Configure to the max with a dedicated NVR&lt;/h2&gt;
+&lt;p id="7lVjVJ"&gt;If I am being honest, I really don’t want my NAS to run as a network video recorder. That’s a fairly intensive task, and my NAS is already busy handling other stuff (like streaming &lt;a href="https://xiph.org/flac/"&gt;FLACs&lt;/a&gt; so I can have ready access to all the DVDs I ripped). And while I am glad that I have Surveillance Station set up, I would prefer I have a piece of hardware dedicated to the task. Plus, I really wanted to see how far into the deep end I could go. &lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="J7q6MI"&gt;&lt;q&gt;I really wanted to see how far into the deep end I could go&lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="bZs6sb"&gt;For that, &lt;a href="https://www.scrypted.app/"&gt;Scrypted&lt;/a&gt; and &lt;a href="https://frigate.video/"&gt;Frigate&lt;/a&gt; are what I am interested in. Frigate is a free, open-source NVR with a fantastic Home Assistant integration that lets you really unlock the potential of what you can do with your camera system. Scrypted is an open-source plug-in and has support for &lt;a href="https://docs.scrypted.app/homekit.html"&gt;HomeKit Secure Video&lt;/a&gt;, even letting you use it for &lt;a href="https://www.reddit.com/r/HomeKit/s/s5Qcruz0MC"&gt;non-HomeKit Secure Video cameras&lt;/a&gt;. I already &lt;a href="https://www.theverge.com/23744526/smart-home-assistant-how-to-automation"&gt;had HACS (Home Assistant Community Store) running&lt;/a&gt;, so getting Scrypted up and running wasn’t too hard.&lt;/p&gt;
+&lt;p id="wq83Jk"&gt;Both pieces of software are infinitely configurable. And unlike other software like Blue Iris, you don’t pay fees to use Frigate, although you can get custom AI models with &lt;a href="https://frigate.video/plus/"&gt;Frigate Plus&lt;/a&gt; to support the development of the platform. &lt;a href="https://docs.scrypted.app/scrypted-nvr/"&gt;Scrypted NVR&lt;/a&gt; and its desktop client, on the other hand, are for paying subscribers, but there’s still a ton of stuff you can do with the software without paying. &lt;/p&gt;
+&lt;p id="clyzkI"&gt;You can run either of them on a &lt;a href="https://docs.frigate.video/frigate/hardware"&gt;Mini PC&lt;/a&gt; or a NUC with something like an Intel N100 processor. Both can also run in a &lt;a href="https://www.docker.com/resources/what-container/"&gt;Docker container&lt;/a&gt;. Both can also be paired with Google’s cheap &lt;a href="https://coral.ai/products/accelerator/"&gt;Coral accelerator&lt;/a&gt;, which has an Edge TPU on board, in either a &lt;a href="https://coral.ai"&gt;USB or M.2&lt;/a&gt; form factor, for hardware acceleration of machine learning, massively lowering the hardware load for object and facial detection.&lt;/p&gt;
+&lt;p id="WZDo90"&gt;You can also do tremendously interesting stuff with Scrypted and Frigate. For example, Frigate can use any &lt;a href="https://docs.frigate.video/configuration/cameras/"&gt;ONVIF camera with PTZ&lt;/a&gt; (pan, tilt, and zoom) to &lt;a href="https://docs.frigate.video/configuration/autotracking"&gt;automatically track objects&lt;/a&gt;, and you can use &lt;a href="https://en.wikipedia.org/wiki/OpenVINO#:~:text=OpenVINO%20was%20developed%20by%20Intel,Developer(s)"&gt;OpenVino&lt;/a&gt;, a deep &lt;a href="https://www.reddit.com/r/selfhosted/comments/17y7bbw/frigate_cctv_is_absolutely_amazing/"&gt;learning model from Intel&lt;/a&gt;. Got a camera pointed at your bird feeder? Frigate lets you do the integration “&lt;a href="https://github.com/mmcc-xx/WhosAtMyFeeder"&gt;Who’s At My Feeder?&lt;/a&gt;” to identify specific bird species, or you can try its “&lt;a href="https://docs.frigate.video/guides/parked_cars"&gt;someone is parking in my driveway&lt;/a&gt;” feature. Not to be the open-source software guy, but the actual possibilities here are extensive and truly exciting.&lt;/p&gt;
+&lt;hr class="p-entry-hr" id="K59qcn"&gt;
+&lt;div&gt;&lt;div id="dyqjvP"&gt;&lt;div data-anthem-component="aside:12254682"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;hr class="p-entry-hr" id="57K4yy"&gt;
+&lt;h2 id="P7CWMM"&gt;How deep can — or should — you go?&lt;/h2&gt;
+&lt;p id="ZfOIcM"&gt;If you are really paranoid about your devices potentially phoning home, there are a lot of ways to prevent them from doing that. You can put your cameras on a &lt;a href="https://www.youtube.com/watch?v=ApQf0CgnGfk"&gt;VLAN to isolate them&lt;/a&gt; or set your cameras to have static IP addresses and &lt;a href="https://www.youtube.com/watch?v=jIzE8rNgzV0"&gt;block them from accessing the outside world&lt;/a&gt;. This is a good practice but starts getting into deeper territory than the average person has the energy for. As with most things involving security, the question is: how deep do you really want to go? &lt;/p&gt;
+&lt;p id="YgV5Tq"&gt;The world of security cameras is confusing by design, but in an ideal world, it doesn’t have to be. I want a world where these devices are more transparent by design and more secure, with fewer apps that clutter up my homescreen. I want a device that does not phone call external servers, with encrypted video as a basic standard that lets me configure it however I want and actually have some real fun for a change.&lt;/p&gt;
+&lt;p id="dMJUP1"&gt;&lt;em&gt;&lt;strong&gt;Correction March 4th, 1:02PM ET: &lt;/strong&gt;&lt;/em&gt;&lt;em&gt;An earlier version of this story incorrectly implied Wyze let users see into other people’s homes for three years. Wyze briefly let people see into others’ homes on two occasions; the three-year vulnerability was a separate issue.&lt;/em&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/24074904/smart-home-camera-security-privacy-how-to"/>
+    <id>https://www.theverge.com/24074904/smart-home-camera-security-privacy-how-to</id>
+    <author>
+      <name>Chris Person</name>
+    </author>
+  </entry>
+</feed>
